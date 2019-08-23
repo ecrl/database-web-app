@@ -15,6 +15,14 @@
             "value": "29.3",
             "method": "IQT",
             "source": "Marquardt (2015)"
+        },
+        "boiling_point": {
+            "value": "213",
+            "source": "Chemspider"
+        },
+        "flash_point": {
+            "value": "110",
+            "source": "Co-Optima DB"
         }
     }
 }

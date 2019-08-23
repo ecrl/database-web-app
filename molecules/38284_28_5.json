@@ -1,0 +1,16 @@
+{
+    "cas": "38284-28-5",
+    "cid": 300426,
+    "iupac_name": "nonane-2,5,8-trione",
+    "canonical_smiles": "CC(=O)CCC(=O)CCC(=O)C",
+    "isomeric_smiles": "CC(=O)CCC(=O)CCC(=O)C",
+    "inchi": "1S/C9H14O3/c1-7(10)3-5-9(12)6-4-8(2)11/h3-6H2,1-2H3",
+    "inchikey": "OCLVFADSCVQCER-UHFFFAOYSA-N",
+    "molecular_formula": "C9H14O3",
+    "properties": {
+        "melting_point": {
+            "value": "59.5",
+            "source": "Scifinder"
+        }
+    }
+}

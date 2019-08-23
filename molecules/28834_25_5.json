@@ -1,0 +1,16 @@
+{
+    "cas": "28834-25-5",
+    "cid": 1268142,
+    "iupac_name": "(4R,4aS,6R)-4,4a-dimethyl-6-prop-1-en-2-yl-3,4,5,6,7,8-hexahydronaphthalen-2-one",
+    "canonical_smiles": "CC1CC(=O)C=C2C1(CC(CC2)C(=C)C)C",
+    "isomeric_smiles": "C[C@@H]1CC(=O)C=C2[C@]1(C[C@@H](CC2)C(=C)C)C",
+    "inchi": "1S/C15H22O/c1-10(2)12-5-6-13-8-14(16)7-11(3)15(13,4)9-12/h8,11-12H,1,5-7,9H2,2-4H3/t11-,12-,15+/m1/s1",
+    "inchikey": "WTOYNNBCKUYIKC-JMSVASOKSA-N",
+    "molecular_formula": "C15H22O",
+    "properties": {
+        "flash_point": {
+            "value": "100",
+            "source": "Co-Optima DB"
+        }
+    }
+}

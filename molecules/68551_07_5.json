@@ -15,6 +15,14 @@
             "value": "63.6",
             "method": "CFR",
             "source": "NREL (2014)"
+        },
+        "boiling_point": {
+            "value": "259",
+            "source": "Scifinder"
+        },
+        "melting_point": {
+            "value": "24",
+            "source": "Scifinder"
         }
     }
 }

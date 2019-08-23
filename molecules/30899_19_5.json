@@ -22,6 +22,22 @@
         },
         "kinematic_viscosity": {
             "value": "3.0666"
+        },
+        "boiling_point": {
+            "value": "137.5",
+            "source": "The Merck Index"
+        },
+        "flash_point": {
+            "value": "33",
+            "source": "Co-Optima DB"
+        },
+        "heat_of_vaporization": {
+            "value": "44.83",
+            "source": "Pubchem"
+        },
+        "melting_point": {
+            "value": "-79",
+            "source": "The Merck Index"
         }
     }
 }

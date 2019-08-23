@@ -30,6 +30,22 @@
         },
         "kinematic_viscosity": {
             "value": "3.3928"
+        },
+        "autoignition_temp": {
+            "value": "385",
+            "source": "Co-Optima DB"
+        },
+        "boiling_point": {
+            "value": "128",
+            "source": "Scifinder"
+        },
+        "flash_point": {
+            "value": "44",
+            "source": "Co-Optima DB"
+        },
+        "heat_of_vaporization": {
+            "value": "54.1",
+            "source": "Chickos and Acree, 2003. Enthalpies of Vaporization of Organic and Organometallic Compounds"
         }
     }
 }

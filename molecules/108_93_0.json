@@ -19,6 +19,26 @@
         },
         "ysi_unified": {
             "value": "42.3"
+        },
+        "autoignition_temp": {
+            "value": "300",
+            "source": "Co-Optima DB"
+        },
+        "boiling_point": {
+            "value": "161.08",
+            "source": "Scifinder"
+        },
+        "flash_point": {
+            "value": "68",
+            "source": "Co-Optima DB"
+        },
+        "heat_of_vaporization": {
+            "value": "62.01",
+            "source": "Pub Chem"
+        },
+        "melting_point": {
+            "value": "25.4",
+            "source": "Scifinder"
         }
     }
 }

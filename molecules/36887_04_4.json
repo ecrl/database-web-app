@@ -1,0 +1,16 @@
+{
+    "cas": "36887-04-4",
+    "cid": 92822,
+    "iupac_name": "3-methoxypropane-1,2-diol",
+    "canonical_smiles": "COCC(CO)O",
+    "isomeric_smiles": "COCC(CO)O",
+    "inchi": "1S/C4H10O3/c1-7-3-4(6)2-5/h4-6H,2-3H2,1H3",
+    "inchikey": "PSJBSUHYCGQTHZ-UHFFFAOYSA-N",
+    "molecular_formula": "C4H10O3",
+    "properties": {
+        "flash_point": {
+            "value": "113",
+            "source": "Co-Optima DB"
+        }
+    }
+}

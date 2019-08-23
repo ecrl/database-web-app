@@ -19,6 +19,10 @@
         "octane_sensitivity": {
             "value": "19.5",
             "source": ""
+        },
+        "flash_point": {
+            "value": "43",
+            "source": "Co-Optima DB"
         }
     },
     "compound_groups": []

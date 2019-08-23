@@ -1,0 +1,20 @@
+{
+    "cas": "34957-72-7",
+    "cid": 97792,
+    "iupac_name": "[5-(hydroxymethyl)oxolan-2-yl]methanol",
+    "canonical_smiles": "C1CC(OC1CO)CO",
+    "isomeric_smiles": "C1CC(OC1CO)CO",
+    "inchi": "1S/C6H12O3/c7-3-5-1-2-6(4-8)9-5/h5-8H,1-4H2",
+    "inchikey": "YCZZQSFWHFBKMU-UHFFFAOYSA-N",
+    "molecular_formula": "C6H12O3",
+    "properties": {
+        "boiling_point": {
+            "value": "265",
+            "source": "Scifinder"
+        },
+        "melting_point": {
+            "value": "-50",
+            "source": "Scifinder"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "cas": "65452-01-9",
+    "cid": 14266,
+    "iupac_name": "2-methylcyclopent-2-en-1-one",
+    "canonical_smiles": "CC1=CCCC1=O",
+    "isomeric_smiles": "CC1=CCCC1=O",
+    "inchi": "1S/C6H8O/c1-5-3-2-4-6(5)7/h3H,2,4H2,1H3",
+    "inchikey": "ZSBWUNDRDHVNJL-UHFFFAOYSA-N",
+    "molecular_formula": "C6H8O",
+    "properties": {
+        "boiling_point": {
+            "value": "157",
+            "source": "Scifinder"
+        },
+        "flash_point": {
+            "value": "49",
+            "source": "Co-Optima DB"
+        }
+    }
+}

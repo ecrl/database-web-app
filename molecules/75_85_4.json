@@ -22,6 +22,26 @@
         },
         "kinematic_viscosity": {
             "value": "2.7205"
+        },
+        "autoignition_temp": {
+            "value": "819",
+            "source": "Co-Optima DB"
+        },
+        "boiling_point": {
+            "value": "102.4",
+            "source": "CRC Handbook"
+        },
+        "flash_point": {
+            "value": "67",
+            "source": "Co-Optima DB"
+        },
+        "heat_of_vaporization": {
+            "value": "40.11",
+            "source": "Pubchem"
+        },
+        "melting_point": {
+            "value": "-9.1",
+            "source": "CRC Handbook"
         }
     }
 }

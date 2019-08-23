@@ -1,0 +1,16 @@
+{
+    "cas": "63814-74-4",
+    "cid": 11264,
+    "iupac_name": "2-methylpentan-3-ol",
+    "canonical_smiles": "CCC(C(C)C)O",
+    "isomeric_smiles": "CCC(C(C)C)O",
+    "inchi": "1S/C6H14O/c1-4-6(7)5(2)3/h5-7H,4H2,1-3H3",
+    "inchikey": "ISTJMQSHILQAEC-UHFFFAOYSA-N",
+    "molecular_formula": "C6H14O",
+    "properties": {
+        "flash_point": {
+            "value": "46",
+            "source": "Co-Optima DB"
+        }
+    }
+}

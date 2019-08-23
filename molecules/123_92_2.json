@@ -25,6 +25,26 @@
         "octane_sensitivity": {
             "value": "3.4",
             "source": "[11]"
+        },
+        "autoignition_temp": {
+            "value": "360",
+            "source": "Co-Optima DB"
+        },
+        "boiling_point": {
+            "value": "142",
+            "source": "Alfa Aesar"
+        },
+        "flash_point": {
+            "value": "25",
+            "source": "Co-Optima DB"
+        },
+        "heat_of_vaporization": {
+            "value": "46.4",
+            "source": "Chickos and Acree, 2003. Enthalpies of Vaporization of Organic and Organometallic Compounds"
+        },
+        "melting_point": {
+            "value": "-78",
+            "source": "Alfa Aesar"
         }
     }
 }

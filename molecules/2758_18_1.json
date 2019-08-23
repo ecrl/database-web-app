@@ -1,0 +1,16 @@
+{
+    "cas": "2758-18-1",
+    "cid": 17691,
+    "iupac_name": "3-methylcyclopent-2-en-1-one",
+    "canonical_smiles": "CC1=CC(=O)CC1",
+    "isomeric_smiles": "CC1=CC(=O)CC1",
+    "inchi": "1S/C6H8O/c1-5-2-3-6(7)4-5/h4H,2-3H2,1H3",
+    "inchikey": "CHCCBPDEADMNCI-UHFFFAOYSA-N",
+    "molecular_formula": "C6H8O",
+    "properties": {
+        "flash_point": {
+            "value": "65",
+            "source": "Co-Optima DB"
+        }
+    }
+}

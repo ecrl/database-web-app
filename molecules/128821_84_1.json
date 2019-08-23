@@ -21,6 +21,22 @@
         },
         "pour_point": {
             "value": "-43"
+        },
+        "autoignition_temp": {
+            "value": "270",
+            "source": "Co-Optima DB"
+        },
+        "boiling_point": {
+            "value": "184.3",
+            "source": "Scifinder"
+        },
+        "flash_point": {
+            "value": "73",
+            "source": "Co-Optima DB"
+        },
+        "melting_point": {
+            "value": "-76",
+            "source": "Scifinder"
         }
     }
 }

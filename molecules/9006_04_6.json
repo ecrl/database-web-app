@@ -27,6 +27,26 @@
         "octane_sensitivity": {
             "value": "18.05",
             "source": "[1]"
+        },
+        "autoignition_temp": {
+            "value": "220",
+            "source": "Co-Optima DB"
+        },
+        "boiling_point": {
+            "value": "34.067",
+            "source": "Scifinder"
+        },
+        "flash_point": {
+            "value": "-54",
+            "source": "Co-Optima DB"
+        },
+        "heat_of_vaporization": {
+            "value": "28.9",
+            "source": "Pub Chem"
+        },
+        "melting_point": {
+            "value": "-145.95",
+            "source": "Scifinder"
         }
     }
 }

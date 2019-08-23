@@ -22,6 +22,14 @@
         },
         "kinematic_viscosity": {
             "value": "0.2792"
+        },
+        "boiling_point": {
+            "value": ".8",
+            "source": "Scifinder"
+        },
+        "melting_point": {
+            "value": "-105.5",
+            "source": "Scifinder"
         }
     },
     "compound_groups": [

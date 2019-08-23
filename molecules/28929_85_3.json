@@ -18,6 +18,14 @@
         },
         "ysi_unified": {
             "value": "39.4"
+        },
+        "boiling_point": {
+            "value": "159",
+            "source": "Scifinder"
+        },
+        "flash_point": {
+            "value": "60",
+            "source": "Co-Optima DB"
         }
     }
 }

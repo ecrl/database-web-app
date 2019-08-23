@@ -1,0 +1,20 @@
+{
+    "cas": "14979-39-6",
+    "cid": 26989,
+    "iupac_name": "4-methylheptan-3-ol",
+    "canonical_smiles": "CCCC(C)C(CC)O",
+    "isomeric_smiles": "CCCC(C)C(CC)O",
+    "inchi": "1S/C8H18O/c1-4-6-7(3)8(9)5-2/h7-9H,4-6H2,1-3H3",
+    "inchikey": "BKQICAFAUMRYLZ-UHFFFAOYSA-N",
+    "molecular_formula": "C8H18O",
+    "properties": {
+        "flash_point": {
+            "value": "54",
+            "source": "Co-Optima DB"
+        },
+        "melting_point": {
+            "value": "-123",
+            "source": "Scifinder"
+        }
+    }
+}

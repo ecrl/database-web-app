@@ -15,6 +15,18 @@
             "value": "67",
             "method": "CFR",
             "source": "NREL (2014)"
+        },
+        "boiling_point": {
+            "value": "295",
+            "source": "Scifinder"
+        },
+        "flash_point": {
+            "value": "135",
+            "source": "Co-Optima DB"
+        },
+        "melting_point": {
+            "value": "12.3",
+            "source": "Scifinder"
         }
     }
 }

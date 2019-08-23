@@ -15,6 +15,10 @@
             "value": "68",
             "method": "Other Ignition Delay Method",
             "source": "NREL (2014)"
+        },
+        "boiling_point": {
+            "value": "334",
+            "source": "Scifinder"
         }
     }
 }

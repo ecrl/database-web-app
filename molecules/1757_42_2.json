@@ -1,0 +1,16 @@
+{
+    "cas": "1757-42-2",
+    "cid": 15650,
+    "iupac_name": "3-methylcyclopentan-1-one",
+    "canonical_smiles": "CC1CCC(=O)C1",
+    "isomeric_smiles": "CC1CCC(=O)C1",
+    "inchi": "1S/C6H10O/c1-5-2-3-6(7)4-5/h5H,2-4H2,1H3",
+    "inchikey": "AOKRXIIIYJGNNU-UHFFFAOYSA-N",
+    "molecular_formula": "C6H10O",
+    "properties": {
+        "flash_point": {
+            "value": "34",
+            "source": "Co-Optima DB"
+        }
+    }
+}

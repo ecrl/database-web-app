@@ -35,6 +35,18 @@
         },
         "kinematic_viscosity": {
             "value": "1.001"
+        },
+        "boiling_point": {
+            "value": "156.7",
+            "source": "Scifinder"
+        },
+        "flash_point": {
+            "value": "35",
+            "source": "Co-Optima DB"
+        },
+        "melting_point": {
+            "value": "-94.9",
+            "source": "Scifinder"
         }
     }
 }

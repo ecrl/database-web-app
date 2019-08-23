@@ -20,6 +20,26 @@
         },
         "kinematic_viscosity": {
             "value": "1.1596"
+        },
+        "autoignition_temp": {
+            "value": "315",
+            "source": "Co-Optima DB"
+        },
+        "boiling_point": {
+            "value": "162",
+            "source": "Chemspider"
+        },
+        "flash_point": {
+            "value": "60",
+            "source": "Co-Optima DB"
+        },
+        "heat_of_vaporization": {
+            "value": "38.6",
+            "source": "Pub Chem"
+        },
+        "melting_point": {
+            "value": "-38.7",
+            "source": "Scifinder"
         }
     }
 }

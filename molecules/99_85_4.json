@@ -16,6 +16,18 @@
             "value": "20.3",
             "method": "IQT",
             "source": "Marquardt (2015)"
+        },
+        "boiling_point": {
+            "value": "183",
+            "source": "Scifinder"
+        },
+        "flash_point": {
+            "value": "50",
+            "source": "Co-Optima DB"
+        },
+        "melting_point": {
+            "value": "-10",
+            "source": "Scifinder"
         }
     }
 }

@@ -1,0 +1,16 @@
+{
+    "cas": "4431-82-7",
+    "cid": 138239,
+    "iupac_name": "ethoxymethoxymethoxymethoxyethane",
+    "canonical_smiles": "CCOCOCOCOCC",
+    "isomeric_smiles": "CCOCOCOCOCC",
+    "inchi": "1S/C7H16O4/c1-3-8-5-10-7-11-6-9-4-2/h3-7H2,1-2H3",
+    "inchikey": "BCJWVBNBMCOBEX-UHFFFAOYSA-N",
+    "molecular_formula": "C7H16O4",
+    "properties": {
+        "flash_point": {
+            "value": "68",
+            "source": "Co-Optima DB"
+        }
+    }
+}

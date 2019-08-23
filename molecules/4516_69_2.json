@@ -19,6 +19,10 @@
         "octane_sensitivity": {
             "value": "-1.8",
             "source": "[9]"
+        },
+        "boiling_point": {
+            "value": "104.9",
+            "source": "scifinder"
         }
     },
     "compound_groups": []

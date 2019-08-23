@@ -1,0 +1,20 @@
+{
+    "cas": "3387-41-5",
+    "cid": 18818,
+    "iupac_name": "4-methylidene-1-propan-2-ylbicyclo[3.1.0]hexane",
+    "canonical_smiles": "CC(C)C12CCC(=C)C1C2",
+    "isomeric_smiles": "CC(C)C12CCC(=C)C1C2",
+    "inchi": "1S/C10H16/c1-7(2)10-5-4-8(3)9(10)6-10/h7,9H,3-6H2,1-2H3",
+    "inchikey": "NDVASEGYNIMXJL-UHFFFAOYSA-N",
+    "molecular_formula": "C10H16",
+    "properties": {
+        "boiling_point": {
+            "value": "164",
+            "source": "Scifinder"
+        },
+        "flash_point": {
+            "value": "37",
+            "source": "Co-Optima DB"
+        }
+    }
+}

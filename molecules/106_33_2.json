@@ -15,6 +15,14 @@
             "value": "73",
             "method": "Unknown",
             "source": "BioCompoundML (2016)"
+        },
+        "boiling_point": {
+            "value": "271",
+            "source": "Scifinder"
+        },
+        "flash_point": {
+            "value": "113",
+            "source": "Co-Optima DB"
         }
     }
 }

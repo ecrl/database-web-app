@@ -13,6 +13,22 @@
     "properties": {
         "kinematic_viscosity": {
             "value": "1.719"
+        },
+        "autoignition_temp": {
+            "value": "400",
+            "source": "Co-Optima DB"
+        },
+        "boiling_point": {
+            "value": "186.5",
+            "source": "Scifinder"
+        },
+        "flash_point": {
+            "value": "96",
+            "source": "Co-Optima DB"
+        },
+        "melting_point": {
+            "value": "-34.5",
+            "source": "Scifinder"
         }
     }
 }

@@ -16,6 +16,14 @@
             "value": "26",
             "method": "Unknown",
             "source": "McCormick (2015)"
+        },
+        "boiling_point": {
+            "value": "261",
+            "source": "Scifinder"
+        },
+        "flash_point": {
+            "value": "140",
+            "source": "Co-Optima DB"
         }
     }
 }

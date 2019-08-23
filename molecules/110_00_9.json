@@ -28,6 +28,22 @@
         "octane_sensitivity": {
             "value": "16.1",
             "source": "[1]"
+        },
+        "boiling_point": {
+            "value": "31.36",
+            "source": "Scifinder"
+        },
+        "flash_point": {
+            "value": "-35",
+            "source": "Co-Optima DB"
+        },
+        "heat_of_vaporization": {
+            "value": "26.88",
+            "source": "Pub Chem, 95.5 cal/g converted to kJ/mol"
+        },
+        "melting_point": {
+            "value": "-85.6",
+            "source": "Scifinder"
         }
     }
 }

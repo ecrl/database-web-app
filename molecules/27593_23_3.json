@@ -1,0 +1,16 @@
+{
+    "cas": "27593-23-3",
+    "cid": 33960,
+    "iupac_name": "6-pentylpyran-2-one",
+    "canonical_smiles": "CCCCCC1=CC=CC(=O)O1",
+    "isomeric_smiles": "CCCCCC1=CC=CC(=O)O1",
+    "inchi": "1S/C10H14O2/c1-2-3-4-6-9-7-5-8-10(11)12-9/h5,7-8H,2-4,6H2,1H3",
+    "inchikey": "MAUFTTLGOUBZNA-UHFFFAOYSA-N",
+    "molecular_formula": "C10H14O2",
+    "properties": {
+        "flash_point": {
+            "value": "113",
+            "source": "Co-Optima DB"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "cas": "480-41-1",
+    "cid": 439246,
+    "iupac_name": "(2S)-5,7-dihydroxy-2-(4-hydroxyphenyl)-2,3-dihydrochromen-4-one",
+    "canonical_smiles": "C1C(OC2=CC(=CC(=C2C1=O)O)O)C3=CC=C(C=C3)O",
+    "isomeric_smiles": "C1[C@H](OC2=CC(=CC(=C2C1=O)O)O)C3=CC=C(C=C3)O",
+    "inchi": "1S/C15H12O5/c16-9-3-1-8(2-4-9)13-7-12(19)15-11(18)5-10(17)6-14(15)20-13/h1-6,13,16-18H,7H2/t13-/m0/s1",
+    "inchikey": "FTVWIRXFELQLPI-ZDUSSCGKSA-N",
+    "molecular_formula": "C15H12O5",
+    "properties": {
+        "melting_point": {
+            "value": "251",
+            "source": "Scifinder"
+        }
+    }
+}

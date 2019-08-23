@@ -1,0 +1,20 @@
+{
+    "cas": "620-02-0",
+    "cid": 12097,
+    "iupac_name": "5-methylfuran-2-carbaldehyde",
+    "canonical_smiles": "CC1=CC=C(O1)C=O",
+    "isomeric_smiles": "CC1=CC=C(O1)C=O",
+    "inchi": "1S/C6H6O2/c1-5-2-3-6(4-7)8-5/h2-4H,1H3",
+    "inchikey": "OUDFNZMQXZILJD-UHFFFAOYSA-N",
+    "molecular_formula": "C6H6O2",
+    "properties": {
+        "boiling_point": {
+            "value": "187",
+            "source": "Scifinder"
+        },
+        "flash_point": {
+            "value": "72",
+            "source": "Co-Optima DB"
+        }
+    }
+}

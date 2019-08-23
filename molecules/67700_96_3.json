@@ -18,6 +18,22 @@
         },
         "ysi_unified": {
             "value": "41.1"
+        },
+        "autoignition_temp": {
+            "value": "253",
+            "source": "Co-Optima DB"
+        },
+        "boiling_point": {
+            "value": "194",
+            "source": "The Merck Index"
+        },
+        "flash_point": {
+            "value": "81",
+            "source": "Co-Optima DB"
+        },
+        "heat_of_vaporization": {
+            "value": "70.98",
+            "source": "Pub Chem"
         }
     }
 }

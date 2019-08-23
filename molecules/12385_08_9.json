@@ -1,0 +1,28 @@
+{
+    "cas": "12385-08-9",
+    "cid": 289,
+    "iupac_name": "benzene-1,2-diol",
+    "canonical_smiles": "C1=CC=C(C(=C1)O)O",
+    "isomeric_smiles": "C1=CC=C(C(=C1)O)O",
+    "inchi": "1S/C6H6O2/c7-5-3-1-2-4-6(5)8/h1-4,7-8H",
+    "inchikey": "YCIMNLLNPGFGHC-UHFFFAOYSA-N",
+    "molecular_formula": "C6H6O2",
+    "properties": {
+        "autoignition_temp": {
+            "value": "510",
+            "source": "Co-Optima DB"
+        },
+        "boiling_point": {
+            "value": "245.5",
+            "source": "Scifinder"
+        },
+        "flash_point": {
+            "value": "127",
+            "source": "Co-Optima DB"
+        },
+        "melting_point": {
+            "value": "105",
+            "source": "Scifinder"
+        }
+    }
+}

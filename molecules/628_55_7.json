@@ -15,6 +15,10 @@
             "value": "59.7",
             "method": "IQT",
             "source": "Marquardt (2015)"
+        },
+        "boiling_point": {
+            "value": "123",
+            "source": "Scifinder"
         }
     }
 }

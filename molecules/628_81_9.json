@@ -1,0 +1,16 @@
+{
+    "cas": "628-81-9",
+    "cid": 12355,
+    "iupac_name": "1-ethoxybutane",
+    "canonical_smiles": "CCCCOCC",
+    "isomeric_smiles": "CCCCOCC",
+    "inchi": "1S/C6H14O/c1-3-5-6-7-4-2/h3-6H2,1-2H3",
+    "inchikey": "PZHIWRCQKBBTOW-UHFFFAOYSA-N",
+    "molecular_formula": "C6H14O",
+    "properties": {
+        "flash_point": {
+            "value": "-6",
+            "source": "Co-Optima DB"
+        }
+    }
+}

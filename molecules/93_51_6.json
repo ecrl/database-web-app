@@ -16,6 +16,18 @@
             "value": "19.8",
             "method": "IQT",
             "source": "NREL (2014)"
+        },
+        "boiling_point": {
+            "value": "221",
+            "source": "Scifinder"
+        },
+        "flash_point": {
+            "value": "99",
+            "source": "Co-Optima DB"
+        },
+        "melting_point": {
+            "value": "5.5",
+            "source": "Scifinder"
         }
     }
 }

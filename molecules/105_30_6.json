@@ -13,6 +13,14 @@
     "properties": {
         "ysi_unified": {
             "value": "35.8"
+        },
+        "boiling_point": {
+            "value": "148.0",
+            "source": "Scifinder"
+        },
+        "flash_point": {
+            "value": "53",
+            "source": "Co-Optima DB"
         }
     }
 }

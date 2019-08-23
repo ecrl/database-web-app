@@ -1,0 +1,20 @@
+{
+    "cas": "1883-75-6",
+    "cid": 74663,
+    "iupac_name": "[5-(hydroxymethyl)furan-2-yl]methanol",
+    "canonical_smiles": "C1=C(OC(=C1)CO)CO",
+    "isomeric_smiles": "C1=C(OC(=C1)CO)CO",
+    "inchi": "1S/C6H8O3/c7-3-5-1-2-6(4-8)9-5/h1-2,7-8H,3-4H2",
+    "inchikey": "DSLRVRBSNLHVBH-UHFFFAOYSA-N",
+    "molecular_formula": "C6H8O3",
+    "properties": {
+        "boiling_point": {
+            "value": "275.4",
+            "source": "Chemspider"
+        },
+        "melting_point": {
+            "value": "75",
+            "source": "Chemspider"
+        }
+    }
+}

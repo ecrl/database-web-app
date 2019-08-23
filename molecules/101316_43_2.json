@@ -34,6 +34,18 @@
         },
         "kinematic_viscosity": {
             "value": "0.7376"
+        },
+        "autoignition_temp": {
+            "value": "420",
+            "source": "Co-Optima DB"
+        },
+        "boiling_point": {
+            "value": "152.4",
+            "source": "CRC Handbook"
+        },
+        "flash_point": {
+            "value": "39",
+            "source": "Co-Optima DB"
         }
     }
 }

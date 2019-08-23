@@ -15,6 +15,10 @@
             "value": "28.2",
             "method": "Unknown",
             "source": "BioCompoundML (2016)"
+        },
+        "flash_point": {
+            "value": "81",
+            "source": "Co-Optima DB"
         }
     }
 }

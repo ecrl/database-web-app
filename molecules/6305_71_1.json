@@ -1,0 +1,16 @@
+{
+    "cas": "6305-71-1",
+    "cid": 22749,
+    "iupac_name": "2,4-dimethylpentan-1-ol",
+    "canonical_smiles": "CC(C)CC(C)CO",
+    "isomeric_smiles": "CC(C)CC(C)CO",
+    "inchi": "1S/C7H16O/c1-6(2)4-7(3)5-8/h6-8H,4-5H2,1-3H3",
+    "inchikey": "OVOVDHYEOQJKMD-UHFFFAOYSA-N",
+    "molecular_formula": "C7H16O",
+    "properties": {
+        "boiling_point": {
+            "value": "157",
+            "source": "Scifinder"
+        }
+    }
+}

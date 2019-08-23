@@ -16,6 +16,10 @@
             "value": "56",
             "method": "CFR",
             "source": "NREL (2014)"
+        },
+        "melting_point": {
+            "value": "-19.9",
+            "source": "Scifinder"
         }
     }
 }

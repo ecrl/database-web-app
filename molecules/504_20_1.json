@@ -1,0 +1,16 @@
+{
+    "cas": "504-20-1",
+    "cid": 10438,
+    "iupac_name": "2,6-dimethylhepta-2,5-dien-4-one",
+    "canonical_smiles": "CC(=CC(=O)C=C(C)C)C",
+    "isomeric_smiles": "CC(=CC(=O)C=C(C)C)C",
+    "inchi": "1S/C9H14O/c1-7(2)5-9(10)6-8(3)4/h5-6H,1-4H3",
+    "inchikey": "MTZWHHIREPJPTG-UHFFFAOYSA-N",
+    "molecular_formula": "C9H14O",
+    "properties": {
+        "flash_point": {
+            "value": "85",
+            "source": "Co-Optima DB"
+        }
+    }
+}

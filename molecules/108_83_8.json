@@ -13,6 +13,22 @@
     "properties": {
         "ysi_unified": {
             "value": "55.8"
+        },
+        "boiling_point": {
+            "value": "168",
+            "source": "Scifinder"
+        },
+        "flash_point": {
+            "value": "47",
+            "source": "Co-Optima DB"
+        },
+        "heat_of_vaporization": {
+            "value": "39.89",
+            "source": "Pub Chem"
+        },
+        "melting_point": {
+            "value": "-41.5",
+            "source": "Scifinder"
         }
     }
 }

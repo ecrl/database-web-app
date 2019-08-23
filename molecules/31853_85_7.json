@@ -1,0 +1,24 @@
+{
+    "cas": "31853-85-7",
+    "cid": 332,
+    "iupac_name": "4-ethenyl-2-methoxyphenol",
+    "canonical_smiles": "COC1=C(C=CC(=C1)C=C)O",
+    "isomeric_smiles": "COC1=C(C=CC(=C1)C=C)O",
+    "inchi": "1S/C9H10O2/c1-3-7-4-5-8(10)9(6-7)11-2/h3-6,10H,1H2,2H3",
+    "inchikey": "YOMSJEATGXXYPX-UHFFFAOYSA-N",
+    "molecular_formula": "C9H10O2",
+    "properties": {
+        "boiling_point": {
+            "value": "224",
+            "source": "Chemspider"
+        },
+        "flash_point": {
+            "value": "113",
+            "source": "Co-Optima DB"
+        },
+        "melting_point": {
+            "value": "29",
+            "source": "Chemspider"
+        }
+    }
+}

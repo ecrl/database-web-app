@@ -30,6 +30,22 @@
         "octane_sensitivity": {
             "value": "6.9",
             "source": ""
+        },
+        "boiling_point": {
+            "value": "101.9",
+            "source": "Scifinder"
+        },
+        "flash_point": {
+            "value": "7",
+            "source": "Co-Optima DB"
+        },
+        "heat_of_vaporization": {
+            "value": "38.6",
+            "source": "Chickos and Acree, 2003. Enthalpies of Vaporization of Organic and Organometallic Compounds"
+        },
+        "melting_point": {
+            "value": "-39",
+            "source": "Scifinder"
         }
     }
 }

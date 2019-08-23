@@ -14,6 +14,10 @@
     "properties": {
         "kinematic_viscosity": {
             "value": "0.2557"
+        },
+        "melting_point": {
+            "value": "-140.4",
+            "source": "Scifinder"
         }
     }
 }

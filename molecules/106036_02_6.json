@@ -1,0 +1,16 @@
+{
+    "cas": "106036-02-6",
+    "cid": 17000,
+    "iupac_name": "2,2,6-trimethylcyclohexan-1-one",
+    "canonical_smiles": "CC1CCCC(C1=O)(C)C",
+    "isomeric_smiles": "CC1CCCC(C1=O)(C)C",
+    "inchi": "1S/C9H16O/c1-7-5-4-6-9(2,3)8(7)10/h7H,4-6H2,1-3H3",
+    "inchikey": "ZPVOLGVTNLDBFI-UHFFFAOYSA-N",
+    "molecular_formula": "C9H16O",
+    "properties": {
+        "boiling_point": {
+            "value": "178.5",
+            "source": "Scifinder"
+        }
+    }
+}

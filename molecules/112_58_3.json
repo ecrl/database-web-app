@@ -1,0 +1,16 @@
+{
+    "cas": "112-58-3",
+    "cid": 8198,
+    "iupac_name": "1-hexoxyhexane",
+    "canonical_smiles": "CCCCCCOCCCCCC",
+    "isomeric_smiles": "CCCCCCOCCCCCC",
+    "inchi": "1S/C12H26O/c1-3-5-7-9-11-13-12-10-8-6-4-2/h3-12H2,1-2H3",
+    "inchikey": "BPIUIOXAFBGMNB-UHFFFAOYSA-N",
+    "molecular_formula": "C12H26O",
+    "properties": {
+        "flash_point": {
+            "value": "78",
+            "source": "Co-Optima DB"
+        }
+    }
+}

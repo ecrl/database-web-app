@@ -34,6 +34,10 @@
         },
         "kinematic_viscosity": {
             "value": "0.5942"
+        },
+        "flash_point": {
+            "value": "11",
+            "source": "Co-Optima DB"
         }
     }
 }

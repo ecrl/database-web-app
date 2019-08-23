@@ -15,6 +15,10 @@
             "value": "43",
             "method": "IQT",
             "source": "NREL (2014)"
+        },
+        "boiling_point": {
+            "value": "187.5",
+            "source": "Scifinder"
         }
     }
 }

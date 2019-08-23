@@ -1,0 +1,16 @@
+{
+    "cas": "475-20-7",
+    "cid": 1796220,
+    "iupac_name": "(1R,2S,7S,9S)-3,3,7-trimethyl-8-methylidenetricyclo[5.4.0.02,9]undecane",
+    "canonical_smiles": "CC1(CCCC2(C3C1C(C2=C)CC3)C)C",
+    "isomeric_smiles": "C[C@]12CCCC([C@@H]3[C@H]1CC[C@@H]3C2=C)(C)C",
+    "inchi": "1S/C15H24/c1-10-11-6-7-12-13(11)14(2,3)8-5-9-15(10,12)4/h11-13H,1,5-9H2,2-4H3/t11-,12-,13+,15-/m1/s1",
+    "inchikey": "PDSNLYSELAIEBU-GUIRCDHDSA-N",
+    "molecular_formula": "C15H24",
+    "properties": {
+        "boiling_point": {
+            "value": "258",
+            "source": "Scifinder"
+        }
+    }
+}

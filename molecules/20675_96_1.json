@@ -1,0 +1,16 @@
+{
+    "cas": "20675-96-1",
+    "cid": 5280507,
+    "iupac_name": "4-[(E)-3-hydroxyprop-1-enyl]-2,6-dimethoxyphenol",
+    "canonical_smiles": "COC1=CC(=CC(=C1O)OC)C=CCO",
+    "isomeric_smiles": "COC1=CC(=CC(=C1O)OC)/C=C/CO",
+    "inchi": "1S/C11H14O4/c1-14-9-6-8(4-3-5-12)7-10(15-2)11(9)13/h3-4,6-7,12-13H,5H2,1-2H3/b4-3+",
+    "inchikey": "LZFOPEXOUVTGJS-ONEGZZNKSA-N",
+    "molecular_formula": "C11H14O4",
+    "properties": {
+        "melting_point": {
+            "value": "63.5",
+            "source": "Scifinder"
+        }
+    }
+}

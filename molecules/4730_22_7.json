@@ -1,0 +1,20 @@
+{
+    "cas": "4730-22-7",
+    "cid": 96476,
+    "iupac_name": "6-methylheptan-2-ol",
+    "canonical_smiles": "CC(C)CCCC(C)O",
+    "isomeric_smiles": "CC(C)CCCC(C)O",
+    "inchi": "1S/C8H18O/c1-7(2)5-4-6-8(3)9/h7-9H,4-6H2,1-3H3",
+    "inchikey": "FCOUHTHQYOMLJT-UHFFFAOYSA-N",
+    "molecular_formula": "C8H18O",
+    "properties": {
+        "boiling_point": {
+            "value": "172",
+            "source": "Scifinder"
+        },
+        "flash_point": {
+            "value": "67",
+            "source": "Co-Optima DB"
+        }
+    }
+}

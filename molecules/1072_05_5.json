@@ -15,6 +15,14 @@
             "value": "51",
             "method": "20% Blend, CFR",
             "source": "NREL (2014)"
+        },
+        "boiling_point": {
+            "value": "135.2",
+            "source": "Scifinder, also has 206C @ 760mmHg listed"
+        },
+        "melting_point": {
+            "value": "-102.9",
+            "source": "Scifinder"
         }
     }
 }

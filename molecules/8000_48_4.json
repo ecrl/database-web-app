@@ -27,6 +27,18 @@
         "octane_sensitivity": {
             "value": "8",
             "source": ""
+        },
+        "boiling_point": {
+            "value": "176",
+            "source": "Chemspider"
+        },
+        "flash_point": {
+            "value": "49",
+            "source": "Co-Optima DB"
+        },
+        "melting_point": {
+            "value": "2",
+            "source": "Chemspider"
         }
     }
 }

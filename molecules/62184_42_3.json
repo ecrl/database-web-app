@@ -1,0 +1,16 @@
+{
+    "cas": "62184-42-3",
+    "cid": 22051808,
+    "iupac_name": "5-ethyl-3-methylnonane",
+    "canonical_smiles": "CCCCC(CC)CC(C)CC",
+    "isomeric_smiles": "CCCCC(CC)CC(C)CC",
+    "inchi": "1S/C12H26/c1-5-8-9-12(7-3)10-11(4)6-2/h11-12H,5-10H2,1-4H3",
+    "inchikey": "GDUZVOIDJDZQBC-UHFFFAOYSA-N",
+    "molecular_formula": "C12H26",
+    "properties": {
+        "boiling_point": {
+            "value": "195.1",
+            "source": "Scifinder @ 768 Torr"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "cas": "57706-88-4",
+    "cid": 6548,
+    "iupac_name": "3,7-dimethyloctan-3-ol",
+    "canonical_smiles": "CCC(C)(CCCC(C)C)O",
+    "isomeric_smiles": "CCC(C)(CCCC(C)C)O",
+    "inchi": "1S/C10H22O/c1-5-10(4,11)8-6-7-9(2)3/h9,11H,5-8H2,1-4H3",
+    "inchikey": "DLHQZZUEERVIGQ-UHFFFAOYSA-N",
+    "molecular_formula": "C10H22O",
+    "properties": {
+        "boiling_point": {
+            "value": "196",
+            "source": "Scifinder"
+        },
+        "flash_point": {
+            "value": "76",
+            "source": "Co-Optima DB"
+        }
+    }
+}

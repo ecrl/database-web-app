@@ -25,6 +25,18 @@
         "octane_sensitivity": {
             "value": "12.2",
             "source": ""
+        },
+        "autoignition_temp": {
+            "value": "360",
+            "source": "Co-Optima DB"
+        },
+        "flash_point": {
+            "value": "33",
+            "source": "Co-Optima DB"
+        },
+        "melting_point": {
+            "value": "-8",
+            "source": "Scifinder"
         }
     }
 }

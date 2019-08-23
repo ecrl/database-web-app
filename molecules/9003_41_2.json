@@ -30,6 +30,14 @@
         "octane_sensitivity": {
             "value": "12.4",
             "source": "[1]"
+        },
+        "boiling_point": {
+            "value": "156",
+            "source": "SAE 2012-01-1310, Chemspider"
+        },
+        "flash_point": {
+            "value": "44",
+            "source": "Co-Optima DB"
         }
     }
 }

@@ -16,6 +16,26 @@
             "value": "17.9",
             "method": "IQT",
             "source": "Marquardt (2015)"
+        },
+        "autoignition_temp": {
+            "value": "280",
+            "source": "Co-Optima DB"
+        },
+        "boiling_point": {
+            "value": "178",
+            "source": "Scifinder"
+        },
+        "flash_point": {
+            "value": "75",
+            "source": "Co-Optima DB"
+        },
+        "heat_of_vaporization": {
+            "value": "51.55",
+            "source": "Pubchem"
+        },
+        "melting_point": {
+            "value": "-80",
+            "source": "Scifinder"
         }
     }
 }

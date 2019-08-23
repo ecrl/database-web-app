@@ -11,6 +11,14 @@
     "properties": {
         "ysi_unified": {
             "value": "109.8"
+        },
+        "flash_point": {
+            "value": "101",
+            "source": "Co-Optima DB"
+        },
+        "melting_point": {
+            "value": "-73",
+            "source": "CP D2500 SWRI JCO-7-66430-01, WO#92"
         }
     }
 }

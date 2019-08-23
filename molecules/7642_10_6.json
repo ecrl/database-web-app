@@ -25,6 +25,10 @@
         "octane_sensitivity": {
             "value": "11.15",
             "source": ""
+        },
+        "boiling_point": {
+            "value": "95.7",
+            "source": "Scifinder"
         }
     }
 }

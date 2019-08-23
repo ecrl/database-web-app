@@ -11,6 +11,10 @@
     "properties": {
         "ysi_unified": {
             "value": "144"
+        },
+        "flash_point": {
+            "value": "112",
+            "source": "Co-Optima DB"
         }
     }
 }

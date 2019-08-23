@@ -11,6 +11,26 @@
     "properties": {
         "ysi_unified": {
             "value": "189"
+        },
+        "autoignition_temp": {
+            "value": "436",
+            "source": "Co-Optima DB"
+        },
+        "boiling_point": {
+            "value": "205",
+            "source": "CRC Handbook"
+        },
+        "flash_point": {
+            "value": "96",
+            "source": "Co-Optima DB"
+        },
+        "heat_of_vaporization": {
+            "value": "50.48",
+            "source": "CRC Handbook"
+        },
+        "melting_point": {
+            "value": "-15.2",
+            "source": "CRC handbook"
         }
     }
 }

@@ -15,6 +15,10 @@
             "value": "97",
             "method": "Blend (Method?)",
             "source": "NREL (2014)"
+        },
+        "flash_point": {
+            "value": "48",
+            "source": "Co-Optima DB"
         }
     }
 }

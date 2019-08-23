@@ -1,0 +1,16 @@
+{
+    "cas": "141-79-7",
+    "cid": 8858,
+    "iupac_name": "4-methylpent-3-en-2-one",
+    "canonical_smiles": "CC(=CC(=O)C)C",
+    "isomeric_smiles": "CC(=CC(=O)C)C",
+    "inchi": "1S/C6H10O/c1-5(2)4-6(3)7/h4H,1-3H3",
+    "inchikey": "SHOJXDKTYKFBRD-UHFFFAOYSA-N",
+    "molecular_formula": "C6H10O",
+    "properties": {
+        "flash_point": {
+            "value": "31",
+            "source": "Co-Optima DB"
+        }
+    }
+}

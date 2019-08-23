@@ -19,6 +19,22 @@
         "octane_sensitivity": {
             "value": "17.6",
             "source": "[1]"
+        },
+        "autoignition_temp": {
+            "value": "385",
+            "source": "Co-Optima DB"
+        },
+        "boiling_point": {
+            "value": "-6.5",
+            "source": "Scifinder"
+        },
+        "flash_point": {
+            "value": "-79",
+            "source": "Co-Optima DB"
+        },
+        "melting_point": {
+            "value": "-185",
+            "source": "Scifinder"
         }
     },
     "compound_groups": []

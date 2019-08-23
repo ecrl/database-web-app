@@ -1,0 +1,16 @@
+{
+    "cas": "5648-29-3",
+    "cid": 6432551,
+    "iupac_name": "ethoxymethoxymethoxyethane",
+    "canonical_smiles": "CCOCOCOCC",
+    "isomeric_smiles": "CCOCOCOCC",
+    "inchi": "1S/C6H14O3/c1-3-7-5-9-6-8-4-2/h3-6H2,1-2H3",
+    "inchikey": "ANPYLYUCGAFKNQ-UHFFFAOYSA-N",
+    "molecular_formula": "C6H14O3",
+    "properties": {
+        "flash_point": {
+            "value": "36",
+            "source": "Co-Optima DB"
+        }
+    }
+}

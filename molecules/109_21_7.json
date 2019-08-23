@@ -27,6 +27,18 @@
         "octane_sensitivity": {
             "value": "6.3",
             "source": ""
+        },
+        "boiling_point": {
+            "value": "166",
+            "source": "Scifinder"
+        },
+        "flash_point": {
+            "value": "49",
+            "source": "Co-Optima DB"
+        },
+        "melting_point": {
+            "value": "-91.5",
+            "source": "Scifinder"
         }
     }
 }

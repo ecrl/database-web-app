@@ -1,0 +1,16 @@
+{
+    "cas": "271-89-6",
+    "cid": 9223,
+    "iupac_name": "1-benzofuran",
+    "canonical_smiles": "C1=CC=C2C(=C1)C=CO2",
+    "isomeric_smiles": "C1=CC=C2C(=C1)C=CO2",
+    "inchi": "1S/C8H6O/c1-2-4-8-7(3-1)5-6-9-8/h1-6H",
+    "inchikey": "IANQTJSKSUMEQM-UHFFFAOYSA-N",
+    "molecular_formula": "C8H6O",
+    "properties": {
+        "flash_point": {
+            "value": "56",
+            "source": "Co-Optima DB"
+        }
+    }
+}

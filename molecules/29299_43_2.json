@@ -30,6 +30,22 @@
         "octane_sensitivity": {
             "value": "-9.1",
             "source": ""
+        },
+        "autoignition_temp": {
+            "value": "393",
+            "source": "Co-Optima DB"
+        },
+        "boiling_point": {
+            "value": "149",
+            "source": "Alfa Aesar"
+        },
+        "flash_point": {
+            "value": "39",
+            "source": "Co-Optima DB"
+        },
+        "melting_point": {
+            "value": "-35.5",
+            "source": "CRC Handbook"
         }
     }
 }

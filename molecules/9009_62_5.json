@@ -16,6 +16,22 @@
             "value": "19.3",
             "method": "IQT",
             "source": "NREL (2014)"
+        },
+        "autoignition_temp": {
+            "value": "335",
+            "source": "Co-Optima DB"
+        },
+        "boiling_point": {
+            "value": "205",
+            "source": "Scifinder"
+        },
+        "flash_point": {
+            "value": "82",
+            "source": "Co-Optima DB"
+        },
+        "melting_point": {
+            "value": "32",
+            "source": "Scifinder"
         }
     }
 }

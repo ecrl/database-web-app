@@ -19,6 +19,18 @@
         "octane_sensitivity": {
             "value": "11.8",
             "source": "[1]"
+        },
+        "autoignition_temp": {
+            "value": "273",
+            "source": "Co-Optima DB"
+        },
+        "flash_point": {
+            "value": "42",
+            "source": "Co-Optima DB"
+        },
+        "melting_point": {
+            "value": "-53",
+            "source": "CRC Handbook"
         }
     },
     "compound_groups": []

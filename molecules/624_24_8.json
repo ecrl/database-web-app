@@ -30,6 +30,10 @@
         "octane_sensitivity": {
             "value": "2.3",
             "source": "[11]"
+        },
+        "flash_point": {
+            "value": "22",
+            "source": "Co-Optima DB"
         }
     }
 }

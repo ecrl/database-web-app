@@ -1,0 +1,16 @@
+{
+    "cas": "594-82-1",
+    "cid": 11675,
+    "iupac_name": "2,2,3,3-tetramethylbutane",
+    "canonical_smiles": "CC(C)(C)C(C)(C)C",
+    "isomeric_smiles": "CC(C)(C)C(C)(C)C",
+    "inchi": "1S/C8H18/c1-7(2,3)8(4,5)6/h1-6H3",
+    "inchikey": "OMMLUKLXGSRPHK-UHFFFAOYSA-N",
+    "molecular_formula": "C8H18",
+    "properties": {
+        "flash_point": {
+            "value": "4",
+            "source": "Co-Optima DB"
+        }
+    }
+}

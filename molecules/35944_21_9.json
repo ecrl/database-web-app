@@ -16,6 +16,10 @@
             "value": "19.2",
             "method": "IQT",
             "source": "Marquardt (2015)"
+        },
+        "flash_point": {
+            "value": "96.11",
+            "source": "Co-Optima DB"
         }
     }
 }

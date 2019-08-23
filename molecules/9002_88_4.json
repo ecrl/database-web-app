@@ -19,6 +19,14 @@
         "octane_sensitivity": {
             "value": "21.7",
             "source": "[1]"
+        },
+        "boiling_point": {
+            "value": "-102.4",
+            "source": "Scifinder @ 700 Torr"
+        },
+        "melting_point": {
+            "value": "-169",
+            "source": "Scifinder"
         }
     },
     "compound_groups": []

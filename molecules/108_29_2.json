@@ -1,0 +1,24 @@
+{
+    "cas": "108-29-2",
+    "cid": 7921,
+    "iupac_name": "5-methyloxolan-2-one",
+    "canonical_smiles": "CC1CCC(=O)O1",
+    "isomeric_smiles": "CC1CCC(=O)O1",
+    "inchi": "1S/C5H8O2/c1-4-2-3-5(6)7-4/h4H,2-3H2,1H3",
+    "inchikey": "GAEKPEKOJKCEMS-UHFFFAOYSA-N",
+    "molecular_formula": "C5H8O2",
+    "properties": {
+        "boiling_point": {
+            "value": "208",
+            "source": "Chemspider"
+        },
+        "flash_point": {
+            "value": "81",
+            "source": "Co-Optima DB"
+        },
+        "melting_point": {
+            "value": "-31",
+            "source": "Scifinder"
+        }
+    }
+}

@@ -19,6 +19,10 @@
         "octane_sensitivity": {
             "value": "15.4",
             "source": "[1]"
+        },
+        "melting_point": {
+            "value": "-127.7",
+            "source": "Scifinder"
         }
     },
     "compound_groups": []

@@ -1,0 +1,20 @@
+{
+    "cas": "2371-19-9",
+    "cid": 92927,
+    "iupac_name": "3-methylheptan-2-one",
+    "canonical_smiles": "CCCCC(C)C(=O)C",
+    "isomeric_smiles": "CCCCC(C)C(=O)C",
+    "inchi": "1S/C8H16O/c1-4-5-6-7(2)8(3)9/h7H,4-6H2,1-3H3",
+    "inchikey": "UHRZLJZZZDOHEX-UHFFFAOYSA-N",
+    "molecular_formula": "C8H16O",
+    "properties": {
+        "boiling_point": {
+            "value": "164",
+            "source": "Scifinder"
+        },
+        "flash_point": {
+            "value": "43",
+            "source": "Co-Optima DB"
+        }
+    }
+}

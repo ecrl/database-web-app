@@ -1,0 +1,20 @@
+{
+    "cas": "16747-50-5",
+    "cid": 28030,
+    "iupac_name": "1-ethyl-1-methylcyclopentane",
+    "canonical_smiles": "CCC1(CCCC1)C",
+    "isomeric_smiles": "CCC1(CCCC1)C",
+    "inchi": "1S/C8H16/c1-3-8(2)6-4-5-7-8/h3-7H2,1-2H3",
+    "inchikey": "LETYIFNDQBJGPJ-UHFFFAOYSA-N",
+    "molecular_formula": "C8H16",
+    "properties": {
+        "boiling_point": {
+            "value": "121.6",
+            "source": "Scifinder"
+        },
+        "melting_point": {
+            "value": "-143.8",
+            "source": "Scifinder"
+        }
+    }
+}

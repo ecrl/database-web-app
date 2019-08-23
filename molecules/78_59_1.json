@@ -1,0 +1,16 @@
+{
+    "cas": "78-59-1",
+    "cid": 6544,
+    "iupac_name": "3,5,5-trimethylcyclohex-2-en-1-one",
+    "canonical_smiles": "CC1=CC(=O)CC(C1)(C)C",
+    "isomeric_smiles": "CC1=CC(=O)CC(C1)(C)C",
+    "inchi": "1S/C9H14O/c1-7-4-8(10)6-9(2,3)5-7/h4H,5-6H2,1-3H3",
+    "inchikey": "HJOVHMDZYOCNQW-UHFFFAOYSA-N",
+    "molecular_formula": "C9H14O",
+    "properties": {
+        "flash_point": {
+            "value": "96",
+            "source": "Co-Optima DB"
+        }
+    }
+}

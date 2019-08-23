@@ -16,6 +16,26 @@
             "value": "10.3",
             "method": "IQT",
             "source": "NREL (2014)"
+        },
+        "autoignition_temp": {
+            "value": "390",
+            "source": "Co-Optima DB"
+        },
+        "boiling_point": {
+            "value": "171",
+            "source": "Scifinder @ 750 Torr"
+        },
+        "flash_point": {
+            "value": "75",
+            "source": "Co-Optima DB"
+        },
+        "heat_of_vaporization": {
+            "value": "53.6",
+            "source": "Pub Chem"
+        },
+        "melting_point": {
+            "value": "-15",
+            "source": "Scifinder"
         }
     }
 }

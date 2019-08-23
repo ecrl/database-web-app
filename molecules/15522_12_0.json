@@ -1,0 +1,20 @@
+{
+    "cas": "15522-12-0",
+    "cid": 10569,
+    "iupac_name": "(1R,4aR,4bR,10aR)-1,4a-dimethyl-7-propan-2-yl-2,3,4,4b,5,6,10,10a-octahydrophenanthrene-1-carboxylic acid",
+    "canonical_smiles": "CC(C)C1=CC2=CCC3C(C2CC1)(CCCC3(C)C(=O)O)C",
+    "isomeric_smiles": "CC(C)C1=CC2=CC[C@@H]3[C@@]([C@H]2CC1)(CCC[C@@]3(C)C(=O)O)C",
+    "inchi": "1S/C20H30O2/c1-13(2)14-6-8-16-15(12-14)7-9-17-19(16,3)10-5-11-20(17,4)18(21)22/h7,12-13,16-17H,5-6,8-11H2,1-4H3,(H,21,22)/t16-,17+,19+,20+/m0/s1",
+    "inchikey": "RSWGJHLUYNHPMX-ONCXSQPRSA-N",
+    "molecular_formula": "C20H30O2",
+    "properties": {
+        "flash_point": {
+            "value": "180",
+            "source": "Co-Optima DB"
+        },
+        "melting_point": {
+            "value": "173.5",
+            "source": "Scifinder"
+        }
+    }
+}

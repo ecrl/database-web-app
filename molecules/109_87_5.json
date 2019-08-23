@@ -18,6 +18,10 @@
         },
         "ysi_unified": {
             "value": "10.9"
+        },
+        "flash_point": {
+            "value": "-18",
+            "source": "Co-Optima DB"
         }
     }
 }

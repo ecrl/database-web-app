@@ -15,6 +15,10 @@
             "value": "66.5",
             "method": "IQT",
             "source": "NREL (2014)"
+        },
+        "flash_point": {
+            "value": "125",
+            "source": "Co-Optima DB"
         }
     }
 }

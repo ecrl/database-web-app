@@ -18,6 +18,18 @@
         },
         "ysi_unified": {
             "value": "47.3"
+        },
+        "boiling_point": {
+            "value": "193",
+            "source": "Sigma Aldrich"
+        },
+        "flash_point": {
+            "value": "96",
+            "source": "Co-Optima DB"
+        },
+        "melting_point": {
+            "value": "-36",
+            "source": "Sigma Aldrich"
         }
     }
 }
