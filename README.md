@@ -1,2 +1,2 @@
 # CombustDB
-A comprehensive database of combustion properties for hundreds of compounds
+A comprehensive database of combustion properties for over 1000 compounds
