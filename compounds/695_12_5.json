@@ -13,20 +13,20 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "38",
+            "value": 38.0,
             "method": "Unknown",
             "source": "Creton (2011)"
         },
         "research_octane_number": {
-            "value": "64.3",
+            "value": 64.3,
             "source": "[1]"
         },
         "motor_octane_number": {
-            "value": "53.4",
+            "value": 53.4,
             "source": "[1]"
         },
         "octane_sensitivity": {
-            "value": "10.9",
+            "value": 10.9,
             "source": "[1]"
         }
     }

@@ -10,10 +10,10 @@
     "compound_groups": [],
     "properties": {
         "ysi_unified": {
-            "value": "144"
+            "value": 144.0
         },
         "flash_point": {
-            "value": "112",
+            "value": 112.0,
             "source": "Co-Optima DB"
         }
     }

@@ -9,27 +9,27 @@
     "molecular_formula": "C5H10",
     "properties": {
         "research_octane_number": {
-            "value": "87.8",
+            "value": 87.8,
             "source": ""
         },
         "motor_octane_number": {
-            "value": "77.2",
+            "value": 77.2,
             "source": ""
         },
         "octane_sensitivity": {
-            "value": "10.6",
+            "value": 10.6,
             "source": ""
         },
         "boiling_point": {
-            "value": "36.3",
+            "value": 36.3,
             "source": "Scifinder"
         },
         "flash_point": {
-            "value": "-45",
+            "value": -45.0,
             "source": "Co-Optima DB"
         },
         "melting_point": {
-            "value": "-140.2",
+            "value": -140.2,
             "source": "Scifinder"
         }
     },

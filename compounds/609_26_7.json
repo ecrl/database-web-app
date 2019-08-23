@@ -13,24 +13,24 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "12",
+            "value": 12.0,
             "method": "Unknown",
             "source": "Kubic (2016)"
         },
         "research_octane_number": {
-            "value": "87.3",
+            "value": 87.3,
             "source": "[1]"
         },
         "motor_octane_number": {
-            "value": "88.1",
+            "value": 88.1,
             "source": "[1]"
         },
         "octane_sensitivity": {
-            "value": "-0.8",
+            "value": -0.8,
             "source": "[1]"
         },
         "kinematic_viscosity": {
-            "value": "0.5286"
+            "value": 0.5286
         }
     }
 }

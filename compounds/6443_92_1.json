@@ -14,34 +14,34 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "44",
+            "value": 44.0,
             "method": "20% Blend, CFR",
             "source": "NREL (2014)"
         },
         "ysi_unified": {
-            "value": "50.8"
+            "value": 50.8
         },
         "research_octane_number": {
-            "value": "73.2",
+            "value": 73.2,
             "source": ""
         },
         "motor_octane_number": {
-            "value": "68.95",
+            "value": 68.95,
             "source": ""
         },
         "octane_sensitivity": {
-            "value": "4.25",
+            "value": 4.25,
             "source": ""
         },
         "kinematic_viscosity": {
-            "value": "0.4456"
+            "value": 0.4456
         },
         "boiling_point": {
-            "value": "98",
+            "value": 98.0,
             "source": "Scifinder"
         },
         "flash_point": {
-            "value": "-6",
+            "value": -6.0,
             "source": "Co-Optima DB"
         }
     }

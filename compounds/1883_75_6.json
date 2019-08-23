@@ -9,11 +9,11 @@
     "molecular_formula": "C6H8O3",
     "properties": {
         "boiling_point": {
-            "value": "275.4",
+            "value": 275.4,
             "source": "Chemspider"
         },
         "melting_point": {
-            "value": "75",
+            "value": 75.0,
             "source": "Chemspider"
         }
     }

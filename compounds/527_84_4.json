@@ -9,19 +9,19 @@
     "molecular_formula": "C10H14",
     "properties": {
         "research_octane_number": {
-            "value": "100.6",
+            "value": 100.6,
             "source": "[1], [14]"
         },
         "motor_octane_number": {
-            "value": "96",
+            "value": 96.0,
             "source": "[1], [14]"
         },
         "octane_sensitivity": {
-            "value": "4.6",
+            "value": 4.6,
             "source": "[1], [14]"
         },
         "kinematic_viscosity": {
-            "value": "0.974"
+            "value": 0.974
         }
     },
     "compound_groups": [

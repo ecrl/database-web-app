@@ -13,7 +13,7 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "77",
+            "value": 77.0,
             "method": "IQT",
             "source": "Marquardt (2015)"
         }

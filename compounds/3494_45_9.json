@@ -13,35 +13,35 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "7.4",
+            "value": 7.4,
             "method": "IQT",
             "source": "NREL (2014)"
         },
         "ysi_unified": {
-            "value": "123"
+            "value": 123.0
         },
         "research_octane_number": {
-            "value": "103.5",
+            "value": 103.5,
             "source": ""
         },
         "motor_octane_number": {
-            "value": "92",
+            "value": 92.0,
             "source": ""
         },
         "octane_sensitivity": {
-            "value": "11.5",
+            "value": 11.5,
             "source": ""
         },
         "flash_point": {
-            "value": "59",
+            "value": 59.0,
             "source": "Co-Optima DB"
         },
         "heat_of_vaporization": {
-            "value": "46",
+            "value": 46.0,
             "source": "Chickos and Acree 2003"
         },
         "melting_point": {
-            "value": "-32",
+            "value": -32.0,
             "source": "Scifinder"
         }
     }

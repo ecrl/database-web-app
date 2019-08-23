@@ -12,20 +12,20 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "67",
+            "value": 67.0,
             "method": "CFR",
             "source": "NREL (2014)"
         },
         "boiling_point": {
-            "value": "295",
+            "value": 295.0,
             "source": "Scifinder"
         },
         "flash_point": {
-            "value": "135",
+            "value": 135.0,
             "source": "Co-Optima DB"
         },
         "melting_point": {
-            "value": "12.3",
+            "value": 12.3,
             "source": "Scifinder"
         }
     }

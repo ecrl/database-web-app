@@ -9,7 +9,7 @@
     "molecular_formula": "C12H26",
     "properties": {
         "boiling_point": {
-            "value": "195.1",
+            "value": 195.1,
             "source": "Scifinder @ 768 Torr"
         }
     }

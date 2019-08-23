@@ -12,12 +12,12 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "97",
+            "value": 97.0,
             "method": "Blend (Method?)",
             "source": "NREL (2014)"
         },
         "flash_point": {
-            "value": "48",
+            "value": 48.0,
             "source": "Co-Optima DB"
         }
     }

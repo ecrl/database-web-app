@@ -9,7 +9,7 @@
     "molecular_formula": "C7H16O",
     "properties": {
         "boiling_point": {
-            "value": "168",
+            "value": 168.0,
             "source": "Scifinder"
         }
     }

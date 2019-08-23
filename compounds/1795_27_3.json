@@ -12,20 +12,20 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "30.5",
+            "value": 30.5,
             "method": "IQT",
             "source": "Marquardt (2015)"
         },
         "research_octane_number": {
-            "value": "59.1",
+            "value": 59.1,
             "source": "[1]"
         },
         "motor_octane_number": {
-            "value": "56.4",
+            "value": 56.4,
             "source": "[1]"
         },
         "octane_sensitivity": {
-            "value": "2.7",
+            "value": 2.7,
             "source": "[1]"
         }
     }

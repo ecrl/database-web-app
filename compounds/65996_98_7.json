@@ -9,19 +9,19 @@
     "molecular_formula": "C10H16",
     "properties": {
         "autoignition_temp": {
-            "value": "237",
+            "value": 237.0,
             "source": "Co-Optima DB"
         },
         "boiling_point": {
-            "value": "176",
+            "value": 176.0,
             "source": "Scifinder"
         },
         "flash_point": {
-            "value": "48",
+            "value": 48.0,
             "source": "Co-Optima DB"
         },
         "melting_point": {
-            "value": "-74.35",
+            "value": -74.35,
             "source": "Scifinder"
         }
     }

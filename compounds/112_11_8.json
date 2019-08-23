@@ -13,7 +13,7 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "86.6",
+            "value": 86.6,
             "method": "Other Ignition Delay Method",
             "source": "NREL (2014)"
         }

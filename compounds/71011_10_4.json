@@ -13,34 +13,34 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "160",
+            "value": 160.0,
             "method": "Other Ignition Delay Method",
             "source": "NREL (2014)"
         },
         "ysi_unified": {
-            "value": "16.8"
+            "value": 16.8
         },
         "kinematic_viscosity": {
-            "value": "0.2867"
+            "value": 0.2867
         },
         "autoignition_temp": {
-            "value": "180",
+            "value": 180.0,
             "source": "Co-Optima DB"
         },
         "boiling_point": {
-            "value": "34.6",
+            "value": 34.6,
             "source": "ChemSpider"
         },
         "flash_point": {
-            "value": "-45",
+            "value": -45.0,
             "source": "Co-Optima DB"
         },
         "heat_of_vaporization": {
-            "value": "27.86",
+            "value": 27.86,
             "source": "Pub Chem 89.80 cal/g converted to kJ/mol"
         },
         "melting_point": {
-            "value": "-116",
+            "value": -116.0,
             "source": "Scifinder"
         }
     }

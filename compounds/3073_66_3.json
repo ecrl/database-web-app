@@ -9,19 +9,19 @@
     "molecular_formula": "C9H18",
     "properties": {
         "research_octane_number": {
-            "value": "81.3",
+            "value": 81.3,
             "source": "[1]"
         },
         "motor_octane_number": {
-            "value": "83.6",
+            "value": 83.6,
             "source": "[1]"
         },
         "octane_sensitivity": {
-            "value": "-1.3",
+            "value": -1.3,
             "source": "[1]"
         },
         "boiling_point": {
-            "value": "136.6",
+            "value": 136.6,
             "source": "Scifinder"
         }
     },

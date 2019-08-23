@@ -9,7 +9,7 @@
     "molecular_formula": "C7H14O",
     "properties": {
         "boiling_point": {
-            "value": "136",
+            "value": 136.0,
             "source": "Scifinder"
         }
     }

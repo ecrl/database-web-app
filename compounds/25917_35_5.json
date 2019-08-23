@@ -12,19 +12,19 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "23.3",
+            "value": 23.3,
             "method": "CFR",
             "source": "NREL (2014)"
         },
         "ysi_unified": {
-            "value": "30"
+            "value": 30.0
         },
         "boiling_point": {
-            "value": "157",
+            "value": 157.0,
             "source": "Scifinder"
         },
         "flash_point": {
-            "value": "58",
+            "value": 58.0,
             "source": "Co-Optima DB"
         }
     }

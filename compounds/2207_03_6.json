@@ -13,27 +13,27 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "30.5",
+            "value": 30.5,
             "method": "IQT",
             "source": "NREL (2014)"
         },
         "ysi_unified": {
-            "value": "67.6"
+            "value": 67.6
         },
         "research_octane_number": {
-            "value": "66.9",
+            "value": 66.9,
             "source": ""
         },
         "motor_octane_number": {
-            "value": "64.2",
+            "value": 64.2,
             "source": ""
         },
         "octane_sensitivity": {
-            "value": "2.7",
+            "value": 2.7,
             "source": ""
         },
         "kinematic_viscosity": {
-            "value": "0.6645"
+            "value": 0.6645
         }
     }
 }

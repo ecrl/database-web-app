@@ -13,16 +13,16 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "26",
+            "value": 26.0,
             "method": "Unknown",
             "source": "McCormick (2015)"
         },
         "boiling_point": {
-            "value": "261",
+            "value": 261.0,
             "source": "Scifinder"
         },
         "flash_point": {
-            "value": "140",
+            "value": 140.0,
             "source": "Co-Optima DB"
         }
     }

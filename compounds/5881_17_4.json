@@ -9,7 +9,7 @@
     "molecular_formula": "C10H22",
     "properties": {
         "boiling_point": {
-            "value": "166.5",
+            "value": 166.5,
             "source": "Scifinder"
         }
     }

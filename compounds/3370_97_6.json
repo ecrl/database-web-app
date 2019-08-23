@@ -12,7 +12,7 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "83",
+            "value": 83.0,
             "method": "Unknown",
             "source": "BioCompoundML (2016)"
         }

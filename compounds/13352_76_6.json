@@ -9,7 +9,7 @@
     "molecular_formula": "C7H16O6",
     "properties": {
         "flash_point": {
-            "value": "115",
+            "value": 115.0,
             "source": "Co-Optima DB"
         }
     }

@@ -12,32 +12,32 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "18.8",
+            "value": 18.8,
             "method": "IQT",
             "source": "Marquardt (2015)"
         },
         "research_octane_number": {
-            "value": "99.2",
+            "value": 99.2,
             "source": ""
         },
         "motor_octane_number": {
-            "value": "91.2",
+            "value": 91.2,
             "source": ""
         },
         "octane_sensitivity": {
-            "value": "8",
+            "value": 8.0,
             "source": ""
         },
         "boiling_point": {
-            "value": "176",
+            "value": 176.0,
             "source": "Chemspider"
         },
         "flash_point": {
-            "value": "49",
+            "value": 49.0,
             "source": "Co-Optima DB"
         },
         "melting_point": {
-            "value": "2",
+            "value": 2.0,
             "source": "Chemspider"
         }
     }

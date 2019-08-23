@@ -12,23 +12,23 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "28",
+            "value": 28.0,
             "method": "Unknown",
             "source": "Kubic (2016)"
         },
         "ysi_unified": {
-            "value": "61"
+            "value": 61.0
         },
         "research_octane_number": {
-            "value": "84.1",
+            "value": 84.1,
             "source": "[1]"
         },
         "motor_octane_number": {
-            "value": "67",
+            "value": 67.0,
             "source": "[1]"
         },
         "octane_sensitivity": {
-            "value": "17.1",
+            "value": 17.1,
             "source": "[1]"
         }
     }

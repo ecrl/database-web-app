@@ -12,18 +12,18 @@
     ],
     "properties": {
         "ysi_unified": {
-            "value": "22.2"
+            "value": 22.2
         },
         "boiling_point": {
-            "value": "92.5",
+            "value": 92.5,
             "source": "Scifinder"
         },
         "flash_point": {
-            "value": "12",
+            "value": 12.0,
             "source": "Co-Optima DB"
         },
         "heat_of_vaporization": {
-            "value": "37.3",
+            "value": 37.3,
             "source": "Chickos and Acree, 2003. Enthalpies of Vaporization of Organic and Organometallic Compounds"
         }
     }

@@ -14,22 +14,22 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "81",
+            "value": 81.0,
             "method": "20% Blend, CFR",
             "source": "NREL (2014)"
         },
         "ysi_unified": {
-            "value": "64.7"
+            "value": 64.7
         },
         "kinematic_viscosity": {
-            "value": "1.258"
+            "value": 1.258
         },
         "boiling_point": {
-            "value": "195.9",
+            "value": 195.9,
             "source": "Scifinder"
         },
         "flash_point": {
-            "value": "65",
+            "value": 65.0,
             "source": "Co-Optima DB"
         }
     }

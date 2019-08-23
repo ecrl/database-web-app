@@ -12,16 +12,16 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "73",
+            "value": 73.0,
             "method": "Unknown",
             "source": "BioCompoundML (2016)"
         },
         "boiling_point": {
-            "value": "271",
+            "value": 271.0,
             "source": "Scifinder"
         },
         "flash_point": {
-            "value": "113",
+            "value": 113.0,
             "source": "Co-Optima DB"
         }
     }

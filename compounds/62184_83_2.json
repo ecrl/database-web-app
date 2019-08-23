@@ -9,7 +9,7 @@
     "molecular_formula": "C8H14",
     "properties": {
         "boiling_point": {
-            "value": "108",
+            "value": 108.0,
             "source": "Scifinder"
         }
     }

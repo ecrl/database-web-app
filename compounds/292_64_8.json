@@ -12,23 +12,23 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "22.3",
+            "value": 22.3,
             "method": "IQT",
             "source": "NREL (2014)"
         },
         "ysi_unified": {
-            "value": "57.7"
+            "value": 57.7
         },
         "research_octane_number": {
-            "value": "71",
+            "value": 71.0,
             "source": "[9]"
         },
         "motor_octane_number": {
-            "value": "58.2",
+            "value": 58.2,
             "source": "[9]"
         },
         "octane_sensitivity": {
-            "value": "12.8",
+            "value": 12.8,
             "source": "[9]"
         }
     }

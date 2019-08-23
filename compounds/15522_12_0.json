@@ -9,11 +9,11 @@
     "molecular_formula": "C20H30O2",
     "properties": {
         "flash_point": {
-            "value": "180",
+            "value": 180.0,
             "source": "Co-Optima DB"
         },
         "melting_point": {
-            "value": "173.5",
+            "value": 173.5,
             "source": "Scifinder"
         }
     }

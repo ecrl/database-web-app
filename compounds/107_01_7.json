@@ -9,19 +9,19 @@
     "molecular_formula": "C4H8",
     "properties": {
         "research_octane_number": {
-            "value": "100",
+            "value": 100.0,
             "source": ""
         },
         "motor_octane_number": {
-            "value": "83.5",
+            "value": 83.5,
             "source": ""
         },
         "octane_sensitivity": {
-            "value": "16.5",
+            "value": 16.5,
             "source": ""
         },
         "kinematic_viscosity": {
-            "value": "0.271"
+            "value": 0.271
         }
     },
     "compound_groups": [

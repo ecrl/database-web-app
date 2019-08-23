@@ -12,7 +12,7 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "24",
+            "value": 24.0,
             "method": "IQT",
             "source": "NREL (2014)"
         }

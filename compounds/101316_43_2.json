@@ -13,38 +13,38 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "15",
+            "value": 15.0,
             "method": "Unknown",
             "source": "Creton (2011)"
         },
         "ysi_unified": {
-            "value": "187.6"
+            "value": 187.6
         },
         "research_octane_number": {
-            "value": "102.1",
+            "value": 102.1,
             "source": "[1]"
         },
         "motor_octane_number": {
-            "value": "99.3",
+            "value": 99.3,
             "source": "[1]"
         },
         "octane_sensitivity": {
-            "value": "2.8",
+            "value": 2.8,
             "source": "[1]"
         },
         "kinematic_viscosity": {
-            "value": "0.7376"
+            "value": 0.7376
         },
         "autoignition_temp": {
-            "value": "420",
+            "value": 420.0,
             "source": "Co-Optima DB"
         },
         "boiling_point": {
-            "value": "152.4",
+            "value": 152.4,
             "source": "CRC Handbook"
         },
         "flash_point": {
-            "value": "39",
+            "value": 39.0,
             "source": "Co-Optima DB"
         }
     }

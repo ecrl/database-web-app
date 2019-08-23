@@ -13,42 +13,42 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "6",
+            "value": 6.0,
             "method": "IQT",
             "source": "NREL (2014)"
         },
         "ysi_unified": {
-            "value": "170.9"
+            "value": 170.9
         },
         "research_octane_number": {
-            "value": "118.17",
+            "value": 118.17,
             "source": "[1], [3]"
         },
         "motor_octane_number": {
-            "value": "103.67",
+            "value": 103.67,
             "source": "[1], [3]"
         },
         "octane_sensitivity": {
-            "value": "14.5",
+            "value": 14.5,
             "source": "[1], [3]"
         },
         "kinematic_viscosity": {
-            "value": "0.5605"
+            "value": 0.5605
         },
         "autoignition_temp": {
-            "value": "480",
+            "value": 480.0,
             "source": "Co-Optima DB"
         },
         "boiling_point": {
-            "value": "111",
+            "value": 111.0,
             "source": "Alfa Aesar"
         },
         "flash_point": {
-            "value": "4",
+            "value": 4.0,
             "source": "Co-Optima DB"
         },
         "heat_of_vaporization": {
-            "value": "38.01",
+            "value": 38.01,
             "source": "CRC Handbook"
         }
     }

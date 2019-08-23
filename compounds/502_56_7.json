@@ -12,18 +12,18 @@
     ],
     "properties": {
         "ysi_unified": {
-            "value": "41.8"
+            "value": 41.8
         },
         "boiling_point": {
-            "value": "188.4",
+            "value": 188.4,
             "source": "Scifinder"
         },
         "flash_point": {
-            "value": "61",
+            "value": 61.0,
             "source": "Co-Optima DB"
         },
         "melting_point": {
-            "value": "-5.9",
+            "value": -5.9,
             "source": "Scifinder"
         }
     }

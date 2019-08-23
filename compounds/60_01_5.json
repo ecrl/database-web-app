@@ -12,12 +12,12 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "7",
+            "value": 7.0,
             "method": "Other Ignition Delay Method",
             "source": "NREL (2004)"
         },
         "flash_point": {
-            "value": "174",
+            "value": 174.0,
             "source": "Co-Optima DB"
         }
     }

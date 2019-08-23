@@ -12,26 +12,26 @@
     ],
     "properties": {
         "ysi_unified": {
-            "value": "25.5"
+            "value": 25.5
         },
         "autoignition_temp": {
-            "value": "463",
+            "value": 463.0,
             "source": "Co-Optima DB"
         },
         "boiling_point": {
-            "value": "121",
+            "value": 121.0,
             "source": "Scifinder"
         },
         "flash_point": {
-            "value": "26",
+            "value": 26.0,
             "source": "Co-Optima DB"
         },
         "heat_of_vaporization": {
-            "value": "42.9",
+            "value": 42.9,
             "source": "Chickos and Acree, 2003. Enthalpies of Vaporization of Organic and Organometallic Compounds"
         },
         "melting_point": {
-            "value": "-97",
+            "value": -97.0,
             "source": "CRC Handbook"
         }
     }

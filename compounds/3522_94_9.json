@@ -13,12 +13,12 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "24",
+            "value": 24.0,
             "method": "20% Blend, CFR",
             "source": "NREL (2014)"
         },
         "kinematic_viscosity": {
-            "value": "1.3067"
+            "value": 1.3067
         }
     }
 }

@@ -13,34 +13,34 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "12.1",
+            "value": 12.1,
             "method": "IQT",
             "source": "Marquardt (2015)"
         },
         "ysi_unified": {
-            "value": "32.9"
+            "value": 32.9
         },
         "kinematic_viscosity": {
-            "value": "2.7205"
+            "value": 2.7205
         },
         "autoignition_temp": {
-            "value": "819",
+            "value": 819.0,
             "source": "Co-Optima DB"
         },
         "boiling_point": {
-            "value": "102.4",
+            "value": 102.4,
             "source": "CRC Handbook"
         },
         "flash_point": {
-            "value": "67",
+            "value": 67.0,
             "source": "Co-Optima DB"
         },
         "heat_of_vaporization": {
-            "value": "40.11",
+            "value": 40.11,
             "source": "Pubchem"
         },
         "melting_point": {
-            "value": "-9.1",
+            "value": -9.1,
             "source": "CRC Handbook"
         }
     }

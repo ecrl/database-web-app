@@ -12,23 +12,23 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "39.6",
+            "value": 39.6,
             "method": "IQT",
             "source": "NREL (2014)"
         },
         "ysi_unified": {
-            "value": "47.3"
+            "value": 47.3
         },
         "boiling_point": {
-            "value": "193",
+            "value": 193.0,
             "source": "Sigma Aldrich"
         },
         "flash_point": {
-            "value": "96",
+            "value": 96.0,
             "source": "Co-Optima DB"
         },
         "melting_point": {
-            "value": "-36",
+            "value": -36.0,
             "source": "Sigma Aldrich"
         }
     }

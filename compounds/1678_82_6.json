@@ -9,11 +9,11 @@
     "molecular_formula": "C10H20",
     "properties": {
         "flash_point": {
-            "value": "45",
+            "value": 45.0,
             "source": "Co-Optima DB"
         },
         "melting_point": {
-            "value": "-89.8",
+            "value": -89.8,
             "source": "Scifinder"
         }
     }

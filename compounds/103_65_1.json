@@ -13,38 +13,38 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "16",
+            "value": 16.0,
             "method": "80% Blend, IQT",
             "source": "NREL (2014)"
         },
         "ysi_unified": {
-            "value": "235.7"
+            "value": 235.7
         },
         "research_octane_number": {
-            "value": "111",
+            "value": 111.0,
             "source": "[9]"
         },
         "motor_octane_number": {
-            "value": "98.7",
+            "value": 98.7,
             "source": "[9]"
         },
         "octane_sensitivity": {
-            "value": "12.3",
+            "value": 12.3,
             "source": "[9]"
         },
         "kinematic_viscosity": {
-            "value": "0.7966"
+            "value": 0.7966
         },
         "boiling_point": {
-            "value": "159.2",
+            "value": 159.2,
             "source": "Pubchem"
         },
         "flash_point": {
-            "value": "47",
+            "value": 47.0,
             "source": "Co-Optima DB"
         },
         "melting_point": {
-            "value": "-99.5",
+            "value": -99.5,
             "source": "Pubchem"
         }
     }

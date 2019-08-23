@@ -13,20 +13,20 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "18.9",
+            "value": 18.9,
             "method": "IQT",
             "source": "Marquardt (2015)"
         },
         "boiling_point": {
-            "value": "178",
+            "value": 178.0,
             "source": "Scifinder"
         },
         "flash_point": {
-            "value": "45",
+            "value": 45.0,
             "source": "Co-Optima DB"
         },
         "heat_of_vaporization": {
-            "value": "43.37",
+            "value": 43.37,
             "source": "Pubchem converted from 77 cal/g"
         }
     }

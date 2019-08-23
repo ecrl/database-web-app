@@ -12,28 +12,28 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "67",
+            "value": 67.0,
             "method": "Unknown",
             "source": "NREL (2014)"
         },
         "autoignition_temp": {
-            "value": "350",
+            "value": 350.0,
             "source": "Co-Optima DB"
         },
         "boiling_point": {
-            "value": "-25",
+            "value": -25.0,
             "source": "J. Burger et al./ Fuel 89(2010) 3315-3319"
         },
         "flash_point": {
-            "value": "-41",
+            "value": -41.0,
             "source": "Co-Optima DB"
         },
         "heat_of_vaporization": {
-            "value": "21.53",
+            "value": 21.53,
             "source": "111.64 cal/g Pubchem, converted to kJ/mol"
         },
         "melting_point": {
-            "value": "-141",
+            "value": -141.0,
             "source": "J. Burger et al./ Fuel 89(2010) 3315-3319"
         }
     }

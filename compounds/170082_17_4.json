@@ -13,30 +13,30 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "5",
+            "value": 5.0,
             "method": "Unknown",
             "source": "NREL (2014)"
         },
         "ysi_unified": {
-            "value": "6.6"
+            "value": 6.6
         },
         "research_octane_number": {
-            "value": "109",
+            "value": 109.0,
             "source": "[11]"
         },
         "motor_octane_number": {
-            "value": "89",
+            "value": 89.0,
             "source": "[11]"
         },
         "octane_sensitivity": {
-            "value": "20",
+            "value": 20.0,
             "source": "[11]"
         },
         "kinematic_viscosity": {
-            "value": "0.5942"
+            "value": 0.5942
         },
         "flash_point": {
-            "value": "11",
+            "value": 11.0,
             "source": "Co-Optima DB"
         }
     }

@@ -12,12 +12,12 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "15",
+            "value": 15.0,
             "method": "CFR",
             "source": "NREL (2014)"
         },
         "boiling_point": {
-            "value": "240",
+            "value": 240.0,
             "source": "Alfa Aesar"
         }
     }

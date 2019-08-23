@@ -9,7 +9,7 @@
     "molecular_formula": "C6H12O2",
     "properties": {
         "boiling_point": {
-            "value": "233",
+            "value": 233.0,
             "source": "Alfa Aesar"
         }
     }

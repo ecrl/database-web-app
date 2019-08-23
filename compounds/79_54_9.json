@@ -9,7 +9,7 @@
     "molecular_formula": "C20H30O2",
     "properties": {
         "melting_point": {
-            "value": "150",
+            "value": 150.0,
             "source": "Scifinder"
         }
     }

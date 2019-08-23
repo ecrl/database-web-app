@@ -12,20 +12,20 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "81",
+            "value": 81.0,
             "method": "Other Ignition Delay Method",
             "source": "NREL (2014)"
         },
         "boiling_point": {
-            "value": "334.3",
+            "value": 334.3,
             "source": "Scifinder "
         },
         "flash_point": {
-            "value": "200",
+            "value": 200.0,
             "source": "Co-Optima DB"
         },
         "melting_point": {
-            "value": "59.5",
+            "value": 59.5,
             "source": "Scifinder"
         }
     }

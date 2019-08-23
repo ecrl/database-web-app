@@ -13,42 +13,42 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "65.5",
+            "value": 65.5,
             "method": "IQT",
             "source": "Marquardt (2015)"
         },
         "ysi_unified": {
-            "value": "57.2"
+            "value": 57.2
         },
         "research_octane_number": {
-            "value": "39.8",
+            "value": 39.8,
             "source": "[1]"
         },
         "motor_octane_number": {
-            "value": "40.5",
+            "value": 40.5,
             "source": "[1]"
         },
         "octane_sensitivity": {
-            "value": "-0.7",
+            "value": -0.7,
             "source": "[1]"
         },
         "kinematic_viscosity": {
-            "value": "1.013"
+            "value": 1.013
         },
         "autoignition_temp": {
-            "value": "210",
+            "value": 210.0,
             "source": "Co-Optima DB"
         },
         "boiling_point": {
-            "value": "174.1",
+            "value": 174.1,
             "source": "Pubchem"
         },
         "flash_point": {
-            "value": "46",
+            "value": 46.0,
             "source": "Co-Optima DB"
         },
         "heat_of_vaporization": {
-            "value": "51.42",
+            "value": 51.42,
             "source": "Pubchem"
         }
     }

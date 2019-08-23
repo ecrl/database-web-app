@@ -12,18 +12,18 @@
     ],
     "properties": {
         "ysi_unified": {
-            "value": "34.8"
+            "value": 34.8
         },
         "autoignition_temp": {
-            "value": "421",
+            "value": 421.0,
             "source": "Co-Optima DB"
         },
         "flash_point": {
-            "value": "18",
+            "value": 18.0,
             "source": "Co-Optima DB"
         },
         "heat_of_vaporization": {
-            "value": "37.1",
+            "value": 37.1,
             "source": "Chickos and Acree, 2003"
         }
     }

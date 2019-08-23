@@ -12,12 +12,12 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "52.6",
+            "value": 52.6,
             "method": "IQT",
             "source": "Marquardt (2015)"
         },
         "flash_point": {
-            "value": "156",
+            "value": 156.0,
             "source": "Co-Optima DB"
         }
     }

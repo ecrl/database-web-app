@@ -13,12 +13,12 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "36.1",
+            "value": 36.1,
             "method": "IQT",
             "source": "NREL (2014)"
         },
         "ysi_unified": {
-            "value": "31.7"
+            "value": 31.7
         }
     }
 }

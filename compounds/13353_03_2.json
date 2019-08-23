@@ -9,7 +9,7 @@
     "molecular_formula": "C5H12O4",
     "properties": {
         "flash_point": {
-            "value": "54",
+            "value": 54.0,
             "source": "Co-Optima DB"
         }
     }

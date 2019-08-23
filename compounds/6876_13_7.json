@@ -9,27 +9,27 @@
     "molecular_formula": "C10H18",
     "properties": {
         "research_octane_number": {
-            "value": "77.7",
+            "value": 77.7,
             "source": "[1]"
         },
         "motor_octane_number": {
-            "value": "65.9",
+            "value": 65.9,
             "source": "[1]"
         },
         "octane_sensitivity": {
-            "value": "11.8",
+            "value": 11.8,
             "source": "[1]"
         },
         "autoignition_temp": {
-            "value": "273",
+            "value": 273.0,
             "source": "Co-Optima DB"
         },
         "flash_point": {
-            "value": "42",
+            "value": 42.0,
             "source": "Co-Optima DB"
         },
         "melting_point": {
-            "value": "-53",
+            "value": -53.0,
             "source": "CRC Handbook"
         }
     },

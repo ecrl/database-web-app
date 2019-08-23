@@ -13,12 +13,12 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "37",
+            "value": 37.0,
             "method": "IQT",
             "source": "NREL (2014)"
         },
         "flash_point": {
-            "value": "113",
+            "value": 113.0,
             "source": "Co-Optima DB"
         }
     }

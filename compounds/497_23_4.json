@@ -9,15 +9,15 @@
     "molecular_formula": "C4H4O2",
     "properties": {
         "boiling_point": {
-            "value": "212",
+            "value": 212.0,
             "source": "Scifinder 108C @ 24 torr, Chemspider @ 760 torr"
         },
         "flash_point": {
-            "value": "101",
+            "value": 101.0,
             "source": "Co-Optima DB"
         },
         "melting_point": {
-            "value": "4.5",
+            "value": 4.5,
             "source": "Scifinder"
         }
     }

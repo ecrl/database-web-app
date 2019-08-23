@@ -9,23 +9,23 @@
     "molecular_formula": "C2H4",
     "properties": {
         "research_octane_number": {
-            "value": "97.3",
+            "value": 97.3,
             "source": "[1]"
         },
         "motor_octane_number": {
-            "value": "75.6",
+            "value": 75.6,
             "source": "[1]"
         },
         "octane_sensitivity": {
-            "value": "21.7",
+            "value": 21.7,
             "source": "[1]"
         },
         "boiling_point": {
-            "value": "-102.4",
+            "value": -102.4,
             "source": "Scifinder @ 700 Torr"
         },
         "melting_point": {
-            "value": "-169",
+            "value": -169.0,
             "source": "Scifinder"
         }
     },

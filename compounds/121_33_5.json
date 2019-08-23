@@ -9,15 +9,15 @@
     "molecular_formula": "C8H8O3",
     "properties": {
         "boiling_point": {
-            "value": "284.5",
+            "value": 284.5,
             "source": "Scifinder"
         },
         "flash_point": {
-            "value": "153",
+            "value": 153.0,
             "source": "Co-Optima DB"
         },
         "melting_point": {
-            "value": "80.5",
+            "value": 80.5,
             "source": "Scifinder"
         }
     }

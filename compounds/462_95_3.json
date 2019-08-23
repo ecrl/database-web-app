@@ -12,12 +12,12 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "57.3",
+            "value": 57.3,
             "method": "IQT",
             "source": "Marquardt (2015)"
         },
         "ysi_unified": {
-            "value": "18.5"
+            "value": 18.5
         }
     }
 }

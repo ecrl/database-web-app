@@ -12,23 +12,23 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "23.6",
+            "value": 23.6,
             "method": "IQT",
             "source": "Marquardt (2015)"
         },
         "ysi_unified": {
-            "value": "38.7"
+            "value": 38.7
         },
         "research_octane_number": {
-            "value": "100.2",
+            "value": 100.2,
             "source": "[1]"
         },
         "motor_octane_number": {
-            "value": "98.9",
+            "value": 98.9,
             "source": "[1]"
         },
         "octane_sensitivity": {
-            "value": "1.3",
+            "value": 1.3,
             "source": "[1]"
         }
     }

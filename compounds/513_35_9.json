@@ -12,22 +12,22 @@
     ],
     "properties": {
         "ysi_unified": {
-            "value": "43.5"
+            "value": 43.5
         },
         "research_octane_number": {
-            "value": "97.3",
+            "value": 97.3,
             "source": "[1]"
         },
         "motor_octane_number": {
-            "value": "84.7",
+            "value": 84.7,
             "source": "[1]"
         },
         "octane_sensitivity": {
-            "value": "12.6",
+            "value": 12.6,
             "source": "[1]"
         },
         "flash_point": {
-            "value": "-20",
+            "value": -20.0,
             "source": "Co-Optima DB"
         }
     }

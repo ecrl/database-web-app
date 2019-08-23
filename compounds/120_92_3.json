@@ -13,39 +13,39 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "9",
+            "value": 9.0,
             "method": "IQT",
             "source": "NREL (2014)"
         },
         "ysi_unified": {
-            "value": "22"
+            "value": 22.0
         },
         "research_octane_number": {
-            "value": "104",
+            "value": 104.0,
             "source": "[1], [9]"
         },
         "motor_octane_number": {
-            "value": "89.4",
+            "value": 89.4,
             "source": "[1], [9]"
         },
         "octane_sensitivity": {
-            "value": "14.6",
+            "value": 14.6,
             "source": "[1], [9]"
         },
         "boiling_point": {
-            "value": "130.6",
+            "value": 130.6,
             "source": "Scifinder"
         },
         "flash_point": {
-            "value": "30",
+            "value": 30.0,
             "source": "Co-Optima DB"
         },
         "heat_of_vaporization": {
-            "value": "42.4",
+            "value": 42.4,
             "source": "Chickos and Acree, 2003. Enthalpies of Vaporization of Organic and Organometallic Compounds"
         },
         "melting_point": {
-            "value": "-51.3",
+            "value": -51.3,
             "source": "Scifinder"
         }
     }

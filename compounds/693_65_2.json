@@ -12,15 +12,15 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "111",
+            "value": 111.0,
             "method": "IQT",
             "source": "NREL (2014)"
         },
         "ysi_unified": {
-            "value": "49.8"
+            "value": 49.8
         },
         "flash_point": {
-            "value": "57",
+            "value": 57.0,
             "source": "Co-Optima DB"
         }
     }

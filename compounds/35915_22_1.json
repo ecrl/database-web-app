@@ -12,7 +12,7 @@
     ],
     "properties": {
         "kinematic_viscosity": {
-            "value": "1.7475"
+            "value": 1.7475
         }
     }
 }

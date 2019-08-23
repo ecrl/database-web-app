@@ -12,38 +12,38 @@
     ],
     "properties": {
         "ysi_unified": {
-            "value": "43.6"
+            "value": 43.6
         },
         "research_octane_number": {
-            "value": "100.6",
+            "value": 100.6,
             "source": "[11]"
         },
         "motor_octane_number": {
-            "value": "97.2",
+            "value": 97.2,
             "source": "[11]"
         },
         "octane_sensitivity": {
-            "value": "3.4",
+            "value": 3.4,
             "source": "[11]"
         },
         "autoignition_temp": {
-            "value": "360",
+            "value": 360.0,
             "source": "Co-Optima DB"
         },
         "boiling_point": {
-            "value": "142",
+            "value": 142.0,
             "source": "Alfa Aesar"
         },
         "flash_point": {
-            "value": "25",
+            "value": 25.0,
             "source": "Co-Optima DB"
         },
         "heat_of_vaporization": {
-            "value": "46.4",
+            "value": 46.4,
             "source": "Chickos and Acree, 2003. Enthalpies of Vaporization of Organic and Organometallic Compounds"
         },
         "melting_point": {
-            "value": "-78",
+            "value": -78.0,
             "source": "Alfa Aesar"
         }
     }

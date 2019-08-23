@@ -12,27 +12,27 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "13.3",
+            "value": 13.3,
             "method": "IQT",
             "source": "Marquardt (2015)"
         },
         "ysi_unified": {
-            "value": "22.3"
+            "value": 22.3
         },
         "research_octane_number": {
-            "value": "103.4",
+            "value": 103.4,
             "source": "[11]"
         },
         "motor_octane_number": {
-            "value": "101.1",
+            "value": 101.1,
             "source": "[11]"
         },
         "octane_sensitivity": {
-            "value": "2.3",
+            "value": 2.3,
             "source": "[11]"
         },
         "flash_point": {
-            "value": "22",
+            "value": 22.0,
             "source": "Co-Optima DB"
         }
     }

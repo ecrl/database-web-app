@@ -13,28 +13,28 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "9",
+            "value": 9.0,
             "method": "IQT",
             "source": "NREL (2014)"
         },
         "research_octane_number": {
-            "value": "103",
+            "value": 103.0,
             "source": "[6]"
         },
         "motor_octane_number": {
-            "value": "86",
+            "value": 86.0,
             "source": "[6]"
         },
         "octane_sensitivity": {
-            "value": "17",
+            "value": 17.0,
             "source": "[6]"
         },
         "flash_point": {
-            "value": "-22",
+            "value": -22.0,
             "source": "Co-Optima DB"
         },
         "melting_point": {
-            "value": "-87.5",
+            "value": -87.5,
             "source": "Scifinder"
         }
     }

@@ -9,15 +9,15 @@
     "molecular_formula": "C7H14O",
     "properties": {
         "boiling_point": {
-            "value": "173",
+            "value": 173.0,
             "source": "Scifinder"
         },
         "flash_point": {
-            "value": "70",
+            "value": 70.0,
             "source": "Co-Optima DB"
         },
         "melting_point": {
-            "value": "-41",
+            "value": -41.0,
             "source": "Chemspider"
         }
     }

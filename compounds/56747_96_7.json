@@ -9,7 +9,7 @@
     "molecular_formula": "C15H26O",
     "properties": {
         "melting_point": {
-            "value": "93",
+            "value": 93.0,
             "source": "Scifinder"
         }
     }

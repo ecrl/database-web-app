@@ -13,15 +13,15 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "49.1",
+            "value": 49.1,
             "method": "IQT",
             "source": "Marquardt (2015)"
         },
         "ysi_unified": {
-            "value": "74.8"
+            "value": 74.8
         },
         "kinematic_viscosity": {
-            "value": "0.8852"
+            "value": 0.8852
         }
     }
 }

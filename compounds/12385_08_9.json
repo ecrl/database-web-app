@@ -9,19 +9,19 @@
     "molecular_formula": "C6H6O2",
     "properties": {
         "autoignition_temp": {
-            "value": "510",
+            "value": 510.0,
             "source": "Co-Optima DB"
         },
         "boiling_point": {
-            "value": "245.5",
+            "value": 245.5,
             "source": "Scifinder"
         },
         "flash_point": {
-            "value": "127",
+            "value": 127.0,
             "source": "Co-Optima DB"
         },
         "melting_point": {
-            "value": "105",
+            "value": 105.0,
             "source": "Scifinder"
         }
     }

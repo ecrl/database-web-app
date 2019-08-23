@@ -13,30 +13,30 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "19.5",
+            "value": 19.5,
             "method": "IQT",
             "source": "NREL (2014)"
         },
         "ysi_unified": {
-            "value": "11.7"
+            "value": 11.7
         },
         "kinematic_viscosity": {
-            "value": "0.3511"
+            "value": 0.3511
         },
         "boiling_point": {
-            "value": "56.8",
+            "value": 56.8,
             "source": "Scifinder"
         },
         "flash_point": {
-            "value": "-10",
+            "value": -10.0,
             "source": "Co-Optima DB"
         },
         "heat_of_vaporization": {
-            "value": "32.5",
+            "value": 32.5,
             "source": "Chickos and Acree, 2003. Enthalpies of Vaporization of Organic and Organometallic Compounds"
         },
         "melting_point": {
-            "value": "-98",
+            "value": -98.0,
             "source": "Scifinder"
         }
     }

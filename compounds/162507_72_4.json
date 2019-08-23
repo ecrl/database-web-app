@@ -9,7 +9,7 @@
     "molecular_formula": "C11H24O3",
     "properties": {
         "boiling_point": {
-            "value": "223",
+            "value": 223.0,
             "source": "ASTM D86 FBP (SwRI)"
         }
     }

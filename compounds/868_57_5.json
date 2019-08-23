@@ -12,30 +12,30 @@
     ],
     "properties": {
         "ysi_unified": {
-            "value": "24.9"
+            "value": 24.9
         },
         "research_octane_number": {
-            "value": "110.5",
+            "value": 110.5,
             "source": "[11]"
         },
         "motor_octane_number": {
-            "value": "99.1",
+            "value": 99.1,
             "source": "[11]"
         },
         "octane_sensitivity": {
-            "value": "11.4",
+            "value": 11.4,
             "source": "[11]"
         },
         "boiling_point": {
-            "value": "116",
+            "value": 116.0,
             "source": "Scifinder"
         },
         "flash_point": {
-            "value": "32",
+            "value": 32.0,
             "source": "Co-Optima DB"
         },
         "heat_of_vaporization": {
-            "value": "39.32",
+            "value": 39.32,
             "source": "NREL,  May 2016"
         }
     }

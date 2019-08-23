@@ -9,7 +9,7 @@
     "molecular_formula": "C6H14O",
     "properties": {
         "flash_point": {
-            "value": "-6",
+            "value": -6.0,
             "source": "Co-Optima DB"
         }
     }

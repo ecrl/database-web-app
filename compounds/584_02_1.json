@@ -12,30 +12,30 @@
     ],
     "properties": {
         "ysi_unified": {
-            "value": "29.1"
+            "value": 29.1
         },
         "research_octane_number": {
-            "value": "103",
+            "value": 103.0,
             "source": ""
         },
         "motor_octane_number": {
-            "value": "90.8",
+            "value": 90.8,
             "source": ""
         },
         "octane_sensitivity": {
-            "value": "12.2",
+            "value": 12.2,
             "source": ""
         },
         "autoignition_temp": {
-            "value": "360",
+            "value": 360.0,
             "source": "Co-Optima DB"
         },
         "flash_point": {
-            "value": "33",
+            "value": 33.0,
             "source": "Co-Optima DB"
         },
         "melting_point": {
-            "value": "-8",
+            "value": -8.0,
             "source": "Scifinder"
         }
     }

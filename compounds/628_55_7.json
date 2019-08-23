@@ -12,12 +12,12 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "59.7",
+            "value": 59.7,
             "method": "IQT",
             "source": "Marquardt (2015)"
         },
         "boiling_point": {
-            "value": "123",
+            "value": 123.0,
             "source": "Scifinder"
         }
     }

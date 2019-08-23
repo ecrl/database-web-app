@@ -12,39 +12,39 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "4",
+            "value": 4.0,
             "method": "20% Blend, CFR",
             "source": "NREL (2014)"
         },
         "ysi_unified": {
-            "value": "330.3"
+            "value": 330.3
         },
         "research_octane_number": {
-            "value": "110",
+            "value": 110.0,
             "source": "[1]"
         },
         "motor_octane_number": {
-            "value": "97.7",
+            "value": 97.7,
             "source": "[1]"
         },
         "octane_sensitivity": {
-            "value": "12.3",
+            "value": 12.3,
             "source": "[1]"
         },
         "autoignition_temp": {
-            "value": "435",
+            "value": 435.0,
             "source": "Co-Optima DB"
         },
         "boiling_point": {
-            "value": "177.1",
+            "value": 177.1,
             "source": "Scifinder"
         },
         "flash_point": {
-            "value": "47",
+            "value": 47.0,
             "source": "Co-Optima DB"
         },
         "heat_of_vaporization": {
-            "value": "37.63",
+            "value": 37.63,
             "source": "Pub Chem"
         }
     }

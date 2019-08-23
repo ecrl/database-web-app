@@ -9,23 +9,23 @@
     "molecular_formula": "C4H10O2",
     "properties": {
         "autoignition_temp": {
-            "value": "350",
+            "value": 350.0,
             "source": "Co-Optima DB"
         },
         "boiling_point": {
-            "value": "230",
+            "value": 230.0,
             "source": "Scifinder"
         },
         "flash_point": {
-            "value": "134",
+            "value": 134.0,
             "source": "Co-Optima DB"
         },
         "heat_of_vaporization": {
-            "value": "56.5",
+            "value": 56.5,
             "source": "Pub Chem"
         },
         "melting_point": {
-            "value": "20.1",
+            "value": 20.1,
             "source": "Scifinder"
         }
     }

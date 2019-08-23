@@ -12,27 +12,27 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "115.4",
+            "value": 115.4,
             "method": "IQT",
             "source": "Marquardt (2015)"
         },
         "ysi_unified": {
-            "value": "38.7"
+            "value": 38.7
         },
         "autoignition_temp": {
-            "value": "194",
+            "value": 194.0,
             "source": "Co-Optima DB"
         },
         "boiling_point": {
-            "value": "140.2",
+            "value": 140.2,
             "source": "Scifinder"
         },
         "flash_point": {
-            "value": "37",
+            "value": 37.0,
             "source": "Co-Optima DB"
         },
         "heat_of_vaporization": {
-            "value": "36.96",
+            "value": 36.96,
             "source": " 67.8 cal/g Pubchem converted to kJ/mol"
         }
     }

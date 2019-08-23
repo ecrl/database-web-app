@@ -14,13 +14,13 @@
     ],
     "properties": {
         "ysi_unified": {
-            "value": "13"
+            "value": 13.0
         },
         "kinematic_viscosity": {
-            "value": "0.3546"
+            "value": 0.3546
         },
         "flash_point": {
-            "value": "-20",
+            "value": -20.0,
             "source": "Co-Optima DB"
         }
     }

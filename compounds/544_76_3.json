@@ -13,27 +13,27 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "100",
+            "value": 100.0,
             "method": "CFR",
             "source": "NREL (2014)"
         },
         "kinematic_viscosity": {
-            "value": "2.9193"
+            "value": 2.9193
         },
         "autoignition_temp": {
-            "value": "215",
+            "value": 215.0,
             "source": "Co-Optima DB"
         },
         "boiling_point": {
-            "value": "287",
+            "value": 287.0,
             "source": "Alfa Aesar"
         },
         "flash_point": {
-            "value": "135",
+            "value": 135.0,
             "source": "Co-Optima DB"
         },
         "heat_of_vaporization": {
-            "value": "81.38",
+            "value": 81.38,
             "source": "PubChem"
         }
     }

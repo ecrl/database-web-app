@@ -12,18 +12,18 @@
     ],
     "properties": {
         "ysi_unified": {
-            "value": "74.7"
+            "value": 74.7
         },
         "research_octane_number": {
-            "value": "62.8",
+            "value": 62.8,
             "source": "[1]"
         },
         "motor_octane_number": {
-            "value": "61.1",
+            "value": 61.1,
             "source": "[1]"
         },
         "octane_sensitivity": {
-            "value": "1.7",
+            "value": 1.7,
             "source": "[1]"
         }
     }

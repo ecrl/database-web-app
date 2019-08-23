@@ -13,46 +13,46 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "12",
+            "value": 12.0,
             "method": "Unknown",
             "source": "NREL (2014)"
         },
         "ysi_unified": {
-            "value": "16.2"
+            "value": 16.2
         },
         "research_octane_number": {
-            "value": "104",
+            "value": 104.0,
             "source": "[6]"
         },
         "motor_octane_number": {
-            "value": "89",
+            "value": 89.0,
             "source": "[6]"
         },
         "octane_sensitivity": {
-            "value": "15",
+            "value": 15.0,
             "source": "[6]"
         },
         "kinematic_viscosity": {
-            "value": "1.847"
+            "value": 1.847
         },
         "autoignition_temp": {
-            "value": "371",
+            "value": 371.0,
             "source": "Co-Optima DB"
         },
         "boiling_point": {
-            "value": "97.2",
+            "value": 97.2,
             "source": "Scifinder"
         },
         "flash_point": {
-            "value": "23",
+            "value": 23.0,
             "source": "Co-Optima DB"
         },
         "heat_of_vaporization": {
-            "value": "47.4",
+            "value": 47.4,
             "source": "Chickos and Acree, 2003. Enthalpies of Vaporization of Organic and Organometallic Compounds"
         },
         "melting_point": {
-            "value": "-127",
+            "value": -127.0,
             "source": "The Merck Index"
         }
     }

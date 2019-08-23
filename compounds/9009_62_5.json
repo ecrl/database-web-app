@@ -13,24 +13,24 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "19.3",
+            "value": 19.3,
             "method": "IQT",
             "source": "NREL (2014)"
         },
         "autoignition_temp": {
-            "value": "335",
+            "value": 335.0,
             "source": "Co-Optima DB"
         },
         "boiling_point": {
-            "value": "205",
+            "value": 205.0,
             "source": "Scifinder"
         },
         "flash_point": {
-            "value": "82",
+            "value": 82.0,
             "source": "Co-Optima DB"
         },
         "melting_point": {
-            "value": "32",
+            "value": 32.0,
             "source": "Scifinder"
         }
     }

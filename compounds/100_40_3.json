@@ -13,20 +13,20 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "32",
+            "value": 32.0,
             "method": "Unknown",
             "source": "Santana (2006)"
         },
         "research_octane_number": {
-            "value": "77",
+            "value": 77.0,
             "source": "[1]"
         },
         "motor_octane_number": {
-            "value": "57.7",
+            "value": 57.7,
             "source": "[1]"
         },
         "octane_sensitivity": {
-            "value": "19.3",
+            "value": 19.3,
             "source": "[1]"
         }
     }

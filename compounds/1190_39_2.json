@@ -12,7 +12,7 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "21",
+            "value": 21.0,
             "method": "CFR",
             "source": "NREL (2014)"
         }

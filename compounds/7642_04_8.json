@@ -12,23 +12,23 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "43",
+            "value": 43.0,
             "method": "20% Blend, CFR",
             "source": "NREL (2014)"
         },
         "ysi_unified": {
-            "value": "56.7"
+            "value": 56.7
         },
         "research_octane_number": {
-            "value": "56.3",
+            "value": 56.3,
             "source": ""
         },
         "motor_octane_number": {
-            "value": "56.5",
+            "value": 56.5,
             "source": ""
         },
         "octane_sensitivity": {
-            "value": "-0.2",
+            "value": -0.2,
             "source": ""
         }
     }

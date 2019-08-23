@@ -13,36 +13,36 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "7",
+            "value": 7.0,
             "method": "IQT",
             "source": "NREL (2014)"
         },
         "research_octane_number": {
-            "value": "107.7",
+            "value": 107.7,
             "source": "[1]"
         },
         "motor_octane_number": {
-            "value": "91.6",
+            "value": 91.6,
             "source": "[1]"
         },
         "octane_sensitivity": {
-            "value": "16.1",
+            "value": 16.1,
             "source": "[1]"
         },
         "boiling_point": {
-            "value": "31.36",
+            "value": 31.36,
             "source": "Scifinder"
         },
         "flash_point": {
-            "value": "-35",
+            "value": -35.0,
             "source": "Co-Optima DB"
         },
         "heat_of_vaporization": {
-            "value": "26.88",
+            "value": 26.88,
             "source": "Pub Chem, 95.5 cal/g converted to kJ/mol"
         },
         "melting_point": {
-            "value": "-85.6",
+            "value": -85.6,
             "source": "Scifinder"
         }
     }

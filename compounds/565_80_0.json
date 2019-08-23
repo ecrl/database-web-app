@@ -12,35 +12,35 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "14.4",
+            "value": 14.4,
             "method": "IQT",
             "source": "NREL (2014)"
         },
         "ysi_unified": {
-            "value": "42.6"
+            "value": 42.6
         },
         "research_octane_number": {
-            "value": "99",
+            "value": 99.0,
             "source": "[9], [11]"
         },
         "motor_octane_number": {
-            "value": "92.5",
+            "value": 92.5,
             "source": "[9], [11]"
         },
         "octane_sensitivity": {
-            "value": "6.5",
+            "value": 6.5,
             "source": "[9], [11]"
         },
         "boiling_point": {
-            "value": "125.4",
+            "value": 125.4,
             "source": "Scifinder"
         },
         "flash_point": {
-            "value": "15",
+            "value": 15.0,
             "source": "Co-Optima DB"
         },
         "melting_point": {
-            "value": "-69",
+            "value": -69.0,
             "source": "Scifinder"
         }
     }

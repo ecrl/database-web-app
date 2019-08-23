@@ -9,15 +9,15 @@
     "molecular_formula": "C4H6O2",
     "properties": {
         "autoignition_temp": {
-            "value": "365",
+            "value": 365.0,
             "source": "Co-Optima DB"
         },
         "boiling_point": {
-            "value": "88",
+            "value": 88.0,
             "source": "Scifinder"
         },
         "flash_point": {
-            "value": "27",
+            "value": 27.0,
             "source": "Co-Optima DB"
         }
     }

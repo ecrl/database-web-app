@@ -9,11 +9,11 @@
     "molecular_formula": "C8H7N",
     "properties": {
         "boiling_point": {
-            "value": "254",
+            "value": 254.0,
             "source": "Chemspider"
         },
         "melting_point": {
-            "value": "52",
+            "value": 52.0,
             "source": "Scifinder"
         }
     }

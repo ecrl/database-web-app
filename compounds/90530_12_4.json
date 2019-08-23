@@ -9,35 +9,35 @@
     "molecular_formula": "C3H6",
     "properties": {
         "research_octane_number": {
-            "value": "101.8",
+            "value": 101.8,
             "source": "[1], [9]"
         },
         "motor_octane_number": {
-            "value": "84.9",
+            "value": 84.9,
             "source": "[1], [9]"
         },
         "octane_sensitivity": {
-            "value": "16.9",
+            "value": 16.9,
             "source": "[1], [9]"
         },
         "autoignition_temp": {
-            "value": "460",
+            "value": 460.0,
             "source": "Co-Optima DB"
         },
         "boiling_point": {
-            "value": "-48",
+            "value": -48.0,
             "source": "Scifinder"
         },
         "flash_point": {
-            "value": "-108",
+            "value": -108.0,
             "source": "Co-Optima DB"
         },
         "heat_of_vaporization": {
-            "value": "18.2",
+            "value": 18.2,
             "source": "104.62 cal/g converted to kJ/mol Pub Chem"
         },
         "melting_point": {
-            "value": "-185",
+            "value": -185.0,
             "source": "Scifinder"
         }
     },

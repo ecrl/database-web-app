@@ -9,11 +9,11 @@
     "molecular_formula": "C8H18O",
     "properties": {
         "flash_point": {
-            "value": "54",
+            "value": 54.0,
             "source": "Co-Optima DB"
         },
         "melting_point": {
-            "value": "-123",
+            "value": -123.0,
             "source": "Scifinder"
         }
     }

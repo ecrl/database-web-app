@@ -12,39 +12,39 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "30",
+            "value": 30.0,
             "method": "IQT",
             "source": "NREL (2014)"
         },
         "ysi_unified": {
-            "value": "32.4"
+            "value": 32.4
         },
         "research_octane_number": {
-            "value": "69",
+            "value": 69.0,
             "source": ""
         },
         "motor_octane_number": {
-            "value": "78.1",
+            "value": 78.1,
             "source": ""
         },
         "octane_sensitivity": {
-            "value": "-9.1",
+            "value": -9.1,
             "source": ""
         },
         "autoignition_temp": {
-            "value": "393",
+            "value": 393.0,
             "source": "Co-Optima DB"
         },
         "boiling_point": {
-            "value": "149",
+            "value": 149.0,
             "source": "Alfa Aesar"
         },
         "flash_point": {
-            "value": "39",
+            "value": 39.0,
             "source": "Co-Optima DB"
         },
         "melting_point": {
-            "value": "-35.5",
+            "value": -35.5,
             "source": "CRC Handbook"
         }
     }

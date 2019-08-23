@@ -12,36 +12,36 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "21.3",
+            "value": 21.3,
             "method": "IQT",
             "source": "NREL (2014)"
         },
         "research_octane_number": {
-            "value": "86",
+            "value": 86.0,
             "source": "[6]"
         },
         "motor_octane_number": {
-            "value": "73",
+            "value": 73.0,
             "source": "[6]"
         },
         "octane_sensitivity": {
-            "value": "13",
+            "value": 13.0,
             "source": "[6]"
         },
         "autoignition_temp": {
-            "value": "260",
+            "value": 260.0,
             "source": "Co-Optima DB"
         },
         "boiling_point": {
-            "value": "78",
+            "value": 78.0,
             "source": "Scifinder"
         },
         "flash_point": {
-            "value": "-10",
+            "value": -10.0,
             "source": "Co-Optima DB"
         },
         "melting_point": {
-            "value": "-136",
+            "value": -136.0,
             "source": "Scifinder"
         }
     }

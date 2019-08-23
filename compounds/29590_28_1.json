@@ -9,7 +9,7 @@
     "molecular_formula": "C26H50O4",
     "properties": {
         "pour_point": {
-            "value": "-60"
+            "value": -60.0
         }
     },
     "compound_groups": []

@@ -12,22 +12,22 @@
     ],
     "properties": {
         "ysi_unified": {
-            "value": "8.2"
+            "value": 8.2
         },
         "autoignition_temp": {
-            "value": "398",
+            "value": 398.0,
             "source": "Co-Optima DB"
         },
         "boiling_point": {
-            "value": "197.3",
+            "value": 197.3,
             "source": "Scifinder"
         },
         "flash_point": {
-            "value": "111",
+            "value": 111.0,
             "source": "Co-Optima DB"
         },
         "melting_point": {
-            "value": "-13",
+            "value": -13.0,
             "source": "Scifinder"
         }
     }

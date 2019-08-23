@@ -9,15 +9,15 @@
     "molecular_formula": "C5H10",
     "properties": {
         "research_octane_number": {
-            "value": "100.4",
+            "value": 100.4,
             "source": "[1]"
         },
         "motor_octane_number": {
-            "value": "85.7",
+            "value": 85.7,
             "source": "[1]"
         },
         "octane_sensitivity": {
-            "value": "14.7",
+            "value": 14.7,
             "source": "[1]"
         }
     },

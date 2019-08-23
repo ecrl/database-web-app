@@ -9,7 +9,7 @@
     "molecular_formula": "C11H14O4",
     "properties": {
         "melting_point": {
-            "value": "63.5",
+            "value": 63.5,
             "source": "Scifinder"
         }
     }

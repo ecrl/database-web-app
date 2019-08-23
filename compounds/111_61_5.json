@@ -12,16 +12,16 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "76.8",
+            "value": 76.8,
             "method": "CFR",
             "source": "NREL (2014)"
         },
         "boiling_point": {
-            "value": "389",
+            "value": 389.0,
             "source": "Chemspider"
         },
         "melting_point": {
-            "value": "33",
+            "value": 33.0,
             "source": "Scifinder"
         }
     }

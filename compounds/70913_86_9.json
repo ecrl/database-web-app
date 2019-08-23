@@ -9,30 +9,30 @@
     "molecular_formula": "C3H8",
     "properties": {
         "research_octane_number": {
-            "value": "111",
+            "value": 111.0,
             "source": "[4]"
         },
         "motor_octane_number": {
-            "value": "97.1",
+            "value": 97.1,
             "source": "[4]"
         },
         "octane_sensitivity": {
-            "value": "13.9",
+            "value": 13.9,
             "source": "[4]"
         },
         "kinematic_viscosity": {
-            "value": "0.1858"
+            "value": 0.1858
         },
         "autoignition_temp": {
-            "value": "450",
+            "value": 450.0,
             "source": "Co-Optima DB"
         },
         "flash_point": {
-            "value": "-104",
+            "value": -104.0,
             "source": "Co-Optima DB"
         },
         "heat_of_vaporization": {
-            "value": "14.79",
+            "value": 14.79,
             "source": "CRC Handbook"
         }
     },

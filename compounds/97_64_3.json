@@ -9,19 +9,19 @@
     "molecular_formula": "C5H10O3",
     "properties": {
         "research_octane_number": {
-            "value": "107.5",
+            "value": 107.5,
             "source": ""
         },
         "motor_octane_number": {
-            "value": "108.1",
+            "value": 108.1,
             "source": ""
         },
         "octane_sensitivity": {
-            "value": "-0.6",
+            "value": -0.6,
             "source": ""
         },
         "flash_point": {
-            "value": "46",
+            "value": 46.0,
             "source": "Co-Optima DB"
         }
     },

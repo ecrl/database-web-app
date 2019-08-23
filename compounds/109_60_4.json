@@ -13,17 +13,17 @@
     ],
     "properties": {
         "ysi_unified": {
-            "value": "24.4"
+            "value": 24.4
         },
         "kinematic_viscosity": {
-            "value": "0.5483"
+            "value": 0.5483
         },
         "boiling_point": {
-            "value": "101.5",
+            "value": 101.5,
             "source": "Scifinder"
         },
         "flash_point": {
-            "value": "13",
+            "value": 13.0,
             "source": "Co-Optima DB"
         }
     }

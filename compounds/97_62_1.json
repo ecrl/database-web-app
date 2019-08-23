@@ -12,30 +12,30 @@
     ],
     "properties": {
         "ysi_unified": {
-            "value": "26.1"
+            "value": 26.1
         },
         "research_octane_number": {
-            "value": "110.3",
+            "value": 110.3,
             "source": "[11]"
         },
         "motor_octane_number": {
-            "value": "109.5",
+            "value": 109.5,
             "source": "[11]"
         },
         "octane_sensitivity": {
-            "value": "0.8",
+            "value": 0.8,
             "source": "[11]"
         },
         "boiling_point": {
-            "value": "111",
+            "value": 111.0,
             "source": "Chemspider"
         },
         "flash_point": {
-            "value": "13",
+            "value": 13.0,
             "source": "Co-Optima DB"
         },
         "heat_of_vaporization": {
-            "value": "39.8",
+            "value": 39.8,
             "source": "Chickos and Acree, 2003. Enthalpies of Vaporization of Organic and Organometallic Compounds"
         }
     }

@@ -9,11 +9,11 @@
     "molecular_formula": "C5H10O",
     "properties": {
         "autoignition_temp": {
-            "value": "345",
+            "value": 345.0,
             "source": "Co-Optima DB"
         },
         "flash_point": {
-            "value": "36",
+            "value": 36.0,
             "source": "Co-Optima DB"
         }
     }

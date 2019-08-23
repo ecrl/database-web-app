@@ -13,10 +13,10 @@
     ],
     "properties": {
         "ysi_unified": {
-            "value": "13.9"
+            "value": 13.9
         },
         "kinematic_viscosity": {
-            "value": "0.3606"
+            "value": 0.3606
         }
     }
 }

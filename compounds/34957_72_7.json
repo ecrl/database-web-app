@@ -9,11 +9,11 @@
     "molecular_formula": "C6H12O3",
     "properties": {
         "boiling_point": {
-            "value": "265",
+            "value": 265.0,
             "source": "Scifinder"
         },
         "melting_point": {
-            "value": "-50",
+            "value": -50.0,
             "source": "Scifinder"
         }
     }

@@ -9,11 +9,11 @@
     "molecular_formula": "C6H6O2",
     "properties": {
         "boiling_point": {
-            "value": "286",
+            "value": 286.0,
             "source": "Scifinder"
         },
         "flash_point": {
-            "value": "165",
+            "value": 165.0,
             "source": "Co-Optima DB"
         }
     }

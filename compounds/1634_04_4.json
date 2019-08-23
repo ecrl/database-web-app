@@ -14,25 +14,25 @@
     ],
     "properties": {
         "ysi_unified": {
-            "value": "31.5"
+            "value": 31.5
         },
         "kinematic_viscosity": {
-            "value": "0.4065"
+            "value": 0.4065
         },
         "autoignition_temp": {
-            "value": "374",
+            "value": 374.0,
             "source": "Co-Optima DB"
         },
         "flash_point": {
-            "value": "-33",
+            "value": -33.0,
             "source": "Co-Optima DB"
         },
         "heat_of_vaporization": {
-            "value": "29.29",
+            "value": 29.29,
             "source": "Pub Chem, converted from 145 btu/lb"
         },
         "melting_point": {
-            "value": "-108.6",
+            "value": -108.6,
             "source": "Scifinder"
         }
     }

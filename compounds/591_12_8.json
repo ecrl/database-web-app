@@ -9,11 +9,11 @@
     "molecular_formula": "C5H6O2",
     "properties": {
         "flash_point": {
-            "value": "68",
+            "value": 68.0,
             "source": "Co-Optima DB"
         },
         "melting_point": {
-            "value": "18",
+            "value": 18.0,
             "source": "Scifinder"
         }
     }

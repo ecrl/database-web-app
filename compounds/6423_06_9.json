@@ -12,39 +12,39 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "13.1",
+            "value": 13.1,
             "method": "IQT",
             "source": "NREL (2014)"
         },
         "ysi_unified": {
-            "value": "31.9"
+            "value": 31.9
         },
         "research_octane_number": {
-            "value": "98.8",
+            "value": 98.8,
             "source": ""
         },
         "motor_octane_number": {
-            "value": "86.8",
+            "value": 86.8,
             "source": ""
         },
         "octane_sensitivity": {
-            "value": "12",
+            "value": 12.0,
             "source": ""
         },
         "autoignition_temp": {
-            "value": "340",
+            "value": 340.0,
             "source": "Co-Optima DB"
         },
         "flash_point": {
-            "value": "43",
+            "value": 43.0,
             "source": "Co-Optima DB"
         },
         "heat_of_vaporization": {
-            "value": "48.48",
+            "value": 48.48,
             "source": "13.3 kcal/mol Pubchem converted to kJ/mol"
         },
         "melting_point": {
-            "value": "-117.2",
+            "value": -117.2,
             "source": "The Merck Index"
         }
     }

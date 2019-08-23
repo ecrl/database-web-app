@@ -9,7 +9,7 @@
     "molecular_formula": "C10H22O",
     "properties": {
         "pour_point": {
-            "value": "-47"
+            "value": -47.0
         }
     },
     "compound_groups": []

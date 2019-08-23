@@ -9,15 +9,15 @@
     "molecular_formula": "C9H10O2",
     "properties": {
         "boiling_point": {
-            "value": "224",
+            "value": 224.0,
             "source": "Chemspider"
         },
         "flash_point": {
-            "value": "113",
+            "value": 113.0,
             "source": "Co-Optima DB"
         },
         "melting_point": {
-            "value": "29",
+            "value": 29.0,
             "source": "Chemspider"
         }
     }

@@ -12,31 +12,31 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "10.4",
+            "value": 10.4,
             "method": "IQT",
             "source": "Marquardt (2015)"
         },
         "ysi_unified": {
-            "value": "34.3"
+            "value": 34.3
         },
         "research_octane_number": {
-            "value": "100.1",
+            "value": 100.1,
             "source": "[1]"
         },
         "motor_octane_number": {
-            "value": "87.7",
+            "value": 87.7,
             "source": "[1]"
         },
         "octane_sensitivity": {
-            "value": "12.4",
+            "value": 12.4,
             "source": "[1]"
         },
         "boiling_point": {
-            "value": "156",
+            "value": 156.0,
             "source": "SAE 2012-01-1310, Chemspider"
         },
         "flash_point": {
-            "value": "44",
+            "value": 44.0,
             "source": "Co-Optima DB"
         }
     }

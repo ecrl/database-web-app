@@ -12,12 +12,12 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "22",
+            "value": 22.0,
             "method": "5%\u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u20ac\u01537% Blend, CFR",
             "source": "NREL (2014)"
         },
         "ysi_unified": {
-            "value": "466.1"
+            "value": 466.1
         }
     }
 }

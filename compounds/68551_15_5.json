@@ -13,12 +13,12 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "39",
+            "value": 39.0,
             "method": "Unknown",
             "source": "Kubic (2016)"
         },
         "kinematic_viscosity": {
-            "value": "0.6582"
+            "value": 0.6582
         }
     }
 }

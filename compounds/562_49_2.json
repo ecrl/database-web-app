@@ -14,22 +14,22 @@
     ],
     "properties": {
         "ysi_unified": {
-            "value": "47.7"
+            "value": 47.7
         },
         "research_octane_number": {
-            "value": "80.8",
+            "value": 80.8,
             "source": ""
         },
         "motor_octane_number": {
-            "value": "86.6",
+            "value": 86.6,
             "source": ""
         },
         "octane_sensitivity": {
-            "value": "-5.8",
+            "value": -5.8,
             "source": ""
         },
         "kinematic_viscosity": {
-            "value": "0.5625"
+            "value": 0.5625
         }
     }
 }

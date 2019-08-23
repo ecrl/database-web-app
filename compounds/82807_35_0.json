@@ -13,7 +13,7 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "23",
+            "value": 23.0,
             "method": "CFR",
             "source": "Jenkins (2013)"
         }

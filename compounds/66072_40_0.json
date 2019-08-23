@@ -10,26 +10,26 @@
     "compound_groups": [],
     "properties": {
         "ysi_unified": {
-            "value": "189"
+            "value": 189.0
         },
         "autoignition_temp": {
-            "value": "436",
+            "value": 436.0,
             "source": "Co-Optima DB"
         },
         "boiling_point": {
-            "value": "205",
+            "value": 205.0,
             "source": "CRC Handbook"
         },
         "flash_point": {
-            "value": "96",
+            "value": 96.0,
             "source": "Co-Optima DB"
         },
         "heat_of_vaporization": {
-            "value": "50.48",
+            "value": 50.48,
             "source": "CRC Handbook"
         },
         "melting_point": {
-            "value": "-15.2",
+            "value": -15.2,
             "source": "CRC handbook"
         }
     }

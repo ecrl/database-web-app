@@ -12,19 +12,19 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "40",
+            "value": 40.0,
             "method": "IQT",
             "source": "NREL (2014)"
         },
         "ysi_unified": {
-            "value": "66.7"
+            "value": 66.7
         },
         "flash_point": {
-            "value": "99",
+            "value": 99.0,
             "source": "Co-Optima DB"
         },
         "melting_point": {
-            "value": "-55",
+            "value": -55.0,
             "source": "Scifinder"
         }
     }

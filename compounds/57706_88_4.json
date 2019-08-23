@@ -9,11 +9,11 @@
     "molecular_formula": "C10H22O",
     "properties": {
         "boiling_point": {
-            "value": "196",
+            "value": 196.0,
             "source": "Scifinder"
         },
         "flash_point": {
-            "value": "76",
+            "value": 76.0,
             "source": "Co-Optima DB"
         }
     }

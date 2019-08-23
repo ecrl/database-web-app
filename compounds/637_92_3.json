@@ -12,26 +12,26 @@
     ],
     "properties": {
         "ysi_unified": {
-            "value": "37.9"
+            "value": 37.9
         },
         "autoignition_temp": {
-            "value": "375",
+            "value": 375.0,
             "source": "Co-Optima DB"
         },
         "boiling_point": {
-            "value": "73.1",
+            "value": 73.1,
             "source": "Scifinder"
         },
         "flash_point": {
-            "value": "-18",
+            "value": -18.0,
             "source": "Co-Optima DB"
         },
         "heat_of_vaporization": {
-            "value": "31.02",
+            "value": 31.02,
             "source": "73.4 cal/g, Pubchem, converted to kJ/mol"
         },
         "melting_point": {
-            "value": "-94",
+            "value": -94.0,
             "source": "Scifinder"
         }
     }

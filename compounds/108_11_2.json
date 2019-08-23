@@ -14,21 +14,21 @@
     ],
     "properties": {
         "ysi_unified": {
-            "value": "42"
+            "value": 42.0
         },
         "kinematic_viscosity": {
-            "value": "3.1204"
+            "value": 3.1204
         },
         "boiling_point": {
-            "value": "133",
+            "value": 133.0,
             "source": "Handbook of Chemistry and Physics"
         },
         "flash_point": {
-            "value": "41",
+            "value": 41.0,
             "source": "Co-Optima DB"
         },
         "melting_point": {
-            "value": "-90",
+            "value": -90.0,
             "source": "Scifinder"
         }
     }

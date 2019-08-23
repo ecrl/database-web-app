@@ -12,16 +12,16 @@
     ],
     "properties": {
         "cetane_number": {
-            "value": "51.7",
+            "value": 51.7,
             "method": "IQT",
             "source": "Marquardt (2015)"
         },
         "boiling_point": {
-            "value": "160.4",
+            "value": 160.4,
             "source": "Scifinder"
         },
         "flash_point": {
-            "value": "34",
+            "value": 34.0,
             "source": "Co-Optima DB"
         }
     }
