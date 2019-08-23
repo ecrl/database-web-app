@@ -1,0 +1,35 @@
+{
+    "cas": "68441-35-0",
+    "cid": 7501,
+    "iupac_name": "styrene",
+    "canonical_smiles": "C=CC1=CC=CC=C1",
+    "isomeric_smiles": "C=CC1=CC=CC=C1",
+    "inchi": "1S/C8H8/c1-2-8-6-4-3-5-7-8/h2-7H,1H2",
+    "inchikey": "PPBRXRYQALVLMV-UHFFFAOYSA-N",
+    "molecular_formula": "C8H8",
+    "compound_groups": [
+        "aromatic",
+        "aromatic (single ring) with attached olefin side chain",
+        "aromatics"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "174"
+        },
+        "research_octane_number": {
+            "value": "103",
+            "source": ""
+        },
+        "motor_octane_number": {
+            "value": "100.2",
+            "source": ""
+        },
+        "octane_sensitivity": {
+            "value": "2.8",
+            "source": ""
+        },
+        "kinematic_viscosity": {
+            "value": "0.6643"
+        }
+    }
+}

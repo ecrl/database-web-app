@@ -1,0 +1,35 @@
+{
+    "cas": "760-21-4",
+    "cid": 12970,
+    "iupac_name": "3-methylidenepentane",
+    "canonical_smiles": "CCC(=C)CC",
+    "isomeric_smiles": "CCC(=C)CC",
+    "inchi": "1S/C6H12/c1-4-6(3)5-2/h3-5H2,1-2H3",
+    "inchikey": "RYKZRKKEYSRDNF-UHFFFAOYSA-N",
+    "molecular_formula": "C6H12",
+    "compound_groups": [
+        "alkenes",
+        "olefin (alkene) with single c=c double bond",
+        "hexenes"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "45.6"
+        },
+        "research_octane_number": {
+            "value": "99.3",
+            "source": "[9]"
+        },
+        "motor_octane_number": {
+            "value": "79.4",
+            "source": "[9]"
+        },
+        "octane_sensitivity": {
+            "value": "19.9",
+            "source": "[9]"
+        },
+        "kinematic_viscosity": {
+            "value": "0.3448"
+        }
+    }
+}

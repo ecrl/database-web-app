@@ -1,0 +1,18 @@
+{
+    "cas": "2987-16-8",
+    "cid": 76335,
+    "iupac_name": "3,3-dimethylbutanal",
+    "canonical_smiles": "CC(C)(C)CC=O",
+    "isomeric_smiles": "CC(C)(C)CC=O",
+    "inchi": "1S/C6H12O/c1-6(2,3)4-5-7/h5H,4H2,1-3H3",
+    "inchikey": "LTNUSYNQZJZUSY-UHFFFAOYSA-N",
+    "molecular_formula": "C6H12O",
+    "compound_groups": [
+        "saturated aldehyde"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "38.4"
+        }
+    }
+}

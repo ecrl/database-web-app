@@ -1,0 +1,18 @@
+{
+    "cas": "26856-36-0",
+    "cid": 12309,
+    "iupac_name": "pent-1-yne",
+    "canonical_smiles": "CCCC#C",
+    "isomeric_smiles": "CCCC#C",
+    "inchi": "1S/C5H8/c1-3-5-4-2/h1H,4-5H2,2H3",
+    "inchikey": "IBXNCJKFFQIKKY-UHFFFAOYSA-N",
+    "molecular_formula": "C5H8",
+    "compound_groups": [
+        "alkynes/alkadienes"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "47.3"
+        }
+    }
+}

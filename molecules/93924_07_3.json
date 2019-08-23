@@ -1,0 +1,27 @@
+{
+    "cas": "93924-07-3",
+    "cid": 8182,
+    "iupac_name": "dodecane",
+    "canonical_smiles": "CCCCCCCCCCCC",
+    "isomeric_smiles": "CCCCCCCCCCCC",
+    "inchi": "1S/C12H26/c1-3-5-7-9-11-12-10-8-6-4-2/h3-12H2,1-2H3",
+    "inchikey": "SNRUBQQJIBEYMU-UHFFFAOYSA-N",
+    "molecular_formula": "C12H26",
+    "compound_groups": [
+        "alkanes",
+        "normal paraffin"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "72.9",
+            "method": "IQT",
+            "source": "NREL (2014)"
+        },
+        "ysi_unified": {
+            "value": "71.7"
+        },
+        "kinematic_viscosity": {
+            "value": "1.5446"
+        }
+    }
+}

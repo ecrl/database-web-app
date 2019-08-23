@@ -1,0 +1,18 @@
+{
+    "cas": "109-05-7",
+    "cid": 7974,
+    "iupac_name": "2-methylpiperidine",
+    "canonical_smiles": "CC1CCCCN1",
+    "isomeric_smiles": "CC1CCCCN1",
+    "inchi": "1S/C6H13N/c1-6-4-2-3-5-7-6/h6-7H,2-5H2,1H3",
+    "inchikey": "NNWUEBIEOFQMSS-UHFFFAOYSA-N",
+    "molecular_formula": "C6H13N",
+    "compound_groups": [
+        "cyclic amine"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "27.3"
+        }
+    }
+}

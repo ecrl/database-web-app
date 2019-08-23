@@ -1,0 +1,18 @@
+{
+    "cas": "15673-00-4",
+    "cid": 19709,
+    "iupac_name": "3,3-dimethylbutan-1-amine",
+    "canonical_smiles": "CC(C)(C)CCN",
+    "isomeric_smiles": "CC(C)(C)CCN",
+    "inchi": "1S/C6H15N/c1-6(2,3)4-5-7/h4-5,7H2,1-3H3",
+    "inchikey": "GPWHFPWZAPOYNO-UHFFFAOYSA-N",
+    "molecular_formula": "C6H15N",
+    "compound_groups": [
+        "saturated amine"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "40.8"
+        }
+    }
+}

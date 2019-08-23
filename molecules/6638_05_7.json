@@ -1,0 +1,21 @@
+{
+    "cas": "6638-05-7",
+    "cid": 240925,
+    "iupac_name": "2,6-dimethoxy-4-methylphenol",
+    "canonical_smiles": "CC1=CC(=C(C(=C1)OC)O)OC",
+    "isomeric_smiles": "CC1=CC(=C(C(=C1)OC)O)OC",
+    "inchi": "1S/C9H12O3/c1-6-4-7(11-2)9(10)8(5-6)12-3/h4-5,10H,1-3H3",
+    "inchikey": "ZFBNNSOJNZBLLS-UHFFFAOYSA-N",
+    "molecular_formula": "C9H12O3",
+    "compound_groups": [
+        "aromatics",
+        "ethers"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "25",
+            "method": "IQT",
+            "source": "NREL (2014)"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "cas": "54682-86-9",
+    "cid": 241,
+    "iupac_name": "benzene",
+    "canonical_smiles": "C1=CC=CC=C1",
+    "isomeric_smiles": "C1=CC=CC=C1",
+    "inchi": "1S/C6H6/c1-2-4-6-5-3-1/h1-6H",
+    "inchikey": "UHOVQNZJYSORNB-UHFFFAOYSA-N",
+    "molecular_formula": "C6H6",
+    "compound_groups": [
+        "aromatics",
+        "aromatic (single ring)"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "14.3",
+            "method": "CFR",
+            "source": "NREL (2014)"
+        },
+        "ysi_unified": {
+            "value": "100.3"
+        },
+        "kinematic_viscosity": {
+            "value": "0.5959"
+        }
+    }
+}

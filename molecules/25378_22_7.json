@@ -1,0 +1,27 @@
+{
+    "cas": "25378-22-7",
+    "cid": 8183,
+    "iupac_name": "dodec-1-ene",
+    "canonical_smiles": "CCCCCCCCCCC=C",
+    "isomeric_smiles": "CCCCCCCCCCC=C",
+    "inchi": "1S/C12H24/c1-3-5-7-9-11-12-10-8-6-4-2/h3H,1,4-12H2,2H3",
+    "inchikey": "CRSBERNSMYQZNG-UHFFFAOYSA-N",
+    "molecular_formula": "C12H24",
+    "compound_groups": [
+        "olefins",
+        "olefin (alkene) with single c=c double bond"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "56.8",
+            "method": "IQT",
+            "source": "NREL (2014)"
+        },
+        "ysi_unified": {
+            "value": "90.3"
+        },
+        "kinematic_viscosity": {
+            "value": "1.3233"
+        }
+    }
+}

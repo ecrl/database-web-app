@@ -1,0 +1,30 @@
+{
+    "cas": "123-92-2",
+    "cid": 31276,
+    "iupac_name": "3-methylbutyl acetate",
+    "canonical_smiles": "CC(C)CCOC(=O)C",
+    "isomeric_smiles": "CC(C)CCOC(=O)C",
+    "inchi": "1S/C7H14O2/c1-6(2)4-5-9-7(3)8/h6H,4-5H2,1-3H3",
+    "inchikey": "MLFHJEHSLIIPHL-UHFFFAOYSA-N",
+    "molecular_formula": "C7H14O2",
+    "compound_groups": [
+        "saturated esters"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "43.6"
+        },
+        "research_octane_number": {
+            "value": "100.6",
+            "source": "[11]"
+        },
+        "motor_octane_number": {
+            "value": "97.2",
+            "source": "[11]"
+        },
+        "octane_sensitivity": {
+            "value": "3.4",
+            "source": "[11]"
+        }
+    }
+}

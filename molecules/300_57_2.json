@@ -1,0 +1,23 @@
+{
+    "cas": "300-57-2",
+    "cid": 9309,
+    "iupac_name": "prop-2-enylbenzene",
+    "canonical_smiles": "C=CCC1=CC=CC=C1",
+    "isomeric_smiles": "C=CCC1=CC=CC=C1",
+    "inchi": "1S/C9H10/c1-2-6-9-7-4-3-5-8-9/h2-5,7-8H,1,6H2",
+    "inchikey": "HJWLCRVIBGQPNF-UHFFFAOYSA-N",
+    "molecular_formula": "C9H10",
+    "compound_groups": [
+        "aromatic",
+        "aromatic (single ring) with attached olefin side chain",
+        "aromatics"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "310.9"
+        },
+        "kinematic_viscosity": {
+            "value": "0.733"
+        }
+    }
+}

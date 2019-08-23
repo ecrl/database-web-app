@@ -1,0 +1,18 @@
+{
+    "cas": "542-55-2",
+    "cid": 10957,
+    "iupac_name": "2-methylpropyl formate",
+    "canonical_smiles": "CC(C)COC=O",
+    "isomeric_smiles": "CC(C)COC=O",
+    "inchi": "1S/C5H10O2/c1-5(2)3-7-4-6/h4-5H,3H2,1-2H3",
+    "inchikey": "AVMSWPWPYJVYKY-UHFFFAOYSA-N",
+    "molecular_formula": "C5H10O2",
+    "compound_groups": [
+        "saturated esters"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "30.4"
+        }
+    }
+}

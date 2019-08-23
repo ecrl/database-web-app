@@ -1,0 +1,31 @@
+{
+    "cas": "75-28-5",
+    "cid": 6360,
+    "iupac_name": "2-methylpropane",
+    "canonical_smiles": "CC(C)C",
+    "isomeric_smiles": "CC(C)C",
+    "inchi": "1S/C4H10/c1-4(2)3/h4H,1-3H3",
+    "inchikey": "NNPPMTNAJDCUHE-UHFFFAOYSA-N",
+    "molecular_formula": "C4H10",
+    "properties": {
+        "research_octane_number": {
+            "value": "102.05",
+            "source": "[1], [3]"
+        },
+        "motor_octane_number": {
+            "value": "97.6",
+            "source": "[1], [3]"
+        },
+        "octane_sensitivity": {
+            "value": "4.45",
+            "source": "[1], [3]"
+        },
+        "kinematic_viscosity": {
+            "value": "0.2773"
+        }
+    },
+    "compound_groups": [
+        "paraffin (non-normal)",
+        "butanes"
+    ]
+}

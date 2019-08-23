@@ -1,0 +1,40 @@
+{
+    "cas": "90622-56-3",
+    "cid": 11511,
+    "iupac_name": "2,4-dimethylhexane",
+    "canonical_smiles": "CCC(C)CC(C)C",
+    "isomeric_smiles": "CCC(C)CC(C)C",
+    "inchi": "1S/C8H18/c1-5-8(4)6-7(2)3/h7-8H,5-6H2,1-4H3",
+    "inchikey": "HDGQICNBXPAKLR-UHFFFAOYSA-N",
+    "molecular_formula": "C8H18",
+    "compound_groups": [
+        "alkanes",
+        "paraffin (non-normal)",
+        "octanes"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "29",
+            "method": "Unknown",
+            "source": "Kubic (2016)"
+        },
+        "ysi_unified": {
+            "value": "56.1"
+        },
+        "research_octane_number": {
+            "value": "65.2",
+            "source": "[1]"
+        },
+        "motor_octane_number": {
+            "value": "69.9",
+            "source": "[1]"
+        },
+        "octane_sensitivity": {
+            "value": "-4.7",
+            "source": "[1]"
+        },
+        "kinematic_viscosity": {
+            "value": "0.7057"
+        }
+    }
+}

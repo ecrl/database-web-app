@@ -1,0 +1,18 @@
+{
+    "cas": "71340-36-8",
+    "cid": 13043,
+    "iupac_name": "cyclohexen-1-ylbenzene",
+    "canonical_smiles": "C1CCC(=CC1)C2=CC=CC=C2",
+    "isomeric_smiles": "C1CCC(=CC1)C2=CC=CC=C2",
+    "inchi": "1S/C12H14/c1-3-7-11(8-4-1)12-9-5-2-6-10-12/h1,3-4,7-9H,2,5-6,10H2",
+    "inchikey": "WCMSFBRREKZZFL-UHFFFAOYSA-N",
+    "molecular_formula": "C12H14",
+    "compound_groups": [
+        "cyclic alkenes"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "468"
+        }
+    }
+}

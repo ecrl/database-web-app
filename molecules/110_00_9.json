@@ -1,0 +1,33 @@
+{
+    "cas": "110-00-9",
+    "cid": 8029,
+    "iupac_name": "furan",
+    "canonical_smiles": "C1=COC=C1",
+    "isomeric_smiles": "C1=COC=C1",
+    "inchi": "1S/C4H4O/c1-2-4-5-3-1/h1-4H",
+    "inchikey": "YLQBMQCUIZJEEH-UHFFFAOYSA-N",
+    "molecular_formula": "C4H4O",
+    "compound_groups": [
+        "cyclic ethers",
+        "aromatics"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "7",
+            "method": "IQT",
+            "source": "NREL (2014)"
+        },
+        "research_octane_number": {
+            "value": "107.7",
+            "source": "[1]"
+        },
+        "motor_octane_number": {
+            "value": "91.6",
+            "source": "[1]"
+        },
+        "octane_sensitivity": {
+            "value": "16.1",
+            "source": "[1]"
+        }
+    }
+}

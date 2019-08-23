@@ -1,0 +1,33 @@
+{
+    "cas": "25512-65-6",
+    "cid": 8080,
+    "iupac_name": "3,4-dihydro-2H-pyran",
+    "canonical_smiles": "C1CC=COC1",
+    "isomeric_smiles": "C1CC=COC1",
+    "inchi": "1S/C5H8O/c1-2-4-6-5-3-1/h2,4H,1,3,5H2",
+    "inchikey": "BUDQDWGNQVEFAC-UHFFFAOYSA-N",
+    "molecular_formula": "C5H8O",
+    "compound_groups": [
+        "cyclic ethers",
+        "olefins"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "23.9",
+            "method": "IQT",
+            "source": "Marquardt (2015)"
+        },
+        "research_octane_number": {
+            "value": "66.5",
+            "source": "[1]"
+        },
+        "motor_octane_number": {
+            "value": "48.7",
+            "source": "[1]"
+        },
+        "octane_sensitivity": {
+            "value": "17.8",
+            "source": "[1]"
+        }
+    }
+}

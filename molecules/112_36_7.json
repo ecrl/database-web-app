@@ -1,0 +1,20 @@
+{
+    "cas": "112-36-7",
+    "cid": 8179,
+    "iupac_name": "1-ethoxy-2-(2-ethoxyethoxy)ethane",
+    "canonical_smiles": "CCOCCOCCOCC",
+    "isomeric_smiles": "CCOCCOCCOCC",
+    "inchi": "1S/C8H18O3/c1-3-9-5-7-11-8-6-10-4-2/h3-8H2,1-2H3",
+    "inchikey": "RRQYJINTUHWNHW-UHFFFAOYSA-N",
+    "molecular_formula": "C8H18O3",
+    "compound_groups": [
+        "ethers"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "123",
+            "method": "Other Ignition Delay Method",
+            "source": "NREL (2014)"
+        }
+    }
+}

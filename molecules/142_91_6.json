@@ -1,0 +1,20 @@
+{
+    "cas": "142-91-6",
+    "cid": 8907,
+    "iupac_name": "propan-2-yl hexadecanoate",
+    "canonical_smiles": "CCCCCCCCCCCCCCCC(=O)OC(C)C",
+    "isomeric_smiles": "CCCCCCCCCCCCCCCC(=O)OC(C)C",
+    "inchi": "1S/C19H38O2/c1-4-5-6-7-8-9-10-11-12-13-14-15-16-17-19(20)21-18(2)3/h18H,4-17H2,1-3H3",
+    "inchikey": "XUGNVMKQXJXZCD-UHFFFAOYSA-N",
+    "molecular_formula": "C19H38O2",
+    "compound_groups": [
+        "esters"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "83",
+            "method": "Other Ignition Delay Method",
+            "source": "NREL (2014)"
+        }
+    }
+}

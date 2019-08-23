@@ -1,0 +1,21 @@
+{
+    "cas": "101750-15-6",
+    "cid": 66984,
+    "iupac_name": "3-(3-methoxypropoxy)propan-1-ol",
+    "canonical_smiles": "COCCCOCCCO",
+    "isomeric_smiles": "COCCCOCCCO",
+    "inchi": "1S/C7H16O3/c1-9-5-3-7-10-6-2-4-8/h8H,2-7H2,1H3",
+    "inchikey": "QCAHUFWKIQLBNB-UHFFFAOYSA-N",
+    "molecular_formula": "C7H16O3",
+    "compound_groups": [
+        "ethers",
+        "alcohols"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "43.9",
+            "method": "IQT",
+            "source": "NREL (2014)"
+        }
+    }
+}

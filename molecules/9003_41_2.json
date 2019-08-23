@@ -1,0 +1,35 @@
+{
+    "cas": "9003-41-2",
+    "cid": 7967,
+    "iupac_name": "cyclohexanone",
+    "canonical_smiles": "C1CCC(=O)CC1",
+    "isomeric_smiles": "C1CCC(=O)CC1",
+    "inchi": "1S/C6H10O/c7-6-4-2-1-3-5-6/h1-5H2",
+    "inchikey": "JHIVVAPYMSGYDF-UHFFFAOYSA-N",
+    "molecular_formula": "C6H10O",
+    "compound_groups": [
+        "ketones"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "10.4",
+            "method": "IQT",
+            "source": "Marquardt (2015)"
+        },
+        "ysi_unified": {
+            "value": "34.3"
+        },
+        "research_octane_number": {
+            "value": "100.1",
+            "source": "[1]"
+        },
+        "motor_octane_number": {
+            "value": "87.7",
+            "source": "[1]"
+        },
+        "octane_sensitivity": {
+            "value": "12.4",
+            "source": "[1]"
+        }
+    }
+}

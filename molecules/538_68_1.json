@@ -1,0 +1,35 @@
+{
+    "cas": "538-68-1",
+    "cid": 10864,
+    "iupac_name": "pentylbenzene",
+    "canonical_smiles": "CCCCCC1=CC=CC=C1",
+    "isomeric_smiles": "CCCCCC1=CC=CC=C1",
+    "inchi": "1S/C11H16/c1-2-3-5-8-11-9-6-4-7-10-11/h4,6-7,9-10H,2-3,5,8H2,1H3",
+    "inchikey": "PWATWSYOIIXYMA-UHFFFAOYSA-N",
+    "molecular_formula": "C11H16",
+    "compound_groups": [
+        "aromatics"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "18",
+            "method": "Blend",
+            "source": "NREL (2014)"
+        },
+        "ysi_unified": {
+            "value": "255"
+        },
+        "research_octane_number": {
+            "value": "89.2",
+            "source": "[1]"
+        },
+        "motor_octane_number": {
+            "value": "81.7",
+            "source": "[1]"
+        },
+        "octane_sensitivity": {
+            "value": "7.5",
+            "source": "[1]"
+        }
+    }
+}

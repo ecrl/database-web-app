@@ -1,0 +1,18 @@
+{
+    "cas": "68990-37-4",
+    "cid": 1032,
+    "iupac_name": "propanoic acid",
+    "canonical_smiles": "CCC(=O)O",
+    "isomeric_smiles": "CCC(=O)O",
+    "inchi": "1S/C3H6O2/c1-2-3(4)5/h2H2,1H3,(H,4,5)",
+    "inchikey": "XBDQKXXYIPTUBI-UHFFFAOYSA-N",
+    "molecular_formula": "C3H6O2",
+    "compound_groups": [
+        "organic acid"
+    ],
+    "properties": {
+        "kinematic_viscosity": {
+            "value": "0.8861"
+        }
+    }
+}

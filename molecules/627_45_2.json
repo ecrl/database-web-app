@@ -1,0 +1,16 @@
+{
+    "cas": "627-45-2",
+    "cid": 12319,
+    "iupac_name": "N-ethylformamide",
+    "canonical_smiles": "CCNC=O",
+    "isomeric_smiles": "CCNC=O",
+    "inchi": "1S/C3H7NO/c1-2-4-3-5/h3H,2H2,1H3,(H,4,5)",
+    "inchikey": "KERBAAIBDHEFDD-UHFFFAOYSA-N",
+    "molecular_formula": "C3H7NO",
+    "compound_groups": [],
+    "properties": {
+        "ysi_unified": {
+            "value": "4.31"
+        }
+    }
+}

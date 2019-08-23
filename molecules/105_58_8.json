@@ -1,0 +1,18 @@
+{
+    "cas": "105-58-8",
+    "cid": 7766,
+    "iupac_name": "diethyl carbonate",
+    "canonical_smiles": "CCOC(=O)OCC",
+    "isomeric_smiles": "CCOC(=O)OCC",
+    "inchi": "1S/C5H10O3/c1-3-7-5(6)8-4-2/h3-4H2,1-2H3",
+    "inchikey": "OIFBSDVPJOWBCH-UHFFFAOYSA-N",
+    "molecular_formula": "C5H10O3",
+    "compound_groups": [
+        "other multi-oxygen compounds"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "15.3"
+        }
+    }
+}

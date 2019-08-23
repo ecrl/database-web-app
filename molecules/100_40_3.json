@@ -1,0 +1,33 @@
+{
+    "cas": "100-40-3",
+    "cid": 7499,
+    "iupac_name": "4-ethenylcyclohexene",
+    "canonical_smiles": "C=CC1CCC=CC1",
+    "isomeric_smiles": "C=CC1CCC=CC1",
+    "inchi": "1S/C8H12/c1-2-8-6-4-3-5-7-8/h2-4,8H,1,5-7H2",
+    "inchikey": "BBDKZWKEPDTENS-UHFFFAOYSA-N",
+    "molecular_formula": "C8H12",
+    "compound_groups": [
+        "cycloalkenes",
+        "olefins"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "32",
+            "method": "Unknown",
+            "source": "Santana (2006)"
+        },
+        "research_octane_number": {
+            "value": "77",
+            "source": "[1]"
+        },
+        "motor_octane_number": {
+            "value": "57.7",
+            "source": "[1]"
+        },
+        "octane_sensitivity": {
+            "value": "19.3",
+            "source": "[1]"
+        }
+    }
+}

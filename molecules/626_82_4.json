@@ -1,0 +1,20 @@
+{
+    "cas": "626-82-4",
+    "cid": 12294,
+    "iupac_name": "butyl hexanoate",
+    "canonical_smiles": "CCCCCC(=O)OCCCC",
+    "isomeric_smiles": "CCCCCC(=O)OCCCC",
+    "inchi": "1S/C10H20O2/c1-3-5-7-8-10(11)12-9-6-4-2/h3-9H2,1-2H3",
+    "inchikey": "RPRPDTXKGSIXMD-UHFFFAOYSA-N",
+    "molecular_formula": "C10H20O2",
+    "compound_groups": [
+        "esters"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "31",
+            "method": "IQT",
+            "source": "NREL (2014)"
+        }
+    }
+}

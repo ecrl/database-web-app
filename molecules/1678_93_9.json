@@ -1,0 +1,27 @@
+{
+    "cas": "1678-93-9",
+    "cid": 15506,
+    "iupac_name": "butylcyclohexane",
+    "canonical_smiles": "CCCCC1CCCCC1",
+    "isomeric_smiles": "CCCCC1CCCCC1",
+    "inchi": "1S/C10H20/c1-2-3-7-10-8-5-4-6-9-10/h10H,2-9H2,1H3",
+    "inchikey": "GGBJHURWWWLEQH-UHFFFAOYSA-N",
+    "molecular_formula": "C10H20",
+    "compound_groups": [
+        "naphthenes",
+        "naphthene - major structure is saturated ring"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "47.8",
+            "method": "IQT",
+            "source": "NREL (2014)"
+        },
+        "ysi_unified": {
+            "value": "76.8"
+        },
+        "kinematic_viscosity": {
+            "value": "1.2539"
+        }
+    }
+}

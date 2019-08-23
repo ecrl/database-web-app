@@ -1,0 +1,18 @@
+{
+    "cas": "111-43-3",
+    "cid": 8114,
+    "iupac_name": "1-propoxypropane",
+    "canonical_smiles": "CCCOCCC",
+    "isomeric_smiles": "CCCOCCC",
+    "inchi": "1S/C6H14O/c1-3-5-7-6-4-2/h3-6H2,1-2H3",
+    "inchikey": "POLCUAVZOMRGSN-UHFFFAOYSA-N",
+    "molecular_formula": "C6H14O",
+    "compound_groups": [
+        "saturated ethers"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "28"
+        }
+    }
+}

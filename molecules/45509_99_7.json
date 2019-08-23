@@ -1,0 +1,18 @@
+{
+    "cas": "45509-99-7",
+    "cid": 12363,
+    "iupac_name": "cycloheptene",
+    "canonical_smiles": "C1CCC=CCC1",
+    "isomeric_smiles": "C1CCC=CCC1",
+    "inchi": "1S/C7H12/c1-2-4-6-7-5-3-1/h1-2H,3-7H2",
+    "inchikey": "ZXIJMRYMVAMXQP-UHFFFAOYSA-N",
+    "molecular_formula": "C7H12",
+    "compound_groups": [
+        "cyclic alkenes"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "79"
+        }
+    }
+}

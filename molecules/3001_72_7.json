@@ -1,0 +1,16 @@
+{
+    "cas": "3001-72-7",
+    "cid": 76349,
+    "iupac_name": "2,3,4,6,7,8-hexahydropyrrolo[1,2-a]pyrimidine",
+    "canonical_smiles": "C1CC2=NCCCN2C1",
+    "isomeric_smiles": "C1CC2=NCCCN2C1",
+    "inchi": "1S/C7H12N2/c1-3-7-8-4-2-6-9(7)5-1/h1-6H2",
+    "inchikey": "SGUVLZREKBPKCE-UHFFFAOYSA-N",
+    "molecular_formula": "C7H12N2",
+    "compound_groups": [],
+    "properties": {
+        "ysi_unified": {
+            "value": "27.89"
+        }
+    }
+}

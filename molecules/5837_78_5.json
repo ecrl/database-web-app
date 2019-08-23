@@ -1,0 +1,18 @@
+{
+    "cas": "5837-78-5",
+    "cid": 5281163,
+    "iupac_name": "ethyl (E)-2-methylbut-2-enoate",
+    "canonical_smiles": "CCOC(=O)C(=CC)C",
+    "isomeric_smiles": "CCOC(=O)/C(=C/C)/C",
+    "inchi": "1S/C7H12O2/c1-4-6(3)7(8)9-5-2/h4H,5H2,1-3H3/b6-4+",
+    "inchikey": "OAPHLAAOJMTMLY-GQCTYLIASA-N",
+    "molecular_formula": "C7H12O2",
+    "compound_groups": [
+        "unsaturated esters"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "34"
+        }
+    }
+}

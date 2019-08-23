@@ -1,0 +1,18 @@
+{
+    "cas": "613-31-0",
+    "cid": 11940,
+    "iupac_name": "9,10-dihydroanthracene",
+    "canonical_smiles": "C1C2=CC=CC=C2CC3=CC=CC=C31",
+    "isomeric_smiles": "C1C2=CC=CC=C2CC3=CC=CC=C31",
+    "inchi": "1S/C14H12/c1-2-6-12-10-14-8-4-3-7-13(14)9-11(12)5-1/h1-8H,9-10H2",
+    "inchikey": "WPDAVTSOEQEGMS-UHFFFAOYSA-N",
+    "molecular_formula": "C14H12",
+    "compound_groups": [
+        "aromatic"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "988.8"
+        }
+    }
+}

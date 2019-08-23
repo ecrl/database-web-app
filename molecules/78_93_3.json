@@ -1,0 +1,35 @@
+{
+    "cas": "78-93-3",
+    "cid": 6569,
+    "iupac_name": "butan-2-one",
+    "canonical_smiles": "CCC(=O)C",
+    "isomeric_smiles": "CCC(=O)C",
+    "inchi": "1S/C4H8O/c1-3-4(2)5/h3H2,1-2H3",
+    "inchikey": "ZWEHNKRNPOVVGH-UHFFFAOYSA-N",
+    "molecular_formula": "C4H8O",
+    "compound_groups": [
+        "saturated alkanone",
+        "ketone",
+        "ketones"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "17.2"
+        },
+        "research_octane_number": {
+            "value": "105.3",
+            "source": "[9]"
+        },
+        "motor_octane_number": {
+            "value": "105.5",
+            "source": "[9]"
+        },
+        "octane_sensitivity": {
+            "value": "-0.2",
+            "source": "[9]"
+        },
+        "kinematic_viscosity": {
+            "value": "0.4403"
+        }
+    }
+}

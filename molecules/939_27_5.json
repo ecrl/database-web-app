@@ -1,0 +1,18 @@
+{
+    "cas": "939-27-5",
+    "cid": 13652,
+    "iupac_name": "2-ethylnaphthalene",
+    "canonical_smiles": "CCC1=CC2=CC=CC=C2C=C1",
+    "isomeric_smiles": "CCC1=CC2=CC=CC=C2C=C1",
+    "inchi": "1S/C12H12/c1-2-10-7-8-11-5-3-4-6-12(11)9-10/h3-9H,2H2,1H3",
+    "inchikey": "RJTJVVYSTUQWNI-UHFFFAOYSA-N",
+    "molecular_formula": "C12H12",
+    "compound_groups": [
+        "aromatic"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "701.3"
+        }
+    }
+}

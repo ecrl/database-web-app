@@ -1,0 +1,27 @@
+{
+    "cas": "92-51-3",
+    "cid": 7094,
+    "iupac_name": "cyclohexylcyclohexane",
+    "canonical_smiles": "C1CCC(CC1)C2CCCCC2",
+    "isomeric_smiles": "C1CCC(CC1)C2CCCCC2",
+    "inchi": "1S/C12H22/c1-3-7-11(8-4-1)12-9-5-2-6-10-12/h11-12H,1-10H2",
+    "inchikey": "WVIIMZNLDWSIRH-UHFFFAOYSA-N",
+    "molecular_formula": "C12H22",
+    "compound_groups": [
+        "naphthenes",
+        "naphthene - major structure is saturated ring"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "51",
+            "method": "Unknown",
+            "source": "NREL (2014)"
+        },
+        "ysi_unified": {
+            "value": "100.3"
+        },
+        "kinematic_viscosity": {
+            "value": "2.9175"
+        }
+    }
+}

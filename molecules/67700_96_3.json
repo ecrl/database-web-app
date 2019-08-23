@@ -1,0 +1,23 @@
+{
+    "cas": "67700-96-3",
+    "cid": 957,
+    "iupac_name": "octan-1-ol",
+    "canonical_smiles": "CCCCCCCCO",
+    "isomeric_smiles": "CCCCCCCCO",
+    "inchi": "1S/C8H18O/c1-2-3-4-5-6-7-8-9/h9H,2-8H2,1H3",
+    "inchikey": "KBPLFHHGFOOTCA-UHFFFAOYSA-N",
+    "molecular_formula": "C8H18O",
+    "compound_groups": [
+        "alcohols"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "39.1",
+            "method": "CFR",
+            "source": "NREL (2014)"
+        },
+        "ysi_unified": {
+            "value": "41.1"
+        }
+    }
+}

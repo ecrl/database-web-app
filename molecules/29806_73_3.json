@@ -1,0 +1,20 @@
+{
+    "cas": "29806-73-3",
+    "cid": 62851,
+    "iupac_name": "2-ethylhexyl hexadecanoate",
+    "canonical_smiles": "CCCCCCCCCCCCCCCC(=O)OCC(CC)CCCC",
+    "isomeric_smiles": "CCCCCCCCCCCCCCCC(=O)OCC(CC)CCCC",
+    "inchi": "1S/C24H48O2/c1-4-7-9-10-11-12-13-14-15-16-17-18-19-21-24(25)26-22-23(6-3)20-8-5-2/h23H,4-22H2,1-3H3",
+    "inchikey": "SFAAOBGYWOUHLU-UHFFFAOYSA-N",
+    "molecular_formula": "C24H48O2",
+    "compound_groups": [
+        "esters"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "98",
+            "method": "Other Ignition Delay Method",
+            "source": "NREL (2014)"
+        }
+    }
+}

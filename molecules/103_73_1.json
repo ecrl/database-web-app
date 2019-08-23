@@ -1,0 +1,18 @@
+{
+    "cas": "103-73-1",
+    "cid": 7674,
+    "iupac_name": "ethoxybenzene",
+    "canonical_smiles": "CCOC1=CC=CC=C1",
+    "isomeric_smiles": "CCOC1=CC=CC=C1",
+    "inchi": "1S/C8H10O/c1-2-9-8-6-4-3-5-7-8/h3-7H,2H2,1H3",
+    "inchikey": "DLRJIFUOBPOJNS-UHFFFAOYSA-N",
+    "molecular_formula": "C8H10O",
+    "compound_groups": [
+        "aromatic"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "112.3"
+        }
+    }
+}

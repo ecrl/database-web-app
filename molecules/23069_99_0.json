@@ -1,0 +1,16 @@
+{
+    "cas": "23069-99-0",
+    "cid": 140995,
+    "iupac_name": "N-(2-phenylethyl)formamide",
+    "canonical_smiles": "C1=CC=C(C=C1)CCNC=O",
+    "isomeric_smiles": "C1=CC=C(C=C1)CCNC=O",
+    "inchi": "1S/C9H11NO/c11-8-10-7-6-9-4-2-1-3-5-9/h1-5,8H,6-7H2,(H,10,11)",
+    "inchikey": "NOOOMJZHMKSKBF-UHFFFAOYSA-N",
+    "molecular_formula": "C9H11NO",
+    "compound_groups": [],
+    "properties": {
+        "ysi_unified": {
+            "value": "216.78"
+        }
+    }
+}

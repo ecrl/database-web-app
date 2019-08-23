@@ -1,0 +1,24 @@
+{
+    "cas": "1120-36-1",
+    "cid": 14260,
+    "iupac_name": "tetradec-1-ene",
+    "canonical_smiles": "CCCCCCCCCCCCC=C",
+    "isomeric_smiles": "CCCCCCCCCCCCC=C",
+    "inchi": "1S/C14H28/c1-3-5-7-9-11-13-14-12-10-8-6-4-2/h3H,1,4-14H2,2H3",
+    "inchikey": "HFDVRLIODXPAHB-UHFFFAOYSA-N",
+    "molecular_formula": "C14H28",
+    "compound_groups": [
+        "olefins",
+        "olefin (alkene) with single c=c double bond"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "80.9",
+            "method": "Unknown",
+            "source": "NREL (2014)"
+        },
+        "kinematic_viscosity": {
+            "value": "1.9222"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "cas": "628-55-7",
+    "cid": 12346,
+    "iupac_name": "2-methyl-1-(2-methylpropoxy)propane",
+    "canonical_smiles": "CC(C)COCC(C)C",
+    "isomeric_smiles": "CC(C)COCC(C)C",
+    "inchi": "1S/C8H18O/c1-7(2)5-9-6-8(3)4/h7-8H,5-6H2,1-4H3",
+    "inchikey": "SZNYYWIUQFZLLT-UHFFFAOYSA-N",
+    "molecular_formula": "C8H18O",
+    "compound_groups": [
+        "ethers"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "59.7",
+            "method": "IQT",
+            "source": "Marquardt (2015)"
+        }
+    }
+}

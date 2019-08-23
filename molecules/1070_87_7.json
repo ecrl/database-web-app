@@ -1,0 +1,19 @@
+{
+    "cas": "1070-87-7",
+    "cid": 14058,
+    "iupac_name": "2,2,4,4-tetramethylpentane",
+    "canonical_smiles": "CC(C)(C)CC(C)(C)C",
+    "isomeric_smiles": "CC(C)(C)CC(C)(C)C",
+    "inchi": "1S/C9H20/c1-8(2,3)7-9(4,5)6/h7H2,1-6H3",
+    "inchikey": "GUMULFRCHLJNDY-UHFFFAOYSA-N",
+    "molecular_formula": "C9H20",
+    "compound_groups": [
+        "paraffin (non-normal)",
+        "nonanes"
+    ],
+    "properties": {
+        "kinematic_viscosity": {
+            "value": "0.8119"
+        }
+    }
+}

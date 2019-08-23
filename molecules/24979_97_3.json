@@ -1,0 +1,39 @@
+{
+    "cas": "24979-97-3",
+    "cid": 8028,
+    "iupac_name": "oxolane",
+    "canonical_smiles": "C1CCOC1",
+    "isomeric_smiles": "C1CCOC1",
+    "inchi": "1S/C4H8O/c1-2-4-5-3-1/h1-4H2",
+    "inchikey": "WYURNTSHIVDZCO-UHFFFAOYSA-N",
+    "molecular_formula": "C4H8O",
+    "compound_groups": [
+        "cyclic ethers",
+        "ether (has a c-o-c bond)"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "21.9",
+            "method": "IQT",
+            "source": "Marquardt (2015)"
+        },
+        "ysi_unified": {
+            "value": "20.3"
+        },
+        "research_octane_number": {
+            "value": "72.9",
+            "source": "[1]"
+        },
+        "motor_octane_number": {
+            "value": "64.8",
+            "source": "[1]"
+        },
+        "octane_sensitivity": {
+            "value": "8.1",
+            "source": "[1]"
+        },
+        "kinematic_viscosity": {
+            "value": "0.4752"
+        }
+    }
+}

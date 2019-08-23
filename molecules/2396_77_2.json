@@ -1,0 +1,18 @@
+{
+    "cas": "2396-77-2",
+    "cid": 5364409,
+    "iupac_name": "methyl (E)-hex-2-enoate",
+    "canonical_smiles": "CCCC=CC(=O)OC",
+    "isomeric_smiles": "CCC/C=C/C(=O)OC",
+    "inchi": "1S/C7H12O2/c1-3-4-5-6-7(8)9-2/h5-6H,3-4H2,1-2H3/b6-5+",
+    "inchikey": "GFUGBRNILVVWIE-AATRIKPKSA-N",
+    "molecular_formula": "C7H12O2",
+    "compound_groups": [
+        "unsaturated esters"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "35.9"
+        }
+    }
+}

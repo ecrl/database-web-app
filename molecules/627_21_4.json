@@ -1,0 +1,18 @@
+{
+    "cas": "627-21-4",
+    "cid": 12310,
+    "iupac_name": "pent-2-yne",
+    "canonical_smiles": "CCC#CC",
+    "isomeric_smiles": "CCC#CC",
+    "inchi": "1S/C5H8/c1-3-5-4-2/h3H2,1-2H3",
+    "inchikey": "NKTDTMONXHODTI-UHFFFAOYSA-N",
+    "molecular_formula": "C5H8",
+    "compound_groups": [
+        "alkynes/alkadienes"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "54.7"
+        }
+    }
+}

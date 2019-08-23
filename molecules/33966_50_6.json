@@ -1,0 +1,18 @@
+{
+    "cas": "33966-50-6",
+    "cid": 24874,
+    "iupac_name": "butan-2-amine",
+    "canonical_smiles": "CCC(C)N",
+    "isomeric_smiles": "CCC(C)N",
+    "inchi": "1S/C4H11N/c1-3-4(2)5/h4H,3,5H2,1-2H3",
+    "inchikey": "BHRZNVHARXXAHW-UHFFFAOYSA-N",
+    "molecular_formula": "C4H11N",
+    "compound_groups": [
+        "saturated amine"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "18.6"
+        }
+    }
+}

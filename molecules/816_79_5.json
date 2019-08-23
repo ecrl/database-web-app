@@ -1,0 +1,30 @@
+{
+    "cas": "816-79-5",
+    "cid": 13159,
+    "iupac_name": "3-ethylpent-2-ene",
+    "canonical_smiles": "CCC(=CC)CC",
+    "isomeric_smiles": "CCC(=CC)CC",
+    "inchi": "1S/C7H14/c1-4-7(5-2)6-3/h4H,5-6H2,1-3H3",
+    "inchikey": "XMYFZAWUNVHVGI-UHFFFAOYSA-N",
+    "molecular_formula": "C7H14",
+    "compound_groups": [
+        "alkenes"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "59.8"
+        },
+        "research_octane_number": {
+            "value": "93.7",
+            "source": "[1]"
+        },
+        "motor_octane_number": {
+            "value": "80.6",
+            "source": "[1]"
+        },
+        "octane_sensitivity": {
+            "value": "13.1",
+            "source": "[1]"
+        }
+    }
+}

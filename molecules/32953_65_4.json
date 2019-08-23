@@ -1,0 +1,21 @@
+{
+    "cas": "32953-65-4",
+    "cid": 6436729,
+    "iupac_name": "octyl (Z)-octadec-9-enoate",
+    "canonical_smiles": "CCCCCCCCC=CCCCCCCCC(=O)OCCCCCCCC",
+    "isomeric_smiles": "CCCCCCCC/C=C\\CCCCCCCC(=O)OCCCCCCCC",
+    "inchi": "1S/C26H50O2/c1-3-5-7-9-11-12-13-14-15-16-17-18-19-20-22-24-26(27)28-25-23-21-10-8-6-4-2/h14-15H,3-13,16-25H2,1-2H3/b15-14-",
+    "inchikey": "QTDSLDJPJJBBLE-PFONDFGASA-N",
+    "molecular_formula": "C26H50O2",
+    "compound_groups": [
+        "esters",
+        "olefins"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "131",
+            "method": "Blend",
+            "source": "NREL (2014)"
+        }
+    }
+}

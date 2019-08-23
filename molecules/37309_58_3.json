@@ -1,0 +1,27 @@
+{
+    "cas": "37309-58-3",
+    "cid": 13381,
+    "iupac_name": "dec-1-ene",
+    "canonical_smiles": "CCCCCCCCC=C",
+    "isomeric_smiles": "CCCCCCCCC=C",
+    "inchi": "1S/C10H20/c1-3-5-7-9-10-8-6-4-2/h3H,1,4-10H2,2H3",
+    "inchikey": "AFFLGGQVNFXPEV-UHFFFAOYSA-N",
+    "molecular_formula": "C10H20",
+    "compound_groups": [
+        "olefins",
+        "olefin (alkene) with single c=c double bond"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "49.1",
+            "method": "IQT",
+            "source": "Marquardt (2015)"
+        },
+        "ysi_unified": {
+            "value": "74.8"
+        },
+        "kinematic_viscosity": {
+            "value": "0.8852"
+        }
+    }
+}

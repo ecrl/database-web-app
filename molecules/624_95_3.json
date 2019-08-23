@@ -1,0 +1,18 @@
+{
+    "cas": "624-95-3",
+    "cid": 12233,
+    "iupac_name": "3,3-dimethylbutan-1-ol",
+    "canonical_smiles": "CC(C)(C)CCO",
+    "isomeric_smiles": "CC(C)(C)CCO",
+    "inchi": "1S/C6H14O/c1-6(2,3)4-5-7/h7H,4-5H2,1-3H3",
+    "inchikey": "DUXCSEISVMREAX-UHFFFAOYSA-N",
+    "molecular_formula": "C6H14O",
+    "compound_groups": [
+        "saturated alcohols"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "40.9"
+        }
+    }
+}

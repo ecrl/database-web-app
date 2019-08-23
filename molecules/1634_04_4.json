@@ -1,0 +1,23 @@
+{
+    "cas": "1634-04-4",
+    "cid": 15413,
+    "iupac_name": "2-methoxy-2-methylpropane",
+    "canonical_smiles": "CC(C)(C)OC",
+    "isomeric_smiles": "CC(C)(C)OC",
+    "inchi": "1S/C5H12O/c1-5(2,3)6-4/h1-4H3",
+    "inchikey": "BZLVMXJERCGZMT-UHFFFAOYSA-N",
+    "molecular_formula": "C5H12O",
+    "compound_groups": [
+        "saturated ethers",
+        "ether (has a c-o-c bond)",
+        "ethers"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "31.5"
+        },
+        "kinematic_viscosity": {
+            "value": "0.4065"
+        }
+    }
+}

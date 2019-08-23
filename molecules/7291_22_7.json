@@ -1,0 +1,18 @@
+{
+    "cas": "7291-22-7",
+    "cid": 1049,
+    "iupac_name": "pyridine",
+    "canonical_smiles": "C1=CC=NC=C1",
+    "isomeric_smiles": "C1=CC=NC=C1",
+    "inchi": "1S/C5H5N/c1-2-4-6-5-3-1/h1-5H",
+    "inchikey": "JUJWROOIHBZHMG-UHFFFAOYSA-N",
+    "molecular_formula": "C5H5N",
+    "compound_groups": [
+        "pyridinic"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "34.6"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "cas": "25154-53-4",
+    "cid": 10795,
+    "iupac_name": "1,1-dimethoxyethane",
+    "canonical_smiles": "CC(OC)OC",
+    "isomeric_smiles": "CC(OC)OC",
+    "inchi": "1S/C4H10O2/c1-4(5-2)6-3/h4H,1-3H3",
+    "inchikey": "SPEUIVXLLWOEMJ-UHFFFAOYSA-N",
+    "molecular_formula": "C4H10O2",
+    "compound_groups": [
+        "other multi-oxygen compounds"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "14.2"
+        }
+    }
+}

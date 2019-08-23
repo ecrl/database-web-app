@@ -1,0 +1,18 @@
+{
+    "cas": "110-19-0",
+    "cid": 8038,
+    "iupac_name": "2-methylpropyl acetate",
+    "canonical_smiles": "CC(C)COC(=O)C",
+    "isomeric_smiles": "CC(C)COC(=O)C",
+    "inchi": "1S/C6H12O2/c1-5(2)4-8-6(3)7/h5H,4H2,1-3H3",
+    "inchikey": "GJRQTCIYDGXPES-UHFFFAOYSA-N",
+    "molecular_formula": "C6H12O2",
+    "compound_groups": [
+        "saturated esters"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "34.8"
+        }
+    }
+}

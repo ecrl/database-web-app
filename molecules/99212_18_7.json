@@ -1,0 +1,18 @@
+{
+    "cas": "99212-18-7",
+    "cid": 11261,
+    "iupac_name": "3-methylpentan-2-ol",
+    "canonical_smiles": "CCC(C)C(C)O",
+    "isomeric_smiles": "CCC(C)C(C)O",
+    "inchi": "1S/C6H14O/c1-4-5(2)6(3)7/h5-7H,4H2,1-3H3",
+    "inchikey": "ZXNBBWHRUSXUFZ-UHFFFAOYSA-N",
+    "molecular_formula": "C6H14O",
+    "compound_groups": [
+        "saturated alcohols"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "37.7"
+        }
+    }
+}

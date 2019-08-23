@@ -1,0 +1,18 @@
+{
+    "cas": "2396-78-3",
+    "cid": 5362782,
+    "iupac_name": "methyl (E)-hex-3-enoate",
+    "canonical_smiles": "CCC=CCC(=O)OC",
+    "isomeric_smiles": "CC/C=C/CC(=O)OC",
+    "inchi": "1S/C7H12O2/c1-3-4-5-6-7(8)9-2/h4-5H,3,6H2,1-2H3/b5-4+",
+    "inchikey": "XEAIHUDTEINXFG-SNAWJCMRSA-N",
+    "molecular_formula": "C7H12O2",
+    "compound_groups": [
+        "unsaturated esters"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "45.3"
+        }
+    }
+}

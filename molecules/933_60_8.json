@@ -1,0 +1,35 @@
+{
+    "cas": "933-60-8",
+    "cid": 6492,
+    "iupac_name": "tricyclo[5.2.1.02,6]deca-3,8-diene",
+    "canonical_smiles": "C1C=CC2C1C3CC2C=C3",
+    "isomeric_smiles": "C1C=CC2C1C3CC2C=C3",
+    "inchi": "1S/C10H12/c1-2-9-7-4-5-8(6-7)10(9)3-1/h1-2,4-5,7-10H,3,6H2",
+    "inchikey": "HECLRDQVFMWTQS-UHFFFAOYSA-N",
+    "molecular_formula": "C10H12",
+    "compound_groups": [
+        "aromatic",
+        "cyclic olefin with a single c=c double bond within the otherwise saturated ring",
+        "bicyclic compounds"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "157.8"
+        },
+        "research_octane_number": {
+            "value": "100.8",
+            "source": "[1]"
+        },
+        "motor_octane_number": {
+            "value": "95.9",
+            "source": "[1]"
+        },
+        "octane_sensitivity": {
+            "value": "4.9",
+            "source": "[1]"
+        },
+        "kinematic_viscosity": {
+            "value": "0.8146"
+        }
+    }
+}

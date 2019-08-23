@@ -1,0 +1,25 @@
+{
+    "cas": "90530-12-4",
+    "cid": 8252,
+    "iupac_name": "prop-1-ene",
+    "canonical_smiles": "CC=C",
+    "isomeric_smiles": "CC=C",
+    "inchi": "1S/C3H6/c1-3-2/h3H,1H2,2H3",
+    "inchikey": "QQONPFPTGQHPMA-UHFFFAOYSA-N",
+    "molecular_formula": "C3H6",
+    "properties": {
+        "research_octane_number": {
+            "value": "101.8",
+            "source": "[1], [9]"
+        },
+        "motor_octane_number": {
+            "value": "84.9",
+            "source": "[1], [9]"
+        },
+        "octane_sensitivity": {
+            "value": "16.9",
+            "source": "[1], [9]"
+        }
+    },
+    "compound_groups": []
+}

@@ -1,0 +1,20 @@
+{
+    "cas": "2639-63-6",
+    "cid": 17525,
+    "iupac_name": "hexyl butanoate",
+    "canonical_smiles": "CCCCCCOC(=O)CCC",
+    "isomeric_smiles": "CCCCCCOC(=O)CCC",
+    "inchi": "1S/C10H20O2/c1-3-5-6-7-9-12-10(11)8-4-2/h3-9H2,1-2H3",
+    "inchikey": "XAPCMTMQBXLDBB-UHFFFAOYSA-N",
+    "molecular_formula": "C10H20O2",
+    "compound_groups": [
+        "esters"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "29",
+            "method": "IQT",
+            "source": "NREL (2014)"
+        }
+    }
+}

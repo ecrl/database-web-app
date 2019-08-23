@@ -1,0 +1,20 @@
+{
+    "cas": "14451-87-7",
+    "cid": 139758,
+    "iupac_name": "2-ethyladamantane",
+    "canonical_smiles": "CCC1C2CC3CC(C2)CC1C3",
+    "isomeric_smiles": "CCC1C2CC3CC(C2)CC1C3",
+    "inchi": "1S/C12H20/c1-2-12-10-4-8-3-9(6-10)7-11(12)5-8/h8-12H,2-7H2,1H3",
+    "inchikey": "LIAWCKFOFPPVGF-UHFFFAOYSA-N",
+    "molecular_formula": "C12H20",
+    "compound_groups": [
+        "naphthenes"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "42.7",
+            "method": "IQT",
+            "source": "NREL (2014)"
+        }
+    }
+}

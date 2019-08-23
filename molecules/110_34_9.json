@@ -1,0 +1,20 @@
+{
+    "cas": "110-34-9",
+    "cid": 66967,
+    "iupac_name": "2-methylpropyl hexadecanoate",
+    "canonical_smiles": "CCCCCCCCCCCCCCCC(=O)OCC(C)C",
+    "isomeric_smiles": "CCCCCCCCCCCCCCCC(=O)OCC(C)C",
+    "inchi": "1S/C20H40O2/c1-4-5-6-7-8-9-10-11-12-13-14-15-16-17-20(21)22-18-19(2)3/h19H,4-18H2,1-3H3",
+    "inchikey": "OJIBJRXMHVZPLV-UHFFFAOYSA-N",
+    "molecular_formula": "C20H40O2",
+    "compound_groups": [
+        "esters"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "84",
+            "method": "Unknown",
+            "source": "NREL (2014)"
+        }
+    }
+}

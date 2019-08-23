@@ -1,0 +1,18 @@
+{
+    "cas": "873-49-4",
+    "cid": 70112,
+    "iupac_name": "cyclopropylbenzene",
+    "canonical_smiles": "C1CC1C2=CC=CC=C2",
+    "isomeric_smiles": "C1CC1C2=CC=CC=C2",
+    "inchi": "1S/C9H10/c1-2-4-8(5-3-1)9-6-7-9/h1-5,9H,6-7H2",
+    "inchikey": "VFSFCYAQBIPUSL-UHFFFAOYSA-N",
+    "molecular_formula": "C9H10",
+    "compound_groups": [
+        "aromatic"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "343.9"
+        }
+    }
+}

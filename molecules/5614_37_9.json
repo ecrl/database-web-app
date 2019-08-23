@@ -1,0 +1,24 @@
+{
+    "cas": "5614-37-9",
+    "cid": 138539,
+    "iupac_name": "methoxycyclopentane",
+    "canonical_smiles": "COC1CCCC1",
+    "isomeric_smiles": "COC1CCCC1",
+    "inchi": "1S/C6H12O/c1-7-6-4-2-3-5-6/h6H,2-5H2,1H3",
+    "inchikey": "SKTCDJAMAYNROS-UHFFFAOYSA-N",
+    "molecular_formula": "C6H12O",
+    "compound_groups": [
+        "ethers",
+        "cyclic"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "47.3",
+            "method": "IQT",
+            "source": "Marquardt (2015)"
+        },
+        "ysi_unified": {
+            "value": "62.3"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "cas": "123-05-7",
+    "cid": 31241,
+    "iupac_name": "2-ethylhexanal",
+    "canonical_smiles": "CCCCC(CC)C=O",
+    "isomeric_smiles": "CCCCC(CC)C=O",
+    "inchi": "1S/C8H16O/c1-3-5-6-8(4-2)7-9/h7-8H,3-6H2,1-2H3",
+    "inchikey": "LGYNIFWIKSEESD-UHFFFAOYSA-N",
+    "molecular_formula": "C8H16O",
+    "compound_groups": [
+        "saturated aldehyde"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "36.6"
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "cas": "27416-06-4",
+    "cid": 11249,
+    "iupac_name": "2,3-dimethylbut-1-ene",
+    "canonical_smiles": "CC(C)C(=C)C",
+    "isomeric_smiles": "CC(C)C(=C)C",
+    "inchi": "1S/C6H12/c1-5(2)6(3)4/h6H,1H2,2-4H3",
+    "inchikey": "OWWIWYDDISJUMY-UHFFFAOYSA-N",
+    "molecular_formula": "C6H12",
+    "compound_groups": [
+        "alkenes",
+        "olefin (alkene) with single c=c double bond",
+        "hexenes"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "53.4"
+        },
+        "research_octane_number": {
+            "value": "101.3",
+            "source": "[1], [9]"
+        },
+        "motor_octane_number": {
+            "value": "82.8",
+            "source": "[1], [9]"
+        },
+        "octane_sensitivity": {
+            "value": "18.5",
+            "source": "[1], [9]"
+        },
+        "kinematic_viscosity": {
+            "value": "0.3473"
+        }
+    }
+}

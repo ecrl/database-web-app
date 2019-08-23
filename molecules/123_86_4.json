@@ -1,0 +1,34 @@
+{
+    "cas": "123-86-4",
+    "cid": 31272,
+    "iupac_name": "butyl acetate",
+    "canonical_smiles": "CCCCOC(=O)C",
+    "isomeric_smiles": "CCCCOC(=O)C",
+    "inchi": "1S/C6H12O2/c1-3-4-5-8-6(2)7/h3-5H2,1-2H3",
+    "inchikey": "DKPFZGUDAPQIHT-UHFFFAOYSA-N",
+    "molecular_formula": "C6H12O2",
+    "compound_groups": [
+        "saturated esters",
+        "acetyl (has 2 c-o bonds, formed by reaction of aldehyde & alcohol)"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "36"
+        },
+        "research_octane_number": {
+            "value": "101.1",
+            "source": "[9], [11]"
+        },
+        "motor_octane_number": {
+            "value": "100.2",
+            "source": "[9], [11]"
+        },
+        "octane_sensitivity": {
+            "value": "0.9",
+            "source": "[9], [11]"
+        },
+        "kinematic_viscosity": {
+            "value": "0.6908"
+        }
+    }
+}

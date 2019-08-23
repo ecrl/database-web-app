@@ -1,0 +1,25 @@
+{
+    "cas": "598-96-9",
+    "cid": 5357254,
+    "iupac_name": "(E)-3,4,4-trimethylpent-2-ene",
+    "canonical_smiles": "CC=C(C)C(C)(C)C",
+    "isomeric_smiles": "C/C=C(\\C)/C(C)(C)C",
+    "inchi": "1S/C8H16/c1-6-7(2)8(3,4)5/h6H,1-5H3/b7-6+",
+    "inchikey": "FZQMZRXKWHQJAG-VOTSOKGWSA-N",
+    "molecular_formula": "C8H16",
+    "properties": {
+        "research_octane_number": {
+            "value": "103",
+            "source": "[1], [9]"
+        },
+        "motor_octane_number": {
+            "value": "85.8",
+            "source": "[1], [9]"
+        },
+        "octane_sensitivity": {
+            "value": "17.2",
+            "source": "[1], [9]"
+        }
+    },
+    "compound_groups": []
+}

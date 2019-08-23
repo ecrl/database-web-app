@@ -1,0 +1,20 @@
+{
+    "cas": "10448-26-7",
+    "cid": 82635,
+    "iupac_name": "hexyl decanoate",
+    "canonical_smiles": "CCCCCCCCCC(=O)OCCCCCC",
+    "isomeric_smiles": "CCCCCCCCCC(=O)OCCCCCC",
+    "inchi": "1S/C16H32O2/c1-3-5-7-9-10-11-12-14-16(17)18-15-13-8-6-4-2/h3-15H2,1-2H3",
+    "inchikey": "DGPNTCACXCHFDI-UHFFFAOYSA-N",
+    "molecular_formula": "C16H32O2",
+    "compound_groups": [
+        "esters"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "64",
+            "method": "Unknown",
+            "source": "BioCompoundML (2016)"
+        }
+    }
+}

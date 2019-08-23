@@ -1,0 +1,18 @@
+{
+    "cas": "590-19-2",
+    "cid": 11535,
+    "iupac_name": "buta-1,2-diene",
+    "canonical_smiles": "CC=C=C",
+    "isomeric_smiles": "CC=C=C",
+    "inchi": "1S/C4H6/c1-3-4-2/h4H,1H2,2H3",
+    "inchikey": "QNRMTGGDHLBXQZ-UHFFFAOYSA-N",
+    "molecular_formula": "C4H6",
+    "compound_groups": [
+        "diolefin - has two c=c double bonds"
+    ],
+    "properties": {
+        "kinematic_viscosity": {
+            "value": "0.2755"
+        }
+    }
+}

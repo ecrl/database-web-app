@@ -1,0 +1,16 @@
+{
+    "cas": "25429-37-2",
+    "cid": 6997,
+    "iupac_name": "2-ethylphenol",
+    "canonical_smiles": "CCC1=CC=CC=C1O",
+    "isomeric_smiles": "CCC1=CC=CC=C1O",
+    "inchi": "1S/C8H10O/c1-2-7-5-3-4-6-8(7)9/h3-6,9H,2H2,1H3",
+    "inchikey": "IXQGCWUGDFDQMF-UHFFFAOYSA-N",
+    "molecular_formula": "C8H10O",
+    "compound_groups": [],
+    "properties": {
+        "ysi_unified": {
+            "value": "120"
+        }
+    }
+}

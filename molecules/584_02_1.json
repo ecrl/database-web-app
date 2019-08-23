@@ -1,0 +1,30 @@
+{
+    "cas": "584-02-1",
+    "cid": 11428,
+    "iupac_name": "pentan-3-ol",
+    "canonical_smiles": "CCC(CC)O",
+    "isomeric_smiles": "CCC(CC)O",
+    "inchi": "1S/C5H12O/c1-3-5(6)4-2/h5-6H,3-4H2,1-2H3",
+    "inchikey": "AQIXEPGDORPWBJ-UHFFFAOYSA-N",
+    "molecular_formula": "C5H12O",
+    "compound_groups": [
+        "saturated alcohols"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "29.1"
+        },
+        "research_octane_number": {
+            "value": "103",
+            "source": ""
+        },
+        "motor_octane_number": {
+            "value": "90.8",
+            "source": ""
+        },
+        "octane_sensitivity": {
+            "value": "12.2",
+            "source": ""
+        }
+    }
+}

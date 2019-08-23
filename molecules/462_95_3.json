@@ -1,0 +1,23 @@
+{
+    "cas": "462-95-3",
+    "cid": 10024,
+    "iupac_name": "ethoxymethoxyethane",
+    "canonical_smiles": "CCOCOCC",
+    "isomeric_smiles": "CCOCOCC",
+    "inchi": "1S/C5H12O2/c1-3-6-5-7-4-2/h3-5H2,1-2H3",
+    "inchikey": "KLKFAASOGCDTDT-UHFFFAOYSA-N",
+    "molecular_formula": "C5H12O2",
+    "compound_groups": [
+        "ethers"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "57.3",
+            "method": "IQT",
+            "source": "Marquardt (2015)"
+        },
+        "ysi_unified": {
+            "value": "18.5"
+        }
+    }
+}

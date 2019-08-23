@@ -1,0 +1,21 @@
+{
+    "cas": "141-97-9",
+    "cid": 8868,
+    "iupac_name": "ethyl 3-oxobutanoate",
+    "canonical_smiles": "CCOC(=O)CC(=O)C",
+    "isomeric_smiles": "CCOC(=O)CC(=O)C",
+    "inchi": "1S/C6H10O3/c1-3-9-6(8)4-5(2)7/h3-4H2,1-2H3",
+    "inchikey": "XYIBRDXRRQCHLP-UHFFFAOYSA-N",
+    "molecular_formula": "C6H10O3",
+    "compound_groups": [
+        "esters",
+        "ketones"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "13.7",
+            "method": "IQT",
+            "source": "Marquardt (2015)"
+        }
+    }
+}

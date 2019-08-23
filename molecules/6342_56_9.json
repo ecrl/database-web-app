@@ -1,0 +1,18 @@
+{
+    "cas": "6342-56-9",
+    "cid": 80650,
+    "iupac_name": "1,1-dimethoxypropan-2-one",
+    "canonical_smiles": "CC(=O)C(OC)OC",
+    "isomeric_smiles": "CC(=O)C(OC)OC",
+    "inchi": "1S/C5H10O3/c1-4(6)5(7-2)8-3/h5H,1-3H3",
+    "inchikey": "ULVSHNOGEVXRDR-UHFFFAOYSA-N",
+    "molecular_formula": "C5H10O3",
+    "compound_groups": [
+        "other multi-oxygen compounds"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "14.8"
+        }
+    }
+}

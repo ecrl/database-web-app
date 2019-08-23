@@ -1,0 +1,21 @@
+{
+    "cas": "143-28-2",
+    "cid": 5284499,
+    "iupac_name": "(Z)-octadec-9-en-1-ol",
+    "canonical_smiles": "CCCCCCCCC=CCCCCCCCCO",
+    "isomeric_smiles": "CCCCCCCC/C=C\\CCCCCCCCO",
+    "inchi": "1S/C18H36O/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19/h9-10,19H,2-8,11-18H2,1H3/b10-9-",
+    "inchikey": "ALSTYHKOOCGGFT-KTKRTIGZSA-N",
+    "molecular_formula": "C18H36O",
+    "compound_groups": [
+        "alcohols",
+        "olefins"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "51",
+            "method": "Other Ignition Delay Method",
+            "source": "NREL (2014)"
+        }
+    }
+}

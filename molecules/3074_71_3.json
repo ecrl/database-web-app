@@ -1,0 +1,18 @@
+{
+    "cas": "3074-71-3",
+    "cid": 26375,
+    "iupac_name": "2,3-dimethylheptane",
+    "canonical_smiles": "CCCCC(C)C(C)C",
+    "isomeric_smiles": "CCCCC(C)C(C)C",
+    "inchi": "1S/C9H20/c1-5-6-7-9(4)8(2)3/h8-9H,5-7H2,1-4H3",
+    "inchikey": "WBRFDUJXCLCKPX-UHFFFAOYSA-N",
+    "molecular_formula": "C9H20",
+    "compound_groups": [
+        "linear alkanes"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "60.2"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "cas": "93842-55-8",
+    "cid": 7360,
+    "iupac_name": "oxolan-2-ylmethanol",
+    "canonical_smiles": "C1CC(OC1)CO",
+    "isomeric_smiles": "C1CC(OC1)CO",
+    "inchi": "1S/C5H10O2/c6-4-5-2-1-3-7-5/h5-6H,1-4H2",
+    "inchikey": "BSYVTEYKTMYBMK-UHFFFAOYSA-N",
+    "molecular_formula": "C5H10O2",
+    "compound_groups": [
+        "cyclic ethers",
+        "alcohols"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "17.9",
+            "method": "IQT",
+            "source": "Marquardt (2015)"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "cas": "61193-19-9",
+    "cid": 8141,
+    "iupac_name": "nonane",
+    "canonical_smiles": "CCCCCCCCC",
+    "isomeric_smiles": "CCCCCCCCC",
+    "inchi": "1S/C9H20/c1-3-5-7-9-8-6-4-2/h3-9H2,1-2H3",
+    "inchikey": "BKIMMITUMNQMOS-UHFFFAOYSA-N",
+    "molecular_formula": "C9H20",
+    "compound_groups": [
+        "alkanes",
+        "normal paraffin",
+        "nonanes"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "60.9",
+            "method": "IQT",
+            "source": "Marquardt (2015)"
+        },
+        "ysi_unified": {
+            "value": "50.1"
+        },
+        "kinematic_viscosity": {
+            "value": "0.807"
+        }
+    }
+}

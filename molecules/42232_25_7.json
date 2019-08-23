@@ -1,0 +1,20 @@
+{
+    "cas": "42232-25-7",
+    "cid": 162505,
+    "iupac_name": "hexyl hexadecanoate",
+    "canonical_smiles": "CCCCCCCCCCCCCCCC(=O)OCCCCCC",
+    "isomeric_smiles": "CCCCCCCCCCCCCCCC(=O)OCCCCCC",
+    "inchi": "1S/C22H44O2/c1-3-5-7-9-10-11-12-13-14-15-16-17-18-20-22(23)24-21-19-8-6-4-2/h3-21H2,1-2H3",
+    "inchikey": "IOVYZELOJXWQKD-UHFFFAOYSA-N",
+    "molecular_formula": "C22H44O2",
+    "compound_groups": [
+        "esters"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "87",
+            "method": "Unknown",
+            "source": "BioCompoundML (2016)"
+        }
+    }
+}

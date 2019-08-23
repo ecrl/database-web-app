@@ -1,0 +1,18 @@
+{
+    "cas": "538-39-6",
+    "cid": 10854,
+    "iupac_name": "1-methyl-4-[2-(4-methylphenyl)ethyl]benzene",
+    "canonical_smiles": "CC1=CC=C(C=C1)CCC2=CC=C(C=C2)C",
+    "isomeric_smiles": "CC1=CC=C(C=C1)CCC2=CC=C(C=C2)C",
+    "inchi": "1S/C16H18/c1-13-3-7-15(8-4-13)11-12-16-9-5-14(2)6-10-16/h3-10H,11-12H2,1-2H3",
+    "inchikey": "XCCQFUHBIRHLQT-UHFFFAOYSA-N",
+    "molecular_formula": "C16H18",
+    "compound_groups": [
+        "aromatic"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "549.8"
+        }
+    }
+}

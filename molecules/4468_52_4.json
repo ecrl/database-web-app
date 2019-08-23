@@ -1,0 +1,23 @@
+{
+    "cas": "4468-52-4",
+    "cid": 180,
+    "iupac_name": "propan-2-one",
+    "canonical_smiles": "CC(=O)C",
+    "isomeric_smiles": "CC(=O)C",
+    "inchi": "1S/C3H6O/c1-3(2)4/h1-2H3",
+    "inchikey": "CSCPPACGZOOCGX-UHFFFAOYSA-N",
+    "molecular_formula": "C3H6O",
+    "compound_groups": [
+        "saturated alkanone",
+        "ketone",
+        "ketones"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "13"
+        },
+        "kinematic_viscosity": {
+            "value": "0.3546"
+        }
+    }
+}

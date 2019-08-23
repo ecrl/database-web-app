@@ -1,0 +1,35 @@
+{
+    "cas": "4939-75-7",
+    "cid": 7463,
+    "iupac_name": "1-methyl-4-propan-2-ylbenzene",
+    "canonical_smiles": "CC1=CC=C(C=C1)C(C)C",
+    "isomeric_smiles": "CC1=CC=C(C=C1)C(C)C",
+    "inchi": "1S/C10H14/c1-8(2)10-6-4-9(3)5-7-10/h4-8H,1-3H3",
+    "inchikey": "HFPZCAJZSCWRBC-UHFFFAOYSA-N",
+    "molecular_formula": "C10H14",
+    "compound_groups": [
+        "aromatics"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "4",
+            "method": "20% Blend, CFR",
+            "source": "NREL (2014)"
+        },
+        "ysi_unified": {
+            "value": "330.3"
+        },
+        "research_octane_number": {
+            "value": "110",
+            "source": "[1]"
+        },
+        "motor_octane_number": {
+            "value": "97.7",
+            "source": "[1]"
+        },
+        "octane_sensitivity": {
+            "value": "12.3",
+            "source": "[1]"
+        }
+    }
+}

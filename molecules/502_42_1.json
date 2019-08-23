@@ -1,0 +1,21 @@
+{
+    "cas": "502-42-1",
+    "cid": 10400,
+    "iupac_name": "cycloheptanone",
+    "canonical_smiles": "C1CCCC(=O)CC1",
+    "isomeric_smiles": "C1CCCC(=O)CC1",
+    "inchi": "1S/C7H12O/c8-7-5-3-1-2-4-6-7/h1-6H2",
+    "inchikey": "CGZZMOTZOONQIA-UHFFFAOYSA-N",
+    "molecular_formula": "C7H12O",
+    "compound_groups": [
+        "ketones",
+        "cyclic"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "22.5",
+            "method": "IQT",
+            "source": "Marquardt (2015)"
+        }
+    }
+}

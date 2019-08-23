@@ -1,0 +1,18 @@
+{
+    "cas": "1968-40-7",
+    "cid": 74786,
+    "iupac_name": "ethyl pent-4-enoate",
+    "canonical_smiles": "CCOC(=O)CCC=C",
+    "isomeric_smiles": "CCOC(=O)CCC=C",
+    "inchi": "1S/C7H12O2/c1-3-5-6-7(8)9-4-2/h3H,1,4-6H2,2H3",
+    "inchikey": "PTVSRINJXWDIKP-UHFFFAOYSA-N",
+    "molecular_formula": "C7H12O2",
+    "compound_groups": [
+        "unsaturated esters"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "41.2"
+        }
+    }
+}

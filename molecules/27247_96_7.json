@@ -1,0 +1,16 @@
+{
+    "cas": "27247-96-7",
+    "cid": 62823,
+    "iupac_name": "2-ethylhexyl nitrate",
+    "canonical_smiles": "CCCCC(CC)CO[N+](=O)[O-]",
+    "isomeric_smiles": "CCCCC(CC)CO[N+](=O)[O-]",
+    "inchi": "1S/C8H17NO3/c1-3-5-6-8(4-2)7-12-9(10)11/h8H,3-7H2,1-2H3",
+    "inchikey": "NKRVGWFEFKCZAP-UHFFFAOYSA-N",
+    "molecular_formula": "C8H17NO3",
+    "compound_groups": [],
+    "properties": {
+        "ysi_unified": {
+            "value": "39.16"
+        }
+    }
+}

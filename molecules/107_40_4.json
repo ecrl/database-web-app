@@ -1,0 +1,35 @@
+{
+    "cas": "107-40-4",
+    "cid": 7869,
+    "iupac_name": "2,4,4-trimethylpent-2-ene",
+    "canonical_smiles": "CC(=CC(C)(C)C)C",
+    "isomeric_smiles": "CC(=CC(C)(C)C)C",
+    "inchi": "1S/C8H16/c1-7(2)6-8(3,4)5/h6H,1-5H3",
+    "inchikey": "LAAVYEUJEMRIGF-UHFFFAOYSA-N",
+    "molecular_formula": "C8H16",
+    "compound_groups": [
+        "alkenes",
+        "olefin (alkene) with single c=c double bond",
+        "octenes"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "89.3"
+        },
+        "research_octane_number": {
+            "value": "103.5",
+            "source": "[1], [4]"
+        },
+        "motor_octane_number": {
+            "value": "86.2",
+            "source": "[1], [4]"
+        },
+        "octane_sensitivity": {
+            "value": "17.3",
+            "source": "[1], [4]"
+        },
+        "kinematic_viscosity": {
+            "value": "0.3648"
+        }
+    }
+}

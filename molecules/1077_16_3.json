@@ -1,0 +1,27 @@
+{
+    "cas": "1077-16-3",
+    "cid": 14109,
+    "iupac_name": "hexylbenzene",
+    "canonical_smiles": "CCCCCCC1=CC=CC=C1",
+    "isomeric_smiles": "CCCCCCC1=CC=CC=C1",
+    "inchi": "1S/C12H18/c1-2-3-4-6-9-12-10-7-5-8-11-12/h5,7-8,10-11H,2-4,6,9H2,1H3",
+    "inchikey": "LTEQMZWBSYACLV-UHFFFAOYSA-N",
+    "molecular_formula": "C12H18",
+    "compound_groups": [
+        "aromatics",
+        "aromatic (single ring)"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "26",
+            "method": "Unknown",
+            "source": "NREL (2014)"
+        },
+        "ysi_unified": {
+            "value": "246.7"
+        },
+        "kinematic_viscosity": {
+            "value": "1.4467"
+        }
+    }
+}

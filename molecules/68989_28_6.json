@@ -1,0 +1,20 @@
+{
+    "cas": "68989-28-6",
+    "cid": 8844,
+    "iupac_name": "diethyl hexanedioate",
+    "canonical_smiles": "CCOC(=O)CCCCC(=O)OCC",
+    "isomeric_smiles": "CCOC(=O)CCCCC(=O)OCC",
+    "inchi": "1S/C10H18O4/c1-3-13-9(11)7-5-6-8-10(12)14-4-2/h3-8H2,1-2H3",
+    "inchikey": "VIZORQUEIQEFRT-UHFFFAOYSA-N",
+    "molecular_formula": "C10H18O4",
+    "compound_groups": [
+        "esters"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "15",
+            "method": "Unknown",
+            "source": "BioCompoundML (2016)"
+        }
+    }
+}

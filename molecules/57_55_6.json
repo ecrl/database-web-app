@@ -1,0 +1,18 @@
+{
+    "cas": "57-55-6",
+    "cid": 1030,
+    "iupac_name": "propane-1,2-diol",
+    "canonical_smiles": "CC(CO)O",
+    "isomeric_smiles": "CC(CO)O",
+    "inchi": "1S/C3H8O2/c1-3(5)2-4/h3-5H,2H2,1H3",
+    "inchikey": "DNIAPMSPPWPWGF-UHFFFAOYSA-N",
+    "molecular_formula": "C3H8O2",
+    "compound_groups": [
+        "other multi-oxygen compounds"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "13.7"
+        }
+    }
+}

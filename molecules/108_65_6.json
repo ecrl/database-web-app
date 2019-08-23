@@ -1,0 +1,21 @@
+{
+    "cas": "108-65-6",
+    "cid": 7946,
+    "iupac_name": "1-methoxypropan-2-yl acetate",
+    "canonical_smiles": "CC(COC)OC(=O)C",
+    "isomeric_smiles": "CC(COC)OC(=O)C",
+    "inchi": "1S/C6H12O3/c1-5(4-8-3)9-6(2)7/h5H,4H2,1-3H3",
+    "inchikey": "LLHKCFNBLRBOGN-UHFFFAOYSA-N",
+    "molecular_formula": "C6H12O3",
+    "compound_groups": [
+        "ethers",
+        "esters"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "24",
+            "method": "IQT",
+            "source": "Marquardt (2015)"
+        }
+    }
+}

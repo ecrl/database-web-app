@@ -1,0 +1,18 @@
+{
+    "cas": "4128-32-9",
+    "cid": 20083,
+    "iupac_name": "octan-2-ol",
+    "canonical_smiles": "CCCCCCC(C)O",
+    "isomeric_smiles": "CCCCCCC(C)O",
+    "inchi": "1S/C8H18O/c1-3-4-5-6-7-8(2)9/h8-9H,3-7H2,1-2H3",
+    "inchikey": "SJWFXCIHNDVPSH-UHFFFAOYSA-N",
+    "molecular_formula": "C8H18O",
+    "compound_groups": [
+        "saturated alcohols"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "46.1"
+        }
+    }
+}

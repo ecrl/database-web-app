@@ -1,0 +1,20 @@
+{
+    "cas": "30673-36-0",
+    "cid": 35408,
+    "iupac_name": "butyl decanoate",
+    "canonical_smiles": "CCCCCCCCCC(=O)OCCCC",
+    "isomeric_smiles": "CCCCCCCCCC(=O)OCCCC",
+    "inchi": "1S/C14H28O2/c1-3-5-7-8-9-10-11-12-14(15)16-13-6-4-2/h3-13H2,1-2H3",
+    "inchikey": "ZRNCNTSXSYXHOW-UHFFFAOYSA-N",
+    "molecular_formula": "C14H28O2",
+    "compound_groups": [
+        "esters"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "55",
+            "method": "CFR",
+            "source": "NREL (2014)"
+        }
+    }
+}

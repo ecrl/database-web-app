@@ -1,0 +1,31 @@
+{
+    "cas": "563-16-6",
+    "cid": 11233,
+    "iupac_name": "3,3-dimethylhexane",
+    "canonical_smiles": "CCCC(C)(C)CC",
+    "isomeric_smiles": "CCCC(C)(C)CC",
+    "inchi": "1S/C8H18/c1-5-7-8(3,4)6-2/h5-7H2,1-4H3",
+    "inchikey": "KUMXLFIBWFCMOJ-UHFFFAOYSA-N",
+    "molecular_formula": "C8H18",
+    "properties": {
+        "research_octane_number": {
+            "value": "75.5",
+            "source": "[1]"
+        },
+        "motor_octane_number": {
+            "value": "83.4",
+            "source": "[1]"
+        },
+        "octane_sensitivity": {
+            "value": "7.9",
+            "source": "[1]"
+        },
+        "kinematic_viscosity": {
+            "value": "0.5856"
+        }
+    },
+    "compound_groups": [
+        "paraffin (non-normal)",
+        "octanes"
+    ]
+}

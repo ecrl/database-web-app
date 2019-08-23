@@ -1,0 +1,39 @@
+{
+    "cas": "111002-96-1",
+    "cid": 11519,
+    "iupac_name": "3-methylheptane",
+    "canonical_smiles": "CCCCC(C)CC",
+    "isomeric_smiles": "CCCCC(C)CC",
+    "inchi": "1S/C8H18/c1-4-6-7-8(3)5-2/h8H,4-7H2,1-3H3",
+    "inchikey": "LAIUFBWHERIJIH-UHFFFAOYSA-N",
+    "molecular_formula": "C8H18",
+    "compound_groups": [
+        "alkanes",
+        "paraffin (non-normal)"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "45",
+            "method": "IQT",
+            "source": "Marquardt (2015)"
+        },
+        "ysi_unified": {
+            "value": "48.7"
+        },
+        "research_octane_number": {
+            "value": "26.8",
+            "source": "[1]"
+        },
+        "motor_octane_number": {
+            "value": "35",
+            "source": "[1]"
+        },
+        "octane_sensitivity": {
+            "value": "-8.2",
+            "source": "[1]"
+        },
+        "kinematic_viscosity": {
+            "value": "0.5501"
+        }
+    }
+}

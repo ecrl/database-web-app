@@ -1,0 +1,35 @@
+{
+    "cas": "71551-80-9",
+    "cid": 7219,
+    "iupac_name": "1H-indene",
+    "canonical_smiles": "C1C=CC2=CC=CC=C21",
+    "isomeric_smiles": "C1C=CC2=CC=CC=C21",
+    "inchi": "1S/C9H8/c1-2-5-9-7-3-6-8(9)4-1/h1-6H,7H2",
+    "inchikey": "YBYIRNPNPLQARY-UHFFFAOYSA-N",
+    "molecular_formula": "C9H8",
+    "compound_groups": [
+        "aromatic",
+        "aromatic with attached unsaturated (but not aromatic) rings",
+        "aromatics"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "467.7"
+        },
+        "research_octane_number": {
+            "value": "102.3",
+            "source": ""
+        },
+        "motor_octane_number": {
+            "value": "100.7",
+            "source": ""
+        },
+        "octane_sensitivity": {
+            "value": "1.6",
+            "source": ""
+        },
+        "kinematic_viscosity": {
+            "value": "1.3577"
+        }
+    }
+}

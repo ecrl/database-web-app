@@ -1,0 +1,23 @@
+{
+    "cas": "135-01-3",
+    "cid": 8657,
+    "iupac_name": "1,2-diethylbenzene",
+    "canonical_smiles": "CCC1=CC=CC=C1CC",
+    "isomeric_smiles": "CCC1=CC=CC=C1CC",
+    "inchi": "1S/C10H14/c1-3-9-7-5-6-8-10(9)4-2/h5-8H,3-4H2,1-2H3",
+    "inchikey": "KVNYFPKFSJIPBJ-UHFFFAOYSA-N",
+    "molecular_formula": "C10H14",
+    "compound_groups": [
+        "aromatic",
+        "aromatic (single ring)",
+        "aromatics"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "376.3"
+        },
+        "kinematic_viscosity": {
+            "value": "1.0676"
+        }
+    }
+}

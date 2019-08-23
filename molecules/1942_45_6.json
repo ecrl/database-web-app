@@ -1,0 +1,25 @@
+{
+    "cas": "1942-45-6",
+    "cid": 16029,
+    "iupac_name": "oct-4-yne",
+    "canonical_smiles": "CCCC#CCCC",
+    "isomeric_smiles": "CCCC#CCCC",
+    "inchi": "1S/C8H14/c1-3-5-7-8-6-4-2/h3-6H2,1-2H3",
+    "inchikey": "GZTNBKQTTZSQNS-UHFFFAOYSA-N",
+    "molecular_formula": "C8H14",
+    "properties": {
+        "research_octane_number": {
+            "value": "59.6",
+            "source": "[1]"
+        },
+        "motor_octane_number": {
+            "value": "65.9",
+            "source": "[1]"
+        },
+        "octane_sensitivity": {
+            "value": "-6.3",
+            "source": "[1]"
+        }
+    },
+    "compound_groups": []
+}

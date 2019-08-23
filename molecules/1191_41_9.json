@@ -1,0 +1,21 @@
+{
+    "cas": "1191-41-9",
+    "cid": 5367460,
+    "iupac_name": "ethyl (9Z,12Z,15Z)-octadeca-9,12,15-trienoate",
+    "canonical_smiles": "CCC=CCC=CCC=CCCCCCCCC(=O)OCC",
+    "isomeric_smiles": "CC/C=C\\C/C=C\\C/C=C\\CCCCCCCC(=O)OCC",
+    "inchi": "1S/C20H34O2/c1-3-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20(21)22-4-2/h5-6,8-9,11-12H,3-4,7,10,13-19H2,1-2H3/b6-5-,9-8-,12-11-",
+    "inchikey": "JYYFMIOPGOFNPK-AGRJPVHOSA-N",
+    "molecular_formula": "C20H34O2",
+    "compound_groups": [
+        "esters",
+        "olefins"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "27",
+            "method": "Unknown",
+            "source": "BioCompoundML (2016)"
+        }
+    }
+}

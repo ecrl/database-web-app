@@ -1,0 +1,18 @@
+{
+    "cas": "818-58-6",
+    "cid": 642274,
+    "iupac_name": "methyl (E)-pent-3-enoate",
+    "canonical_smiles": "CC=CCC(=O)OC",
+    "isomeric_smiles": "C/C=C/CC(=O)OC",
+    "inchi": "1S/C6H10O2/c1-3-4-5-6(7)8-2/h3-4H,5H2,1-2H3/b4-3+",
+    "inchikey": "KJALUUCEMMPKAC-ONEGZZNKSA-N",
+    "molecular_formula": "C6H10O2",
+    "compound_groups": [
+        "unsaturated esters"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "38.8"
+        }
+    }
+}

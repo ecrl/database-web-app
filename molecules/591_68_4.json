@@ -1,0 +1,20 @@
+{
+    "cas": "591-68-4",
+    "cid": 61137,
+    "iupac_name": "butyl pentanoate",
+    "canonical_smiles": "CCCCC(=O)OCCCC",
+    "isomeric_smiles": "CCCCC(=O)OCCCC",
+    "inchi": "1S/C9H18O2/c1-3-5-7-9(10)11-8-6-4-2/h3-8H2,1-2H3",
+    "inchikey": "OKJADYKTJJGKDX-UHFFFAOYSA-N",
+    "molecular_formula": "C9H18O2",
+    "compound_groups": [
+        "esters"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "23.5",
+            "method": "IQT",
+            "source": "Marquardt (2015)"
+        }
+    }
+}

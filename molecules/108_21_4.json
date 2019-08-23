@@ -1,0 +1,22 @@
+{
+    "cas": "108-21-4",
+    "cid": 7915,
+    "iupac_name": "propan-2-yl acetate",
+    "canonical_smiles": "CC(C)OC(=O)C",
+    "isomeric_smiles": "CC(C)OC(=O)C",
+    "inchi": "1S/C5H10O2/c1-4(2)7-5(3)6/h4H,1-3H3",
+    "inchikey": "JMMWKPVZQRWMSS-UHFFFAOYSA-N",
+    "molecular_formula": "C5H10O2",
+    "compound_groups": [
+        "saturated esters",
+        "acetyl (has 2 c-o bonds, formed by reaction of aldehyde & alcohol)"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "23.7"
+        },
+        "kinematic_viscosity": {
+            "value": "0.5323"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "cas": "5579-78-2",
+    "cid": 62583,
+    "iupac_name": "7-butyloxepan-2-one",
+    "canonical_smiles": "CCCCC1CCCCC(=O)O1",
+    "isomeric_smiles": "CCCCC1CCCCC(=O)O1",
+    "inchi": "1S/C10H18O2/c1-2-3-6-9-7-4-5-8-10(11)12-9/h9H,2-8H2,1H3",
+    "inchikey": "YKVIWISPFDZYOW-UHFFFAOYSA-N",
+    "molecular_formula": "C10H18O2",
+    "compound_groups": [
+        "cyclic esters"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "40.5",
+            "method": "IQT",
+            "source": "Marquardt (2015)"
+        }
+    }
+}

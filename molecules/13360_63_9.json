@@ -1,0 +1,18 @@
+{
+    "cas": "13360-63-9",
+    "cid": 25914,
+    "iupac_name": "N-ethylbutan-1-amine",
+    "canonical_smiles": "CCCCNCC",
+    "isomeric_smiles": "CCCCNCC",
+    "inchi": "1S/C6H15N/c1-3-5-6-7-4-2/h7H,3-6H2,1-2H3",
+    "inchikey": "QHCCDDQKNUYGNC-UHFFFAOYSA-N",
+    "molecular_formula": "C6H15N",
+    "compound_groups": [
+        "saturated amine"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "22.1"
+        }
+    }
+}

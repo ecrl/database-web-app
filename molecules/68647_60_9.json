@@ -1,0 +1,40 @@
+{
+    "cas": "68647-60-9",
+    "cid": 8003,
+    "iupac_name": "pentane",
+    "canonical_smiles": "CCCCC",
+    "isomeric_smiles": "CCCCC",
+    "inchi": "1S/C5H12/c1-3-5-4-2/h3-5H2,1-2H3",
+    "inchikey": "OFBQJSOFQDEBGM-UHFFFAOYSA-N",
+    "molecular_formula": "C5H12",
+    "compound_groups": [
+        "alkanes",
+        "normal paraffin",
+        "pentanes"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "30",
+            "method": "20% Blend, CFR",
+            "source": "NREL (2014)"
+        },
+        "ysi_unified": {
+            "value": "24.6"
+        },
+        "research_octane_number": {
+            "value": "61.8",
+            "source": "[1]"
+        },
+        "motor_octane_number": {
+            "value": "63.2",
+            "source": "[1]"
+        },
+        "octane_sensitivity": {
+            "value": "-1.4",
+            "source": "[1]"
+        },
+        "kinematic_viscosity": {
+            "value": "0.3397"
+        }
+    }
+}

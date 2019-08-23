@@ -1,0 +1,18 @@
+{
+    "cas": "68956-55-8",
+    "cid": 5326160,
+    "iupac_name": "(Z)-pent-2-ene",
+    "canonical_smiles": "CCC=CC",
+    "isomeric_smiles": "CC/C=C\\C",
+    "inchi": "1S/C5H10/c1-3-5-4-2/h3,5H,4H2,1-2H3/b5-3-",
+    "inchikey": "QMMOXUPEWRXHJS-HYXAFXHYSA-N",
+    "molecular_formula": "C5H10",
+    "compound_groups": [
+        "alkenes"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "39.8"
+        }
+    }
+}

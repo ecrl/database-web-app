@@ -1,0 +1,36 @@
+{
+    "cas": "2040-96-2",
+    "cid": 16270,
+    "iupac_name": "propylcyclopentane",
+    "canonical_smiles": "CCCC1CCCC1",
+    "isomeric_smiles": "CCCC1CCCC1",
+    "inchi": "1S/C8H16/c1-2-5-8-6-3-4-7-8/h8H,2-7H2,1H3",
+    "inchikey": "KDIAMAVWIJYWHN-UHFFFAOYSA-N",
+    "molecular_formula": "C8H16",
+    "compound_groups": [
+        "naphthenes",
+        "naphthene - major structure is saturated ring"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "37",
+            "method": "Unknown",
+            "source": "Kubic (2016)"
+        },
+        "research_octane_number": {
+            "value": "31.2",
+            "source": "[1]"
+        },
+        "motor_octane_number": {
+            "value": "28.1",
+            "source": "[1]"
+        },
+        "octane_sensitivity": {
+            "value": "3.1",
+            "source": "[1]"
+        },
+        "kinematic_viscosity": {
+            "value": "0.7256"
+        }
+    }
+}

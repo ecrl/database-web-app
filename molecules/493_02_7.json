@@ -1,0 +1,28 @@
+{
+    "cas": "493-02-7",
+    "cid": 7044,
+    "iupac_name": "1,2,3,4,4a,5,6,7,8,8a-decahydronaphthalene",
+    "canonical_smiles": "C1CCC2CCCCC2C1",
+    "isomeric_smiles": "C1CCC2CCCCC2C1",
+    "inchi": "1S/C10H18/c1-2-6-10-8-4-3-7-9(10)5-1/h9-10H,1-8H2",
+    "inchikey": "NNBZCPXTIHJBJL-UHFFFAOYSA-N",
+    "molecular_formula": "C10H18",
+    "compound_groups": [
+        "cycloalkanes ",
+        "naphthene - major structure is saturated ring",
+        "naphthenes"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "37.4",
+            "method": "IQT",
+            "source": "Heyne (2009)"
+        },
+        "ysi_unified": {
+            "value": "105.5"
+        },
+        "kinematic_viscosity": {
+            "value": "1.815"
+        }
+    }
+}

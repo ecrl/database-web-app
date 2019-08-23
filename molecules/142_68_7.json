@@ -1,0 +1,35 @@
+{
+    "cas": "142-68-7",
+    "cid": 8894,
+    "iupac_name": "oxane",
+    "canonical_smiles": "C1CCOCC1",
+    "isomeric_smiles": "C1CCOCC1",
+    "inchi": "1S/C5H10O/c1-2-4-6-5-3-1/h1-5H2",
+    "inchikey": "DHXVGJBLRPWPCS-UHFFFAOYSA-N",
+    "molecular_formula": "C5H10O",
+    "compound_groups": [
+        "cyclic ethers"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "38.2",
+            "method": "IQT",
+            "source": "Marquardt (2015)"
+        },
+        "ysi_unified": {
+            "value": "26.5"
+        },
+        "research_octane_number": {
+            "value": "52.2",
+            "source": "[1]"
+        },
+        "motor_octane_number": {
+            "value": "35.4",
+            "source": "[1]"
+        },
+        "octane_sensitivity": {
+            "value": "16.8",
+            "source": "[1]"
+        }
+    }
+}

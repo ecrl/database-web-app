@@ -1,0 +1,19 @@
+{
+    "cas": "7236-82-0",
+    "cid": 9250,
+    "iupac_name": "cyclobutane",
+    "canonical_smiles": "C1CCC1",
+    "isomeric_smiles": "C1CCC1",
+    "inchi": "1S/C4H8/c1-2-4-3-1/h1-4H2",
+    "inchikey": "PMPVIKIVABFJJI-UHFFFAOYSA-N",
+    "molecular_formula": "C4H8",
+    "compound_groups": [
+        "naphthene - major structure is saturated ring",
+        "naphthenes"
+    ],
+    "properties": {
+        "kinematic_viscosity": {
+            "value": "0.3571"
+        }
+    }
+}

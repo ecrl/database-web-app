@@ -1,0 +1,18 @@
+{
+    "cas": "2177-47-1",
+    "cid": 16587,
+    "iupac_name": "2-methyl-1H-indene",
+    "canonical_smiles": "CC1=CC2=CC=CC=C2C1",
+    "isomeric_smiles": "CC1=CC2=CC=CC=C2C1",
+    "inchi": "1S/C10H10/c1-8-6-9-4-2-3-5-10(9)7-8/h2-6H,7H2,1H3",
+    "inchikey": "YSAXEHWHSLANOM-UHFFFAOYSA-N",
+    "molecular_formula": "C10H10",
+    "compound_groups": [
+        "aromatic"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "500.1"
+        }
+    }
+}

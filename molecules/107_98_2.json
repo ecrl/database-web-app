@@ -1,0 +1,24 @@
+{
+    "cas": "107-98-2",
+    "cid": 7900,
+    "iupac_name": "1-methoxypropan-2-ol",
+    "canonical_smiles": "CC(COC)O",
+    "isomeric_smiles": "CC(COC)O",
+    "inchi": "1S/C4H10O2/c1-4(5)3-6-2/h4-5H,3H2,1-2H3",
+    "inchikey": "ARXJGSRGQADJSQ-UHFFFAOYSA-N",
+    "molecular_formula": "C4H10O2",
+    "compound_groups": [
+        "ethers",
+        "alcohols"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "16.3",
+            "method": "IQT",
+            "source": "Marquardt (2015)"
+        },
+        "ysi_unified": {
+            "value": "16.4"
+        }
+    }
+}

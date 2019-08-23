@@ -1,0 +1,20 @@
+{
+    "cas": "57084-17-0",
+    "cid": 7714,
+    "iupac_name": "5-heptyloxolan-2-one",
+    "canonical_smiles": "CCCCCCCC1CCC(=O)O1",
+    "isomeric_smiles": "CCCCCCCC1CCC(=O)O1",
+    "inchi": "1S/C11H20O2/c1-2-3-4-5-6-7-10-8-9-11(12)13-10/h10H,2-9H2,1H3",
+    "inchikey": "PHXATPHONSXBIL-UHFFFAOYSA-N",
+    "molecular_formula": "C11H20O2",
+    "compound_groups": [
+        "cyclic esters"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "52.6",
+            "method": "IQT",
+            "source": "Marquardt (2015)"
+        }
+    }
+}

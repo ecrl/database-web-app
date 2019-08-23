@@ -1,0 +1,27 @@
+{
+    "cas": "123-72-8",
+    "cid": 261,
+    "iupac_name": "butanal",
+    "canonical_smiles": "CCCC=O",
+    "isomeric_smiles": "CCCC=O",
+    "inchi": "1S/C4H8O/c1-2-3-4-5/h4H,2-3H2,1H3",
+    "inchikey": "ZTQSAGDEMFDKMZ-UHFFFAOYSA-N",
+    "molecular_formula": "C4H8O",
+    "compound_groups": [
+        "aldehydes",
+        "aldehyde"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "41.1",
+            "method": "IQT",
+            "source": "Marquardt (2015)"
+        },
+        "ysi_unified": {
+            "value": "17.6"
+        },
+        "kinematic_viscosity": {
+            "value": "0.4738"
+        }
+    }
+}

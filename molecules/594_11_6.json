@@ -1,0 +1,25 @@
+{
+    "cas": "594-11-6",
+    "cid": 11657,
+    "iupac_name": "methylcyclopropane",
+    "canonical_smiles": "CC1CC1",
+    "isomeric_smiles": "CC1CC1",
+    "inchi": "1S/C4H8/c1-4-2-3-4/h4H,2-3H2,1H3",
+    "inchikey": "VNXBKJFUJUWOCW-UHFFFAOYSA-N",
+    "molecular_formula": "C4H8",
+    "properties": {
+        "research_octane_number": {
+            "value": "100.2",
+            "source": "[1]"
+        },
+        "motor_octane_number": {
+            "value": "81.2",
+            "source": "[1]"
+        },
+        "octane_sensitivity": {
+            "value": "19",
+            "source": "[1]"
+        }
+    },
+    "compound_groups": []
+}

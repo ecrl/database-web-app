@@ -1,0 +1,21 @@
+{
+    "cas": "131-11-3",
+    "cid": 8554,
+    "iupac_name": "dimethyl benzene-1,2-dicarboxylate",
+    "canonical_smiles": "COC(=O)C1=CC=CC=C1C(=O)OC",
+    "isomeric_smiles": "COC(=O)C1=CC=CC=C1C(=O)OC",
+    "inchi": "1S/C10H10O4/c1-13-9(11)7-5-3-4-6-8(7)10(12)14-2/h3-6H,1-2H3",
+    "inchikey": "NIQCNGHVCWTJSM-UHFFFAOYSA-N",
+    "molecular_formula": "C10H10O4",
+    "compound_groups": [
+        "aromatics",
+        "esters"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "19",
+            "method": "Unknown",
+            "source": "BioCompoundML (2016)"
+        }
+    }
+}

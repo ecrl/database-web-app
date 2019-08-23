@@ -1,0 +1,18 @@
+{
+    "cas": "557-17-5",
+    "cid": 11182,
+    "iupac_name": "1-methoxypropane",
+    "canonical_smiles": "CCCOC",
+    "isomeric_smiles": "CCCOC",
+    "inchi": "1S/C4H10O/c1-3-4-5-2/h3-4H2,1-2H3",
+    "inchikey": "VNKYTQGIUYNRMY-UHFFFAOYSA-N",
+    "molecular_formula": "C4H10O",
+    "compound_groups": [
+        "saturated ethers"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "18"
+        }
+    }
+}

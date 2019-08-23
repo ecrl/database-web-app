@@ -1,0 +1,18 @@
+{
+    "cas": "149-73-5",
+    "cid": 9005,
+    "iupac_name": "trimethoxymethane",
+    "canonical_smiles": "COC(OC)OC",
+    "isomeric_smiles": "COC(OC)OC",
+    "inchi": "1S/C4H10O3/c1-5-4(6-2)7-3/h4H,1-3H3",
+    "inchikey": "PYOKUURKVVELLB-UHFFFAOYSA-N",
+    "molecular_formula": "C4H10O3",
+    "compound_groups": [
+        "other multi-oxygen compounds"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "12.8"
+        }
+    }
+}

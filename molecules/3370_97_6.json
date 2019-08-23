@@ -1,0 +1,20 @@
+{
+    "cas": "3370-97-6",
+    "cid": 18016,
+    "iupac_name": "dibutyl nonanedioate",
+    "canonical_smiles": "CCCCOC(=O)CCCCCCCC(=O)OCCCC",
+    "isomeric_smiles": "CCCCOC(=O)CCCCCCCC(=O)OCCCC",
+    "inchi": "1S/C17H32O4/c1-3-5-14-20-16(18)12-10-8-7-9-11-13-17(19)21-15-6-4-2/h3-15H2,1-2H3",
+    "inchikey": "RISLXYINQFKFRL-UHFFFAOYSA-N",
+    "molecular_formula": "C17H32O4",
+    "compound_groups": [
+        "esters"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "83",
+            "method": "Unknown",
+            "source": "BioCompoundML (2016)"
+        }
+    }
+}

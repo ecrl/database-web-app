@@ -1,0 +1,18 @@
+{
+    "cas": "638-49-3",
+    "cid": 12529,
+    "iupac_name": "pentyl formate",
+    "canonical_smiles": "CCCCCOC=O",
+    "isomeric_smiles": "CCCCCOC=O",
+    "inchi": "1S/C6H12O2/c1-2-3-4-5-8-6-7/h6H,2-5H2,1H3",
+    "inchikey": "DIQMPQMYFZXDAX-UHFFFAOYSA-N",
+    "molecular_formula": "C6H12O2",
+    "compound_groups": [
+        "saturated esters"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "35.7"
+        }
+    }
+}

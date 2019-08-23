@@ -1,0 +1,18 @@
+{
+    "cas": "29463-63-6",
+    "cid": 23194,
+    "iupac_name": "undecylbenzene",
+    "canonical_smiles": "CCCCCCCCCCCC1=CC=CC=C1",
+    "isomeric_smiles": "CCCCCCCCCCCC1=CC=CC=C1",
+    "inchi": "1S/C17H28/c1-2-3-4-5-6-7-8-9-11-14-17-15-12-10-13-16-17/h10,12-13,15-16H,2-9,11,14H2,1H3",
+    "inchikey": "XBEADGFTLHRJRB-UHFFFAOYSA-N",
+    "molecular_formula": "C17H28",
+    "compound_groups": [
+        "aromatic"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "293.7"
+        }
+    }
+}

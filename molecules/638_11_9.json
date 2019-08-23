@@ -1,0 +1,18 @@
+{
+    "cas": "638-11-9",
+    "cid": 61184,
+    "iupac_name": "propan-2-yl butanoate",
+    "canonical_smiles": "CCCC(=O)OC(C)C",
+    "isomeric_smiles": "CCCC(=O)OC(C)C",
+    "inchi": "1S/C7H14O2/c1-4-5-7(8)9-6(2)3/h6H,4-5H2,1-3H3",
+    "inchikey": "FFOPEPMHKILNIT-UHFFFAOYSA-N",
+    "molecular_formula": "C7H14O2",
+    "compound_groups": [
+        "saturated esters"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "36.3"
+        }
+    }
+}

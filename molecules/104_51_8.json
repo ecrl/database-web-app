@@ -1,0 +1,39 @@
+{
+    "cas": "104-51-8",
+    "cid": 7705,
+    "iupac_name": "butylbenzene",
+    "canonical_smiles": "CCCCC1=CC=CC=C1",
+    "isomeric_smiles": "CCCCC1=CC=CC=C1",
+    "inchi": "1S/C10H14/c1-2-3-7-10-8-5-4-6-9-10/h4-6,8-9H,2-3,7H2,1H3",
+    "inchikey": "OCKPCBLVNKHBMX-UHFFFAOYSA-N",
+    "molecular_formula": "C10H14",
+    "compound_groups": [
+        "aromatics",
+        "aromatic (single ring)"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "12",
+            "method": "IQT",
+            "source": "NREL (2014)"
+        },
+        "ysi_unified": {
+            "value": "245.1"
+        },
+        "research_octane_number": {
+            "value": "102.2",
+            "source": ""
+        },
+        "motor_octane_number": {
+            "value": "94.25",
+            "source": ""
+        },
+        "octane_sensitivity": {
+            "value": "7.95",
+            "source": ""
+        },
+        "kinematic_viscosity": {
+            "value": "0.9433"
+        }
+    }
+}

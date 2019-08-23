@@ -1,0 +1,20 @@
+{
+    "cas": "1647-16-1",
+    "cid": 15439,
+    "iupac_name": "deca-1,9-diene",
+    "canonical_smiles": "C=CCCCCCCC=C",
+    "isomeric_smiles": "C=CCCCCCCC=C",
+    "inchi": "1S/C10H18/c1-3-5-7-9-10-8-6-4-2/h3-4H,1-2,5-10H2",
+    "inchikey": "NLDGJRWPPOSWLC-UHFFFAOYSA-N",
+    "molecular_formula": "C10H18",
+    "compound_groups": [
+        "olefins"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "41",
+            "method": "IQT",
+            "source": "Marquardt (2015)"
+        }
+    }
+}

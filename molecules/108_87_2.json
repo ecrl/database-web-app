@@ -1,0 +1,39 @@
+{
+    "cas": "108-87-2",
+    "cid": 7962,
+    "iupac_name": "methylcyclohexane",
+    "canonical_smiles": "CC1CCCCC1",
+    "isomeric_smiles": "CC1CCCCC1",
+    "inchi": "1S/C7H14/c1-7-5-3-2-4-6-7/h7H,2-6H2,1H3",
+    "inchikey": "UAEPNZWRGJTJPN-UHFFFAOYSA-N",
+    "molecular_formula": "C7H14",
+    "compound_groups": [
+        "naphthenes",
+        "naphthene - major structure is saturated ring"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "24.4",
+            "method": "IQT",
+            "source": "Marquardt (2015)"
+        },
+        "ysi_unified": {
+            "value": "53.6"
+        },
+        "research_octane_number": {
+            "value": "73.9",
+            "source": "[9]"
+        },
+        "motor_octane_number": {
+            "value": "71.05",
+            "source": "[9]"
+        },
+        "octane_sensitivity": {
+            "value": "2.85",
+            "source": "[9]"
+        },
+        "kinematic_viscosity": {
+            "value": "0.766"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "cas": "108-44-1",
+    "cid": 7934,
+    "iupac_name": "3-methylaniline",
+    "canonical_smiles": "CC1=CC(=CC=C1)N",
+    "isomeric_smiles": "CC1=CC(=CC=C1)N",
+    "inchi": "1S/C7H9N/c1-6-3-2-4-7(8)5-6/h2-5H,8H2,1H3",
+    "inchikey": "JJYPMNFTHPTTDI-UHFFFAOYSA-N",
+    "molecular_formula": "C7H9N",
+    "compound_groups": [
+        "aromatic amine"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "119.6"
+        }
+    }
+}

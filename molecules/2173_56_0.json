@@ -1,0 +1,20 @@
+{
+    "cas": "2173-56-0",
+    "cid": 62433,
+    "iupac_name": "pentyl pentanoate",
+    "canonical_smiles": "CCCCCOC(=O)CCCC",
+    "isomeric_smiles": "CCCCCOC(=O)CCCC",
+    "inchi": "1S/C10H20O2/c1-3-5-7-9-12-10(11)8-6-4-2/h3-9H2,1-2H3",
+    "inchikey": "FGPPDYNPZTUNIU-UHFFFAOYSA-N",
+    "molecular_formula": "C10H20O2",
+    "compound_groups": [
+        "esters"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "28.2",
+            "method": "Unknown",
+            "source": "BioCompoundML (2016)"
+        }
+    }
+}

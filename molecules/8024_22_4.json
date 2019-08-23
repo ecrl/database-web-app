@@ -1,0 +1,21 @@
+{
+    "cas": "8024-22-4",
+    "cid": 5280450,
+    "iupac_name": "(9Z,12Z)-octadeca-9,12-dienoic acid",
+    "canonical_smiles": "CCCCCC=CCC=CCCCCCCCC(=O)O",
+    "isomeric_smiles": "CCCCC/C=C\\C/C=C\\CCCCCCCC(=O)O",
+    "inchi": "1S/C18H32O2/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18(19)20/h6-7,9-10H,2-5,8,11-17H2,1H3,(H,19,20)/b7-6-,10-9-",
+    "inchikey": "OYHQOLUKZRVURQ-HZJYTTRNSA-N",
+    "molecular_formula": "C18H32O2",
+    "compound_groups": [
+        "acids",
+        "olefins"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "31",
+            "method": "Unknown",
+            "source": "BioCompoundML (2016)"
+        }
+    }
+}

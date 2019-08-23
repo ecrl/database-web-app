@@ -1,0 +1,16 @@
+{
+    "cas": "122-78-1",
+    "cid": 998,
+    "iupac_name": "2-phenylacetaldehyde",
+    "canonical_smiles": "C1=CC=C(C=C1)CC=O",
+    "isomeric_smiles": "C1=CC=C(C=C1)CC=O",
+    "inchi": "1S/C8H8O/c9-7-6-8-4-2-1-3-5-8/h1-5,7H,6H2",
+    "inchikey": "DTUQWGWMVIHBKE-UHFFFAOYSA-N",
+    "molecular_formula": "C8H8O",
+    "compound_groups": [],
+    "properties": {
+        "ysi_unified": {
+            "value": "217.6"
+        }
+    }
+}

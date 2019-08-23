@@ -1,0 +1,18 @@
+{
+    "cas": "97-96-1",
+    "cid": 7359,
+    "iupac_name": "2-ethylbutanal",
+    "canonical_smiles": "CCC(CC)C=O",
+    "isomeric_smiles": "CCC(CC)C=O",
+    "inchi": "1S/C6H12O/c1-3-6(4-2)5-7/h5-6H,3-4H2,1-2H3",
+    "inchikey": "UNNGUFMVYQJGTD-UHFFFAOYSA-N",
+    "molecular_formula": "C6H12O",
+    "compound_groups": [
+        "saturated aldehyde"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "29"
+        }
+    }
+}

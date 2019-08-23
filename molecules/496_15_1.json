@@ -1,0 +1,16 @@
+{
+    "cas": "496-15-1",
+    "cid": 10328,
+    "iupac_name": "2,3-dihydro-1H-indole",
+    "canonical_smiles": "C1CNC2=CC=CC=C21",
+    "isomeric_smiles": "C1CNC2=CC=CC=C21",
+    "inchi": "1S/C8H9N/c1-2-4-8-7(3-1)5-6-9-8/h1-4,9H,5-6H2",
+    "inchikey": "LPAGFVYQRIESJQ-UHFFFAOYSA-N",
+    "molecular_formula": "C8H9N",
+    "compound_groups": [],
+    "properties": {
+        "ysi_unified": {
+            "value": "176.05"
+        }
+    }
+}

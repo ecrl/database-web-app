@@ -1,0 +1,20 @@
+{
+    "cas": "71808-49-6",
+    "cid": 13561,
+    "iupac_name": "undecan-6-one",
+    "canonical_smiles": "CCCCCC(=O)CCCCC",
+    "isomeric_smiles": "CCCCCC(=O)CCCCC",
+    "inchi": "1S/C11H22O/c1-3-5-7-9-11(12)10-8-6-4-2/h3-10H2,1-2H3",
+    "inchikey": "ZPQAKYPOZRXKFA-UHFFFAOYSA-N",
+    "molecular_formula": "C11H22O",
+    "compound_groups": [
+        "ketones"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "49",
+            "method": "IQT",
+            "source": "NREL (2014)"
+        }
+    }
+}

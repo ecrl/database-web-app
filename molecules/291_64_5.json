@@ -1,0 +1,35 @@
+{
+    "cas": "291-64-5",
+    "cid": 9265,
+    "iupac_name": "cycloheptane",
+    "canonical_smiles": "C1CCCCCC1",
+    "isomeric_smiles": "C1CCCCCC1",
+    "inchi": "1S/C7H14/c1-2-4-6-7-5-3-1/h1-7H2",
+    "inchikey": "DMEGYFMYUHOHGS-UHFFFAOYSA-N",
+    "molecular_formula": "C7H14",
+    "compound_groups": [
+        "cyclic alkanes",
+        "naphthene - major structure is saturated ring",
+        "naphthenes"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "50"
+        },
+        "research_octane_number": {
+            "value": "38.7",
+            "source": "[1]"
+        },
+        "motor_octane_number": {
+            "value": "39.7",
+            "source": "[1]"
+        },
+        "octane_sensitivity": {
+            "value": "-1",
+            "source": "[1]"
+        },
+        "kinematic_viscosity": {
+            "value": "1.4796"
+        }
+    }
+}

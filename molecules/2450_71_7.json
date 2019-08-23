@@ -1,0 +1,18 @@
+{
+    "cas": "2450-71-7",
+    "cid": 239041,
+    "iupac_name": "prop-2-yn-1-amine",
+    "canonical_smiles": "C#CCN",
+    "isomeric_smiles": "C#CCN",
+    "inchi": "1S/C3H5N/c1-2-3-4/h1H,3-4H2",
+    "inchikey": "JKANAVGODYYCQF-UHFFFAOYSA-N",
+    "molecular_formula": "C3H5N",
+    "compound_groups": [
+        "unsaturated amine"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "25.4"
+        }
+    }
+}

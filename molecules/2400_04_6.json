@@ -1,0 +1,20 @@
+{
+    "cas": "2400-04-6",
+    "cid": 16983,
+    "iupac_name": "icosan-5-ylbenzene",
+    "canonical_smiles": "CCCCCCCCCCCCCCCC(CCCC)C1=CC=CC=C1",
+    "isomeric_smiles": "CCCCCCCCCCCCCCCC(CCCC)C1=CC=CC=C1",
+    "inchi": "1S/C26H46/c1-3-5-7-8-9-10-11-12-13-14-15-16-18-22-25(21-6-4-2)26-23-19-17-20-24-26/h17,19-20,23-25H,3-16,18,21-22H2,1-2H3",
+    "inchikey": "KINRJYWUZLHOKP-UHFFFAOYSA-N",
+    "molecular_formula": "C26H46",
+    "compound_groups": [
+        "aromatics"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "39",
+            "method": "Unknown",
+            "source": "NREL (2014)"
+        }
+    }
+}

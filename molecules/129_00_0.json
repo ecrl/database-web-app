@@ -1,0 +1,18 @@
+{
+    "cas": "129-00-0",
+    "cid": 31423,
+    "iupac_name": "pyrene",
+    "canonical_smiles": "C1=CC2=C3C(=C1)C=CC4=CC=CC(=C43)C=C2",
+    "isomeric_smiles": "C1=CC2=C3C(=C1)C=CC4=CC=CC(=C43)C=C2",
+    "inchi": "1S/C16H10/c1-3-11-7-9-13-5-2-6-14-10-8-12(4-1)15(11)16(13)14/h1-10H",
+    "inchikey": "BBEAQIROQSPTKN-UHFFFAOYSA-N",
+    "molecular_formula": "C16H10",
+    "compound_groups": [
+        "aromatic"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "1250.1"
+        }
+    }
+}

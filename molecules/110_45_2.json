@@ -1,0 +1,18 @@
+{
+    "cas": "110-45-2",
+    "cid": 8052,
+    "iupac_name": "3-methylbutyl formate",
+    "canonical_smiles": "CC(C)CCOC=O",
+    "isomeric_smiles": "CC(C)CCOC=O",
+    "inchi": "1S/C6H12O2/c1-6(2)3-4-8-5-7/h5-6H,3-4H2,1-2H3",
+    "inchikey": "XKYICAQFSCFURC-UHFFFAOYSA-N",
+    "molecular_formula": "C6H12O2",
+    "compound_groups": [
+        "saturated esters"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "38.2"
+        }
+    }
+}

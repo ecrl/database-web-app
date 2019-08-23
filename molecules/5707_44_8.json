@@ -1,0 +1,18 @@
+{
+    "cas": "5707-44-8",
+    "cid": 79786,
+    "iupac_name": "1-ethyl-4-phenylbenzene",
+    "canonical_smiles": "CCC1=CC=C(C=C1)C2=CC=CC=C2",
+    "isomeric_smiles": "CCC1=CC=C(C=C1)C2=CC=CC=C2",
+    "inchi": "1S/C14H14/c1-2-12-8-10-14(11-9-12)13-6-4-3-5-7-13/h3-11H,2H2,1H3",
+    "inchikey": "SRQOBNUBCLPPPH-UHFFFAOYSA-N",
+    "molecular_formula": "C14H14",
+    "compound_groups": [
+        "aromatic"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "811.1"
+        }
+    }
+}

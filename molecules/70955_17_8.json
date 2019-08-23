@@ -1,0 +1,39 @@
+{
+    "cas": "70955-17-8",
+    "cid": 7500,
+    "iupac_name": "ethylbenzene",
+    "canonical_smiles": "CCC1=CC=CC=C1",
+    "isomeric_smiles": "CCC1=CC=CC=C1",
+    "inchi": "1S/C8H10/c1-2-8-6-4-3-5-7-8/h3-7H,2H2,1H3",
+    "inchikey": "YNQLUTRBYVCPMQ-UHFFFAOYSA-N",
+    "molecular_formula": "C8H10",
+    "compound_groups": [
+        "aromatics",
+        "aromatic (single ring)"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "6.3",
+            "method": "IQT",
+            "source": "NREL (2014)"
+        },
+        "ysi_unified": {
+            "value": "223.7"
+        },
+        "research_octane_number": {
+            "value": "107",
+            "source": "[1], [4]"
+        },
+        "motor_octane_number": {
+            "value": "97.9",
+            "source": "[1], [4]"
+        },
+        "octane_sensitivity": {
+            "value": "9.1",
+            "source": "[1], [4]"
+        },
+        "kinematic_viscosity": {
+            "value": "0.6537"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "cas": "530-48-3",
+    "cid": 10740,
+    "iupac_name": "1-phenylethenylbenzene",
+    "canonical_smiles": "C=C(C1=CC=CC=C1)C2=CC=CC=C2",
+    "isomeric_smiles": "C=C(C1=CC=CC=C1)C2=CC=CC=C2",
+    "inchi": "1S/C14H12/c1-12(13-8-4-2-5-9-13)14-10-6-3-7-11-14/h2-11H,1H2",
+    "inchikey": "ZMYIIHDQURVDRB-UHFFFAOYSA-N",
+    "molecular_formula": "C14H12",
+    "compound_groups": [
+        "aromatic"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "743.1"
+        }
+    }
+}

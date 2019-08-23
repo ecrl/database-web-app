@@ -1,0 +1,20 @@
+{
+    "cas": "68989-32-2",
+    "cid": 31249,
+    "iupac_name": "diethyl butanedioate",
+    "canonical_smiles": "CCOC(=O)CCC(=O)OCC",
+    "isomeric_smiles": "CCOC(=O)CCC(=O)OCC",
+    "inchi": "1S/C8H14O4/c1-3-11-7(9)5-6-8(10)12-4-2/h3-6H2,1-2H3",
+    "inchikey": "DKMROQRQHGEIOW-UHFFFAOYSA-N",
+    "molecular_formula": "C8H14O4",
+    "compound_groups": [
+        "esters"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "21",
+            "method": "CFR",
+            "source": "NREL (2014)"
+        }
+    }
+}

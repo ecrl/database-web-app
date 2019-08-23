@@ -1,0 +1,20 @@
+{
+    "cas": "106-33-2",
+    "cid": 7800,
+    "iupac_name": "ethyl dodecanoate",
+    "canonical_smiles": "CCCCCCCCCCCC(=O)OCC",
+    "isomeric_smiles": "CCCCCCCCCCCC(=O)OCC",
+    "inchi": "1S/C14H28O2/c1-3-5-6-7-8-9-10-11-12-13-14(15)16-4-2/h3-13H2,1-2H3",
+    "inchikey": "MMXKVMNBHPAILY-UHFFFAOYSA-N",
+    "molecular_formula": "C14H28O2",
+    "compound_groups": [
+        "esters"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "73",
+            "method": "Unknown",
+            "source": "BioCompoundML (2016)"
+        }
+    }
+}

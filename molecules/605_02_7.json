@@ -1,0 +1,18 @@
+{
+    "cas": "605-02-7",
+    "cid": 11795,
+    "iupac_name": "1-phenylnaphthalene",
+    "canonical_smiles": "C1=CC=C(C=C1)C2=CC=CC3=CC=CC=C32",
+    "isomeric_smiles": "C1=CC=C(C=C1)C2=CC=CC3=CC=CC=C32",
+    "inchi": "1S/C16H12/c1-2-7-13(8-3-1)16-12-6-10-14-9-4-5-11-15(14)16/h1-12H",
+    "inchikey": "IYDMICQAKLQHLA-UHFFFAOYSA-N",
+    "molecular_formula": "C16H12",
+    "compound_groups": [
+        "aromatic"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "1103.7"
+        }
+    }
+}

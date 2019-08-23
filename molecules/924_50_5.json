@@ -1,0 +1,18 @@
+{
+    "cas": "924-50-5",
+    "cid": 13546,
+    "iupac_name": "methyl 3-methylbut-2-enoate",
+    "canonical_smiles": "CC(=CC(=O)OC)C",
+    "isomeric_smiles": "CC(=CC(=O)OC)C",
+    "inchi": "1S/C6H10O2/c1-5(2)4-6(7)8-3/h4H,1-3H3",
+    "inchikey": "FZIBCCGGICGWBP-UHFFFAOYSA-N",
+    "molecular_formula": "C6H10O2",
+    "compound_groups": [
+        "unsaturated esters"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "36.4"
+        }
+    }
+}

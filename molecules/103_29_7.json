@@ -1,0 +1,27 @@
+{
+    "cas": "103-29-7",
+    "cid": 7647,
+    "iupac_name": "2-phenylethylbenzene",
+    "canonical_smiles": "C1=CC=C(C=C1)CCC2=CC=CC=C2",
+    "isomeric_smiles": "C1=CC=C(C=C1)CCC2=CC=CC=C2",
+    "inchi": "1S/C14H14/c1-3-7-13(8-4-1)11-12-14-9-5-2-6-10-14/h1-10H,11-12H2",
+    "inchikey": "QWUWMCYKGHVNAV-UHFFFAOYSA-N",
+    "molecular_formula": "C14H14",
+    "compound_groups": [
+        "aromatics",
+        "aromatic with multiple rings connected through other saturated carbon species"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "1",
+            "method": "CFR",
+            "source": "NREL (2014)"
+        },
+        "ysi_unified": {
+            "value": "471.4"
+        },
+        "kinematic_viscosity": {
+            "value": "2.8516"
+        }
+    }
+}

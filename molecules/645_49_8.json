@@ -1,0 +1,18 @@
+{
+    "cas": "645-49-8",
+    "cid": 5356785,
+    "iupac_name": "(Z)-stilbene",
+    "canonical_smiles": "C1=CC=C(C=C1)C=CC2=CC=CC=C2",
+    "isomeric_smiles": "C1=CC=C(C=C1)/C=C\\C2=CC=CC=C2",
+    "inchi": "1S/C14H12/c1-3-7-13(8-4-1)11-12-14-9-5-2-6-10-14/h1-12H/b12-11-",
+    "inchikey": "PJANXHGTPQOBST-QXMHVHEDSA-N",
+    "molecular_formula": "C14H12",
+    "compound_groups": [
+        "aromatic"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "602"
+        }
+    }
+}

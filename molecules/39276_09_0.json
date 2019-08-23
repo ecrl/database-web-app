@@ -1,0 +1,25 @@
+{
+    "cas": "39276-09-0",
+    "cid": 7362,
+    "iupac_name": "furan-2-carbaldehyde",
+    "canonical_smiles": "C1=COC(=C1)C=O",
+    "isomeric_smiles": "C1=COC(=C1)C=O",
+    "inchi": "1S/C5H4O2/c6-4-5-2-1-3-7-5/h1-4H",
+    "inchikey": "HYBBIBNJHNGZAN-UHFFFAOYSA-N",
+    "molecular_formula": "C5H4O2",
+    "compound_groups": [
+        "cyclic ethers",
+        "aromatics",
+        "miscellaneous - doesn't fit in other categories"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "13.9",
+            "method": "IQT",
+            "source": "NREL (2014)"
+        },
+        "kinematic_viscosity": {
+            "value": "1.1596"
+        }
+    }
+}

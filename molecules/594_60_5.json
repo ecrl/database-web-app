@@ -1,0 +1,18 @@
+{
+    "cas": "594-60-5",
+    "cid": 11670,
+    "iupac_name": "2,3-dimethylbutan-2-ol",
+    "canonical_smiles": "CC(C)C(C)(C)O",
+    "isomeric_smiles": "CC(C)C(C)(C)O",
+    "inchi": "1S/C6H14O/c1-5(2)6(3,4)7/h5,7H,1-4H3",
+    "inchikey": "IKECULIHBUCAKR-UHFFFAOYSA-N",
+    "molecular_formula": "C6H14O",
+    "compound_groups": [
+        "saturated alcohols"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "40.6"
+        }
+    }
+}

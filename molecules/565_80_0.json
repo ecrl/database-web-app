@@ -1,0 +1,35 @@
+{
+    "cas": "565-80-0",
+    "cid": 11271,
+    "iupac_name": "2,4-dimethylpentan-3-one",
+    "canonical_smiles": "CC(C)C(=O)C(C)C",
+    "isomeric_smiles": "CC(C)C(=O)C(C)C",
+    "inchi": "1S/C7H14O/c1-5(2)7(8)6(3)4/h5-6H,1-4H3",
+    "inchikey": "HXVNBWAKAOHACI-UHFFFAOYSA-N",
+    "molecular_formula": "C7H14O",
+    "compound_groups": [
+        "ketones"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "14.4",
+            "method": "IQT",
+            "source": "NREL (2014)"
+        },
+        "ysi_unified": {
+            "value": "42.6"
+        },
+        "research_octane_number": {
+            "value": "99",
+            "source": "[9], [11]"
+        },
+        "motor_octane_number": {
+            "value": "92.5",
+            "source": "[9], [11]"
+        },
+        "octane_sensitivity": {
+            "value": "6.5",
+            "source": "[9], [11]"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "cas": "646-13-9",
+    "cid": 12588,
+    "iupac_name": "2-methylpropyl octadecanoate",
+    "canonical_smiles": "CCCCCCCCCCCCCCCCCC(=O)OCC(C)C",
+    "isomeric_smiles": "CCCCCCCCCCCCCCCCCC(=O)OCC(C)C",
+    "inchi": "1S/C22H44O2/c1-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-22(23)24-20-21(2)3/h21H,4-20H2,1-3H3",
+    "inchikey": "ORFWYUFLWUWSFM-UHFFFAOYSA-N",
+    "molecular_formula": "C22H44O2",
+    "compound_groups": [
+        "esters"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "99",
+            "method": "Unknown",
+            "source": "BioCompoundML (2016)"
+        }
+    }
+}

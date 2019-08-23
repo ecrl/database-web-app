@@ -1,0 +1,25 @@
+{
+    "cas": "68814-91-5",
+    "cid": 8004,
+    "iupac_name": "pent-1-ene",
+    "canonical_smiles": "CCCC=C",
+    "isomeric_smiles": "CCCC=C",
+    "inchi": "1S/C5H10/c1-3-5-4-2/h3H,1,4-5H2,2H3",
+    "inchikey": "YWAKXRMUMFPDSH-UHFFFAOYSA-N",
+    "molecular_formula": "C5H10",
+    "properties": {
+        "research_octane_number": {
+            "value": "87.9",
+            "source": "[9]"
+        },
+        "motor_octane_number": {
+            "value": "77.1",
+            "source": "[9]"
+        },
+        "octane_sensitivity": {
+            "value": "10.8",
+            "source": "[9]"
+        }
+    },
+    "compound_groups": []
+}

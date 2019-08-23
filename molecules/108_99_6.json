@@ -1,0 +1,18 @@
+{
+    "cas": "108-99-6",
+    "cid": 7970,
+    "iupac_name": "3-methylpyridine",
+    "canonical_smiles": "CC1=CN=CC=C1",
+    "isomeric_smiles": "CC1=CN=CC=C1",
+    "inchi": "1S/C6H7N/c1-6-3-2-4-7-5-6/h2-5H,1H3",
+    "inchikey": "ITQTTZVARXURQS-UHFFFAOYSA-N",
+    "molecular_formula": "C6H7N",
+    "compound_groups": [
+        "pyridinic"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "66.1"
+        }
+    }
+}

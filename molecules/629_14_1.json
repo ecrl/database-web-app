@@ -1,0 +1,18 @@
+{
+    "cas": "629-14-1",
+    "cid": 12375,
+    "iupac_name": "1,2-diethoxyethane",
+    "canonical_smiles": "CCOCCOCC",
+    "isomeric_smiles": "CCOCCOCC",
+    "inchi": "1S/C6H14O2/c1-3-7-5-6-8-4-2/h3-6H2,1-2H3",
+    "inchikey": "LZDKZFUFMNSQCJ-UHFFFAOYSA-N",
+    "molecular_formula": "C6H14O2",
+    "compound_groups": [
+        "other multi-oxygen compounds"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "20.4"
+        }
+    }
+}

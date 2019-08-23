@@ -1,0 +1,18 @@
+{
+    "cas": "779-02-2",
+    "cid": 13068,
+    "iupac_name": "9-methylanthracene",
+    "canonical_smiles": "CC1=C2C=CC=CC2=CC3=CC=CC=C13",
+    "isomeric_smiles": "CC1=C2C=CC=CC2=CC3=CC=CC=C13",
+    "inchi": "1S/C15H12/c1-11-14-8-4-2-6-12(14)10-13-7-3-5-9-15(11)13/h2-10H,1H3",
+    "inchikey": "CPGPAVAKSZHMBP-UHFFFAOYSA-N",
+    "molecular_formula": "C15H12",
+    "compound_groups": [
+        "aromatic"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "1182.1"
+        }
+    }
+}

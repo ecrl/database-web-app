@@ -1,0 +1,21 @@
+{
+    "cas": "123-42-2",
+    "cid": 31256,
+    "iupac_name": "4-hydroxy-4-methylpentan-2-one",
+    "canonical_smiles": "CC(=O)CC(C)(C)O",
+    "isomeric_smiles": "CC(=O)CC(C)(C)O",
+    "inchi": "1S/C6H12O2/c1-5(7)4-6(2,3)8/h8H,4H2,1-3H3",
+    "inchikey": "SWXVUIWOUIDPGS-UHFFFAOYSA-N",
+    "molecular_formula": "C6H12O2",
+    "compound_groups": [
+        "ketones",
+        "alcohols"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "11.5",
+            "method": "IQT",
+            "source": "Marquardt (2015)"
+        }
+    }
+}

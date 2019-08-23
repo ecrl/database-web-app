@@ -1,0 +1,25 @@
+{
+    "cas": "57643-00-2",
+    "cid": 11173,
+    "iupac_name": "3-methylbut-2-en-1-ol",
+    "canonical_smiles": "CC(=CCO)C",
+    "isomeric_smiles": "CC(=CCO)C",
+    "inchi": "1S/C5H10O/c1-5(2)3-4-6/h3,6H,4H2,1-2H3",
+    "inchikey": "ASUAYTHWZCLXAN-UHFFFAOYSA-N",
+    "molecular_formula": "C5H10O",
+    "properties": {
+        "research_octane_number": {
+            "value": "93.5",
+            "source": ""
+        },
+        "motor_octane_number": {
+            "value": "74",
+            "source": ""
+        },
+        "octane_sensitivity": {
+            "value": "19.5",
+            "source": ""
+        }
+    },
+    "compound_groups": []
+}

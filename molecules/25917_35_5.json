@@ -1,0 +1,23 @@
+{
+    "cas": "25917-35-5",
+    "cid": 8103,
+    "iupac_name": "hexan-1-ol",
+    "canonical_smiles": "CCCCCCO",
+    "isomeric_smiles": "CCCCCCO",
+    "inchi": "1S/C6H14O/c1-2-3-4-5-6-7/h7H,2-6H2,1H3",
+    "inchikey": "ZSIAUFGUXNUGDI-UHFFFAOYSA-N",
+    "molecular_formula": "C6H14O",
+    "compound_groups": [
+        "alcohols"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "23.3",
+            "method": "CFR",
+            "source": "NREL (2014)"
+        },
+        "ysi_unified": {
+            "value": "30"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "cas": "627-37-2",
+    "cid": 69391,
+    "iupac_name": "N-methylprop-2-en-1-amine",
+    "canonical_smiles": "CNCC=C",
+    "isomeric_smiles": "CNCC=C",
+    "inchi": "1S/C4H9N/c1-3-4-5-2/h3,5H,1,4H2,2H3",
+    "inchikey": "IOXXVNYDGIXMIP-UHFFFAOYSA-N",
+    "molecular_formula": "C4H9N",
+    "compound_groups": [
+        "unsaturated amine"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "25.3"
+        }
+    }
+}

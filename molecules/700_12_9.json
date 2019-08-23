@@ -1,0 +1,18 @@
+{
+    "cas": "700-12-9",
+    "cid": 12784,
+    "iupac_name": "1,2,3,4,5-pentamethylbenzene",
+    "canonical_smiles": "CC1=CC(=C(C(=C1C)C)C)C",
+    "isomeric_smiles": "CC1=CC(=C(C(=C1C)C)C)C",
+    "inchi": "1S/C11H16/c1-7-6-8(2)10(4)11(5)9(7)3/h6H,1-5H3",
+    "inchikey": "BEZDDPMMPIDMGJ-UHFFFAOYSA-N",
+    "molecular_formula": "C11H16",
+    "compound_groups": [
+        "aromatic"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "481.8"
+        }
+    }
+}

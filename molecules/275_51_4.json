@@ -1,0 +1,18 @@
+{
+    "cas": "275-51-4",
+    "cid": 9231,
+    "iupac_name": "azulene",
+    "canonical_smiles": "C1=CC=C2C=CC=C2C=C1",
+    "isomeric_smiles": "C1=CC=C2C=CC=C2C=C1",
+    "inchi": "1S/C10H8/c1-2-5-9-7-4-8-10(9)6-3-1/h1-8H",
+    "inchikey": "CUFNKYGDVFVPHO-UHFFFAOYSA-N",
+    "molecular_formula": "C10H8",
+    "compound_groups": [
+        "aromatic"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "492.3"
+        }
+    }
+}

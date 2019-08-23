@@ -1,0 +1,23 @@
+{
+    "cas": "67-63-0",
+    "cid": 3776,
+    "iupac_name": "propan-2-ol",
+    "canonical_smiles": "CC(C)O",
+    "isomeric_smiles": "CC(C)O",
+    "inchi": "1S/C3H8O/c1-3(2)4/h3-4H,1-2H3",
+    "inchikey": "KFZMGEQAYNKOFK-UHFFFAOYSA-N",
+    "molecular_formula": "C3H8O",
+    "compound_groups": [
+        "saturated alcohols",
+        "alcohol",
+        "alcohols"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "19.2"
+        },
+        "kinematic_viscosity": {
+            "value": "1.8698"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "cas": "68424-45-3",
+    "cid": 5280934,
+    "iupac_name": "(9Z,12Z,15Z)-octadeca-9,12,15-trienoic acid",
+    "canonical_smiles": "CCC=CCC=CCC=CCCCCCCCC(=O)O",
+    "isomeric_smiles": "CC/C=C\\C/C=C\\C/C=C\\CCCCCCCC(=O)O",
+    "inchi": "1S/C18H30O2/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18(19)20/h3-4,6-7,9-10H,2,5,8,11-17H2,1H3,(H,19,20)/b4-3-,7-6-,10-9-",
+    "inchikey": "DTOSIQBPPRVQHS-PDBXOOCHSA-N",
+    "molecular_formula": "C18H30O2",
+    "compound_groups": [
+        "acids",
+        "olefins"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "20",
+            "method": "Other Ignition Delay Method",
+            "source": "NREL (2014)"
+        }
+    }
+}

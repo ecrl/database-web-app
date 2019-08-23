@@ -1,0 +1,25 @@
+{
+    "cas": "7154-80-5",
+    "cid": 23544,
+    "iupac_name": "3,3,5-trimethylheptane",
+    "canonical_smiles": "CCC(C)CC(C)(C)CC",
+    "isomeric_smiles": "CCC(C)CC(C)(C)CC",
+    "inchi": "1S/C10H22/c1-6-9(3)8-10(4,5)7-2/h9H,6-8H2,1-5H3",
+    "inchikey": "VRVRZZWPKABUOE-UHFFFAOYSA-N",
+    "molecular_formula": "C10H22",
+    "properties": {
+        "research_octane_number": {
+            "value": "86.4",
+            "source": "[1]"
+        },
+        "motor_octane_number": {
+            "value": "88.7",
+            "source": "[1]"
+        },
+        "octane_sensitivity": {
+            "value": "-2.3",
+            "source": "[1]"
+        }
+    },
+    "compound_groups": []
+}

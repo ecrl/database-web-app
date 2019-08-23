@@ -1,0 +1,20 @@
+{
+    "cas": "68680-98-8",
+    "cid": 7792,
+    "iupac_name": "3,7-dimethyloctan-1-ol",
+    "canonical_smiles": "CC(C)CCCC(C)CCO",
+    "isomeric_smiles": "CC(C)CCCC(C)CCO",
+    "inchi": "1S/C10H22O/c1-9(2)5-4-6-10(3)7-8-11/h9-11H,4-8H2,1-3H3",
+    "inchikey": "PRNCMAKCNVRZFX-UHFFFAOYSA-N",
+    "molecular_formula": "C10H22O",
+    "compound_groups": [
+        "alcohols"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "29.3",
+            "method": "IQT",
+            "source": "Marquardt (2015)"
+        }
+    }
+}

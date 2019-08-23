@@ -1,0 +1,18 @@
+{
+    "cas": "75-97-8",
+    "cid": 6416,
+    "iupac_name": "3,3-dimethylbutan-2-one",
+    "canonical_smiles": "CC(=O)C(C)(C)C",
+    "isomeric_smiles": "CC(=O)C(C)(C)C",
+    "inchi": "1S/C6H12O/c1-5(7)6(2,3)4/h1-4H3",
+    "inchikey": "PJGSXYOJTGTZAV-UHFFFAOYSA-N",
+    "molecular_formula": "C6H12O",
+    "compound_groups": [
+        "saturated alkanone"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "40.6"
+        }
+    }
+}

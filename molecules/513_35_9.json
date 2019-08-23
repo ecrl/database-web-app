@@ -1,0 +1,30 @@
+{
+    "cas": "513-35-9",
+    "cid": 10553,
+    "iupac_name": "2-methylbut-2-ene",
+    "canonical_smiles": "CC=C(C)C",
+    "isomeric_smiles": "CC=C(C)C",
+    "inchi": "1S/C5H10/c1-4-5(2)3/h4H,1-3H3",
+    "inchikey": "BKOOMYPCSUNDGP-UHFFFAOYSA-N",
+    "molecular_formula": "C5H10",
+    "compound_groups": [
+        "alkenes"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "43.5"
+        },
+        "research_octane_number": {
+            "value": "97.3",
+            "source": "[1]"
+        },
+        "motor_octane_number": {
+            "value": "84.7",
+            "source": "[1]"
+        },
+        "octane_sensitivity": {
+            "value": "12.6",
+            "source": "[1]"
+        }
+    }
+}

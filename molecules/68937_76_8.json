@@ -1,0 +1,20 @@
+{
+    "cas": "68937-76-8",
+    "cid": 5281,
+    "iupac_name": "octadecanoic acid",
+    "canonical_smiles": "CCCCCCCCCCCCCCCCCC(=O)O",
+    "isomeric_smiles": "CCCCCCCCCCCCCCCCCC(=O)O",
+    "inchi": "1S/C18H36O2/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18(19)20/h2-17H2,1H3,(H,19,20)",
+    "inchikey": "QIQXTHQIDYTFRH-UHFFFAOYSA-N",
+    "molecular_formula": "C18H36O2",
+    "compound_groups": [
+        "acids"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "62",
+            "method": "Other Ignition Delay Method",
+            "source": "NREL (2014)"
+        }
+    }
+}

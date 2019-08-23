@@ -1,0 +1,36 @@
+{
+    "cas": "56573-11-6",
+    "cid": 10326,
+    "iupac_name": "2,3-dihydro-1H-indene",
+    "canonical_smiles": "C1CC2=CC=CC=C2C1",
+    "isomeric_smiles": "C1CC2=CC=CC=C2C1",
+    "inchi": "1S/C9H10/c1-2-5-9-7-3-6-8(9)4-1/h1-2,4-5H,3,6-7H2",
+    "inchikey": "PQNFLJBBNBOBRQ-UHFFFAOYSA-N",
+    "molecular_formula": "C9H10",
+    "compound_groups": [
+        "aromatics",
+        "cyclic"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "8.6",
+            "method": "IQT",
+            "source": "NREL (2014)"
+        },
+        "ysi_unified": {
+            "value": "439.5"
+        },
+        "research_octane_number": {
+            "value": "100.3",
+            "source": "[1]"
+        },
+        "motor_octane_number": {
+            "value": "89.8",
+            "source": "[1]"
+        },
+        "octane_sensitivity": {
+            "value": "10.5",
+            "source": "[1]"
+        }
+    }
+}

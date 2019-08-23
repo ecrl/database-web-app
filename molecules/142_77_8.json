@@ -1,0 +1,21 @@
+{
+    "cas": "142-77-8",
+    "cid": 5354342,
+    "iupac_name": "butyl (Z)-octadec-9-enoate",
+    "canonical_smiles": "CCCCCCCCC=CCCCCCCCC(=O)OCCCC",
+    "isomeric_smiles": "CCCCCCCC/C=C\\CCCCCCCC(=O)OCCCC",
+    "inchi": "1S/C22H42O2/c1-3-5-7-8-9-10-11-12-13-14-15-16-17-18-19-20-22(23)24-21-6-4-2/h12-13H,3-11,14-21H2,1-2H3/b13-12-",
+    "inchikey": "WIBFFTLQMKKBLZ-SEYXRHQNSA-N",
+    "molecular_formula": "C22H42O2",
+    "compound_groups": [
+        "esters",
+        "olefins"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "102",
+            "method": "Blend",
+            "source": "NREL (2014)"
+        }
+    }
+}

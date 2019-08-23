@@ -1,0 +1,35 @@
+{
+    "cas": "592-99-4",
+    "cid": 5357253,
+    "iupac_name": "(E)-oct-4-ene",
+    "canonical_smiles": "CCCC=CCCC",
+    "isomeric_smiles": "CCC/C=C/CCC",
+    "inchi": "1S/C8H16/c1-3-5-7-8-6-4-2/h7-8H,3-6H2,1-2H3/b8-7+",
+    "inchikey": "IRUCBBFNLDIMIK-BQYQJAHWSA-N",
+    "molecular_formula": "C8H16",
+    "compound_groups": [
+        "alkenes",
+        "olefin (alkene) with single c=c double bond",
+        "octenes"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "59.8"
+        },
+        "research_octane_number": {
+            "value": "73.15",
+            "source": "[1]"
+        },
+        "motor_octane_number": {
+            "value": "74.15",
+            "source": "[1]"
+        },
+        "octane_sensitivity": {
+            "value": "-1",
+            "source": "[1]"
+        },
+        "kinematic_viscosity": {
+            "value": "0.5613"
+        }
+    }
+}

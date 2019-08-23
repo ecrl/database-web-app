@@ -1,0 +1,20 @@
+{
+    "cas": "1636-41-5",
+    "cid": 519254,
+    "iupac_name": "4,5-diethyloctane",
+    "canonical_smiles": "CCCC(CC)C(CC)CCC",
+    "isomeric_smiles": "CCCC(CC)C(CC)CCC",
+    "inchi": "1S/C12H26/c1-5-9-11(7-3)12(8-4)10-6-2/h11-12H,5-10H2,1-4H3",
+    "inchikey": "XRVCHXCONYJHLU-UHFFFAOYSA-N",
+    "molecular_formula": "C12H26",
+    "compound_groups": [
+        "alkanes"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "20",
+            "method": "Unknown",
+            "source": "NREL (2014)"
+        }
+    }
+}

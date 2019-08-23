@@ -1,0 +1,21 @@
+{
+    "cas": "3208-16-0",
+    "cid": 18554,
+    "iupac_name": "2-ethylfuran",
+    "canonical_smiles": "CCC1=CC=CO1",
+    "isomeric_smiles": "CCC1=CC=CO1",
+    "inchi": "1S/C6H8O/c1-2-6-4-3-5-7-6/h3-5H,2H2,1H3",
+    "inchikey": "HLPIHRDZBHXTFJ-UHFFFAOYSA-N",
+    "molecular_formula": "C6H8O",
+    "compound_groups": [
+        "cyclic ethers",
+        "aromatics"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "10.2",
+            "method": "IQT",
+            "source": "Marquardt (2015)"
+        }
+    }
+}

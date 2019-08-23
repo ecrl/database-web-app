@@ -1,0 +1,19 @@
+{
+    "cas": "2216-34-4",
+    "cid": 16665,
+    "iupac_name": "4-methyloctane",
+    "canonical_smiles": "CCCCC(C)CCC",
+    "isomeric_smiles": "CCCCC(C)CCC",
+    "inchi": "1S/C9H20/c1-4-6-8-9(3)7-5-2/h9H,4-8H2,1-3H3",
+    "inchikey": "DOGIHOCMZJUJNR-UHFFFAOYSA-N",
+    "molecular_formula": "C9H20",
+    "compound_groups": [
+        "paraffin (non-normal)",
+        "alkanes"
+    ],
+    "properties": {
+        "kinematic_viscosity": {
+            "value": "0.6518"
+        }
+    }
+}

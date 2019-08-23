@@ -1,0 +1,27 @@
+{
+    "cas": "71011-10-4",
+    "cid": 3283,
+    "iupac_name": "ethoxyethane",
+    "canonical_smiles": "CCOCC",
+    "isomeric_smiles": "CCOCC",
+    "inchi": "1S/C4H10O/c1-3-5-4-2/h3-4H2,1-2H3",
+    "inchikey": "RTZKZFJDLAIYFH-UHFFFAOYSA-N",
+    "molecular_formula": "C4H10O",
+    "compound_groups": [
+        "ethers",
+        "ether (has a c-o-c bond)"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "160",
+            "method": "Other Ignition Delay Method",
+            "source": "NREL (2014)"
+        },
+        "ysi_unified": {
+            "value": "16.8"
+        },
+        "kinematic_viscosity": {
+            "value": "0.2867"
+        }
+    }
+}

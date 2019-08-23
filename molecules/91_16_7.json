@@ -1,0 +1,21 @@
+{
+    "cas": "91-16-7",
+    "cid": 7043,
+    "iupac_name": "1,2-dimethoxybenzene",
+    "canonical_smiles": "COC1=CC=CC=C1OC",
+    "isomeric_smiles": "COC1=CC=CC=C1OC",
+    "inchi": "1S/C8H10O2/c1-9-7-5-3-4-6-8(7)10-2/h3-6H,1-2H3",
+    "inchikey": "ABDKAPXRBAPSQN-UHFFFAOYSA-N",
+    "molecular_formula": "C8H10O2",
+    "compound_groups": [
+        "aromatics",
+        "ethers"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "13.4",
+            "method": "IQT",
+            "source": "Marquardt (2015)"
+        }
+    }
+}

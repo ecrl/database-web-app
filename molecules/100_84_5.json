@@ -1,0 +1,16 @@
+{
+    "cas": "100-84-5",
+    "cid": 7530,
+    "iupac_name": "1-methoxy-3-methylbenzene",
+    "canonical_smiles": "CC1=CC(=CC=C1)OC",
+    "isomeric_smiles": "CC1=CC(=CC=C1)OC",
+    "inchi": "1S/C8H10O/c1-7-4-3-5-8(6-7)9-2/h3-6H,1-2H3",
+    "inchikey": "OSIGJGFTADMDOB-UHFFFAOYSA-N",
+    "molecular_formula": "C8H10O",
+    "compound_groups": [],
+    "properties": {
+        "ysi_unified": {
+            "value": "126"
+        }
+    }
+}

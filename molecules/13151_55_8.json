@@ -1,0 +1,25 @@
+{
+    "cas": "13151-55-8",
+    "cid": 139398,
+    "iupac_name": "ethylcycloheptane",
+    "canonical_smiles": "CCC1CCCCCC1",
+    "isomeric_smiles": "CCC1CCCCCC1",
+    "inchi": "1S/C9H18/c1-2-9-7-5-3-4-6-8-9/h9H,2-8H2,1H3",
+    "inchikey": "ITZHTNFXLDFAPB-UHFFFAOYSA-N",
+    "molecular_formula": "C9H18",
+    "properties": {
+        "research_octane_number": {
+            "value": "28",
+            "source": "[1]"
+        },
+        "motor_octane_number": {
+            "value": "30",
+            "source": "[1]"
+        },
+        "octane_sensitivity": {
+            "value": "-2",
+            "source": "[1]"
+        }
+    },
+    "compound_groups": []
+}

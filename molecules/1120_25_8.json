@@ -1,0 +1,21 @@
+{
+    "cas": "1120-25-8",
+    "cid": 643801,
+    "iupac_name": "methyl (Z)-hexadec-9-enoate",
+    "canonical_smiles": "CCCCCCC=CCCCCCCCC(=O)OC",
+    "isomeric_smiles": "CCCCCC/C=C\\CCCCCCCC(=O)OC",
+    "inchi": "1S/C17H32O2/c1-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17(18)19-2/h8-9H,3-7,10-16H2,1-2H3/b9-8-",
+    "inchikey": "IZFGRAGOVZCUFB-HJWRWDBZSA-N",
+    "molecular_formula": "C17H32O2",
+    "compound_groups": [
+        "esters",
+        "olefins"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "56.6",
+            "method": "IQT",
+            "source": "NREL (2014)"
+        }
+    }
+}

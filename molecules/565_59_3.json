@@ -1,0 +1,39 @@
+{
+    "cas": "565-59-3",
+    "cid": 11260,
+    "iupac_name": "2,3-dimethylpentane",
+    "canonical_smiles": "CCC(C)C(C)C",
+    "isomeric_smiles": "CCC(C)C(C)C",
+    "inchi": "1S/C7H16/c1-5-7(4)6(2)3/h6-7H,5H2,1-4H3",
+    "inchikey": "WGECXQBGLLYSFP-UHFFFAOYSA-N",
+    "molecular_formula": "C7H16",
+    "compound_groups": [
+        "alkanes",
+        "paraffin (non-normal)"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "22",
+            "method": "IQT",
+            "source": "NREL (2014)"
+        },
+        "ysi_unified": {
+            "value": "49.4"
+        },
+        "research_octane_number": {
+            "value": "91.1",
+            "source": "[1]"
+        },
+        "motor_octane_number": {
+            "value": "88.5",
+            "source": "[1]"
+        },
+        "octane_sensitivity": {
+            "value": "2.6",
+            "source": "[1]"
+        },
+        "kinematic_viscosity": {
+            "value": "0.533"
+        }
+    }
+}

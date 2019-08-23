@@ -1,0 +1,23 @@
+{
+    "cas": "622-96-8",
+    "cid": 12160,
+    "iupac_name": "1-ethyl-4-methylbenzene",
+    "canonical_smiles": "CCC1=CC=C(C=C1)C",
+    "isomeric_smiles": "CCC1=CC=C(C=C1)C",
+    "inchi": "1S/C9H12/c1-3-9-6-4-8(2)5-7-9/h4-7H,3H2,1-2H3",
+    "inchikey": "JRLPEMVDPFPYPJ-UHFFFAOYSA-N",
+    "molecular_formula": "C9H12",
+    "compound_groups": [
+        "aromatic",
+        "aromatic (single ring)",
+        "aromatics"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "257.1"
+        },
+        "kinematic_viscosity": {
+            "value": "0.6717"
+        }
+    }
+}

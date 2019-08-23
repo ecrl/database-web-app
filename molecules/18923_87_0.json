@@ -1,0 +1,25 @@
+{
+    "cas": "18923-87-0",
+    "cid": 18853,
+    "iupac_name": "2,5-dimethylhex-2-ene",
+    "canonical_smiles": "CC(C)CC=C(C)C",
+    "isomeric_smiles": "CC(C)CC=C(C)C",
+    "inchi": "1S/C8H16/c1-7(2)5-6-8(3)4/h5,8H,6H2,1-4H3",
+    "inchikey": "VFZIUYUUQFYZBR-UHFFFAOYSA-N",
+    "molecular_formula": "C8H16",
+    "properties": {
+        "research_octane_number": {
+            "value": "95.2",
+            "source": "[1]"
+        },
+        "motor_octane_number": {
+            "value": "82.2",
+            "source": "[1]"
+        },
+        "octane_sensitivity": {
+            "value": "13",
+            "source": "[1]"
+        }
+    },
+    "compound_groups": []
+}

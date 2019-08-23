@@ -1,0 +1,20 @@
+{
+    "cas": "628-97-7",
+    "cid": 12366,
+    "iupac_name": "ethyl hexadecanoate",
+    "canonical_smiles": "CCCCCCCCCCCCCCCC(=O)OCC",
+    "isomeric_smiles": "CCCCCCCCCCCCCCCC(=O)OCC",
+    "inchi": "1S/C18H36O2/c1-3-5-6-7-8-9-10-11-12-13-14-15-16-17-18(19)20-4-2/h3-17H2,1-2H3",
+    "inchikey": "XIRNKXNNONJFQO-UHFFFAOYSA-N",
+    "molecular_formula": "C18H36O2",
+    "compound_groups": [
+        "esters"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "80",
+            "method": "Blend",
+            "source": "NREL (2014)"
+        }
+    }
+}

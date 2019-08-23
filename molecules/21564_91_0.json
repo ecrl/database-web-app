@@ -1,0 +1,18 @@
+{
+    "cas": "21564-91-0",
+    "cid": 89516,
+    "iupac_name": "1,5-dimethyl-1,2,3,4-tetrahydronaphthalene",
+    "canonical_smiles": "CC1CCCC2=C(C=CC=C12)C",
+    "isomeric_smiles": "CC1CCCC2=C(C=CC=C12)C",
+    "inchi": "1S/C12H16/c1-9-5-3-8-12-10(2)6-4-7-11(9)12/h3,5,8,10H,4,6-7H2,1-2H3",
+    "inchikey": "BMADLDGHUBLVMQ-UHFFFAOYSA-N",
+    "molecular_formula": "C12H16",
+    "compound_groups": [
+        "aromatic"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "607.3"
+        }
+    }
+}

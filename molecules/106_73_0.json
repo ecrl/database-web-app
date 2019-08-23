@@ -1,0 +1,23 @@
+{
+    "cas": "106-73-0",
+    "cid": 7826,
+    "iupac_name": "methyl heptanoate",
+    "canonical_smiles": "CCCCCCC(=O)OC",
+    "isomeric_smiles": "CCCCCCC(=O)OC",
+    "inchi": "1S/C8H16O2/c1-3-4-5-6-7-8(9)10-2/h3-7H2,1-2H3",
+    "inchikey": "XNCNNDVCAUWAIT-UHFFFAOYSA-N",
+    "molecular_formula": "C8H16O2",
+    "compound_groups": [
+        "esters"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "34.2",
+            "method": "IQT",
+            "source": "Marquardt (2015)"
+        },
+        "ysi_unified": {
+            "value": "32.5"
+        }
+    }
+}

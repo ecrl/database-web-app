@@ -1,0 +1,18 @@
+{
+    "cas": "589-62-8",
+    "cid": 11515,
+    "iupac_name": "octan-4-ol",
+    "canonical_smiles": "CCCCC(CCC)O",
+    "isomeric_smiles": "CCCCC(CCC)O",
+    "inchi": "1S/C8H18O/c1-3-5-7-8(9)6-4-2/h8-9H,3-7H2,1-2H3",
+    "inchikey": "WOFPPJOZXUTRAU-UHFFFAOYSA-N",
+    "molecular_formula": "C8H18O",
+    "compound_groups": [
+        "saturated alcohols"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "43.8"
+        }
+    }
+}

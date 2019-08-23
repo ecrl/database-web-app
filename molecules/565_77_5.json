@@ -1,0 +1,30 @@
+{
+    "cas": "565-77-5",
+    "cid": 11270,
+    "iupac_name": "2,3,4-trimethylpent-2-ene",
+    "canonical_smiles": "CC(C)C(=C(C)C)C",
+    "isomeric_smiles": "CC(C)C(=C(C)C)C",
+    "inchi": "1S/C8H16/c1-6(2)8(5)7(3)4/h6H,1-5H3",
+    "inchikey": "SZFRZEBLZFTODC-UHFFFAOYSA-N",
+    "molecular_formula": "C8H16",
+    "compound_groups": [
+        "alkenes"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "87"
+        },
+        "research_octane_number": {
+            "value": "96.6",
+            "source": "[1]"
+        },
+        "motor_octane_number": {
+            "value": "80.9",
+            "source": "[1]"
+        },
+        "octane_sensitivity": {
+            "value": "15.7",
+            "source": "[1]"
+        }
+    }
+}

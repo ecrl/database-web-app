@@ -1,0 +1,18 @@
+{
+    "cas": "30528-14-4",
+    "cid": 137926,
+    "iupac_name": "1-tert-butylcyclohexene",
+    "canonical_smiles": "CC(C)(C)C1=CCCCC1",
+    "isomeric_smiles": "CC(C)(C)C1=CCCCC1",
+    "inchi": "1S/C10H18/c1-10(2,3)9-7-5-4-6-8-9/h7H,4-6,8H2,1-3H3",
+    "inchikey": "GQBKAYONUCKYKT-UHFFFAOYSA-N",
+    "molecular_formula": "C10H18",
+    "compound_groups": [
+        "cyclic alkenes"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "161"
+        }
+    }
+}

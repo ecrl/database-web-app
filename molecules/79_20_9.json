@@ -1,0 +1,27 @@
+{
+    "cas": "79-20-9",
+    "cid": 6584,
+    "iupac_name": "methyl acetate",
+    "canonical_smiles": "CC(=O)OC",
+    "isomeric_smiles": "CC(=O)OC",
+    "inchi": "1S/C3H6O2/c1-3(4)5-2/h1-2H3",
+    "inchikey": "KXKVLQRXCPHEJC-UHFFFAOYSA-N",
+    "molecular_formula": "C3H6O2",
+    "compound_groups": [
+        "esters",
+        "acetyl (has 2 c-o bonds, formed by reaction of aldehyde & alcohol)"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "19.5",
+            "method": "IQT",
+            "source": "NREL (2014)"
+        },
+        "ysi_unified": {
+            "value": "11.7"
+        },
+        "kinematic_viscosity": {
+            "value": "0.3511"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "cas": "576-15-8",
+    "cid": 68470,
+    "iupac_name": "1-indol-1-ylethanone",
+    "canonical_smiles": "CC(=O)N1C=CC2=CC=CC=C21",
+    "isomeric_smiles": "CC(=O)N1C=CC2=CC=CC=C21",
+    "inchi": "1S/C10H9NO/c1-8(12)11-7-6-9-4-2-3-5-10(9)11/h2-7H,1H3",
+    "inchikey": "UUCUQJHYUPXDHN-UHFFFAOYSA-N",
+    "molecular_formula": "C10H9NO",
+    "compound_groups": [],
+    "properties": {
+        "ysi_unified": {
+            "value": "187.08"
+        }
+    }
+}

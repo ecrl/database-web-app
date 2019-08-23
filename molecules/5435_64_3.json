@@ -1,0 +1,18 @@
+{
+    "cas": "5435-64-3",
+    "cid": 21574,
+    "iupac_name": "3,5,5-trimethylhexanal",
+    "canonical_smiles": "CC(CC=O)CC(C)(C)C",
+    "isomeric_smiles": "CC(CC=O)CC(C)(C)C",
+    "inchi": "1S/C9H18O/c1-8(5-6-10)7-9(2,3)4/h6,8H,5,7H2,1-4H3",
+    "inchikey": "WTPYRCJDOZVZON-UHFFFAOYSA-N",
+    "molecular_formula": "C9H18O",
+    "compound_groups": [
+        "saturated aldehyde"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "62.3"
+        }
+    }
+}

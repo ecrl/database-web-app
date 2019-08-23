@@ -1,0 +1,23 @@
+{
+    "cas": "111-13-7",
+    "cid": 8093,
+    "iupac_name": "octan-2-one",
+    "canonical_smiles": "CCCCCCC(=O)C",
+    "isomeric_smiles": "CCCCCCC(=O)C",
+    "inchi": "1S/C8H16O/c1-3-4-5-6-7-8(2)9/h3-7H2,1-2H3",
+    "inchikey": "ZPVFWPFBNIEHGJ-UHFFFAOYSA-N",
+    "molecular_formula": "C8H16O",
+    "compound_groups": [
+        "ketones"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "36.6",
+            "method": "IQT",
+            "source": "Marquardt (2015)"
+        },
+        "ysi_unified": {
+            "value": "37.9"
+        }
+    }
+}

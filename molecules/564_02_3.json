@@ -1,0 +1,36 @@
+{
+    "cas": "564-02-3",
+    "cid": 11255,
+    "iupac_name": "2,2,3-trimethylpentane",
+    "canonical_smiles": "CCC(C)C(C)(C)C",
+    "isomeric_smiles": "CCC(C)C(C)(C)C",
+    "inchi": "1S/C8H18/c1-6-7(2)8(3,4)5/h7H,6H2,1-5H3",
+    "inchikey": "XTDQDBVBDLYELW-UHFFFAOYSA-N",
+    "molecular_formula": "C8H18",
+    "compound_groups": [
+        "alkanes",
+        "paraffin (non-normal)"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "14",
+            "method": "Unknown",
+            "source": "Kubic (2016)"
+        },
+        "research_octane_number": {
+            "value": "109.6",
+            "source": "[1], [4]"
+        },
+        "motor_octane_number": {
+            "value": "99.9",
+            "source": "[1], [4]"
+        },
+        "octane_sensitivity": {
+            "value": "9.7",
+            "source": "[1], [4]"
+        },
+        "kinematic_viscosity": {
+            "value": "0.6794"
+        }
+    }
+}

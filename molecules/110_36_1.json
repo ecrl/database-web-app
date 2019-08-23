@@ -1,0 +1,20 @@
+{
+    "cas": "110-36-1",
+    "cid": 8047,
+    "iupac_name": "butyl tetradecanoate",
+    "canonical_smiles": "CCCCCCCCCCCCCC(=O)OCCCC",
+    "isomeric_smiles": "CCCCCCCCCCCCCC(=O)OCCCC",
+    "inchi": "1S/C18H36O2/c1-3-5-7-8-9-10-11-12-13-14-15-16-18(19)20-17-6-4-2/h3-17H2,1-2H3",
+    "inchikey": "DHAZIUXMHRHVMP-UHFFFAOYSA-N",
+    "molecular_formula": "C18H36O2",
+    "compound_groups": [
+        "esters"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "69.4",
+            "method": "CFR",
+            "source": "NREL (2014)"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "cas": "110-42-9",
+    "cid": 8050,
+    "iupac_name": "methyl decanoate",
+    "canonical_smiles": "CCCCCCCCCC(=O)OC",
+    "isomeric_smiles": "CCCCCCCCCC(=O)OC",
+    "inchi": "1S/C11H22O2/c1-3-4-5-6-7-8-9-10-11(12)13-2/h3-10H2,1-2H3",
+    "inchikey": "YRHYCMZPEVDGFQ-UHFFFAOYSA-N",
+    "molecular_formula": "C11H22O2",
+    "compound_groups": [
+        "esters"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "52.7",
+            "method": "IQT",
+            "source": "Marquardt (2015)"
+        },
+        "ysi_unified": {
+            "value": "50.4"
+        }
+    }
+}

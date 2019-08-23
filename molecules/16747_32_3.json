@@ -1,0 +1,25 @@
+{
+    "cas": "16747-32-3",
+    "cid": 28026,
+    "iupac_name": "3-ethyl-2,2-dimethylpentane",
+    "canonical_smiles": "CCC(CC)C(C)(C)C",
+    "isomeric_smiles": "CCC(CC)C(C)(C)C",
+    "inchi": "1S/C9H20/c1-6-8(7-2)9(3,4)5/h8H,6-7H2,1-5H3",
+    "inchikey": "CLZCPQKGOAXOJT-UHFFFAOYSA-N",
+    "molecular_formula": "C9H20",
+    "properties": {
+        "research_octane_number": {
+            "value": "112.1",
+            "source": "[1], [9]"
+        },
+        "motor_octane_number": {
+            "value": "99.5",
+            "source": "[1], [9]"
+        },
+        "octane_sensitivity": {
+            "value": "12.6",
+            "source": "[1], [9]"
+        }
+    },
+    "compound_groups": []
+}

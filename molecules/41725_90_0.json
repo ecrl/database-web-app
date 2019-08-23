@@ -1,0 +1,18 @@
+{
+    "cas": "41725-90-0",
+    "cid": 5323652,
+    "iupac_name": "methyl (E)-2-methylbut-2-enoate",
+    "canonical_smiles": "CC=C(C)C(=O)OC",
+    "isomeric_smiles": "C/C=C(\\C)/C(=O)OC",
+    "inchi": "1S/C6H10O2/c1-4-5(2)6(7)8-3/h4H,1-3H3/b5-4+",
+    "inchikey": "YYJWBYNQJLBIGS-SNAWJCMRSA-N",
+    "molecular_formula": "C6H10O2",
+    "compound_groups": [
+        "unsaturated esters"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "38"
+        }
+    }
+}

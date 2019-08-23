@@ -1,0 +1,18 @@
+{
+    "cas": "818-57-5",
+    "cid": 543664,
+    "iupac_name": "methyl pent-4-enoate",
+    "canonical_smiles": "COC(=O)CCC=C",
+    "isomeric_smiles": "COC(=O)CCC=C",
+    "inchi": "1S/C6H10O2/c1-3-4-5-6(7)8-2/h3H,1,4-5H2,2H3",
+    "inchikey": "SHCSFZHSNSGTOP-UHFFFAOYSA-N",
+    "molecular_formula": "C6H10O2",
+    "compound_groups": [
+        "unsaturated esters"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "33.3"
+        }
+    }
+}

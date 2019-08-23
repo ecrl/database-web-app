@@ -1,0 +1,18 @@
+{
+    "cas": "2210-28-8",
+    "cid": 16638,
+    "iupac_name": "propyl 2-methylprop-2-enoate",
+    "canonical_smiles": "CCCOC(=O)C(=C)C",
+    "isomeric_smiles": "CCCOC(=O)C(=C)C",
+    "inchi": "1S/C7H12O2/c1-4-5-9-7(8)6(2)3/h2,4-5H2,1,3H3",
+    "inchikey": "NHARPDSAXCBDDR-UHFFFAOYSA-N",
+    "molecular_formula": "C7H12O2",
+    "compound_groups": [
+        "unsaturated esters"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "37.1"
+        }
+    }
+}

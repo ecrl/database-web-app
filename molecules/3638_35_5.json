@@ -1,0 +1,25 @@
+{
+    "cas": "3638-35-5",
+    "cid": 137995,
+    "iupac_name": "propan-2-ylcyclopropane",
+    "canonical_smiles": "CC(C)C1CC1",
+    "isomeric_smiles": "CC(C)C1CC1",
+    "inchi": "1S/C6H12/c1-5(2)6-3-4-6/h5-6H,3-4H2,1-2H3",
+    "inchikey": "HPBROFGYTXOJIO-UHFFFAOYSA-N",
+    "molecular_formula": "C6H12",
+    "properties": {
+        "research_octane_number": {
+            "value": "100.02",
+            "source": "[1]"
+        },
+        "motor_octane_number": {
+            "value": "88.1",
+            "source": "[1]"
+        },
+        "octane_sensitivity": {
+            "value": "11.92",
+            "source": "[1]"
+        }
+    },
+    "compound_groups": []
+}

@@ -1,0 +1,25 @@
+{
+    "cas": "50819-07-3",
+    "cid": 16657,
+    "iupac_name": "2,4-dimethylpent-1-ene",
+    "canonical_smiles": "CC(C)CC(=C)C",
+    "isomeric_smiles": "CC(C)CC(=C)C",
+    "inchi": "1S/C7H14/c1-6(2)5-7(3)4/h7H,1,5H2,2-4H3",
+    "inchikey": "LXQPBCHJNIOMQU-UHFFFAOYSA-N",
+    "molecular_formula": "C7H14",
+    "properties": {
+        "research_octane_number": {
+            "value": "99.2",
+            "source": "[1]"
+        },
+        "motor_octane_number": {
+            "value": "84.6",
+            "source": "[1]"
+        },
+        "octane_sensitivity": {
+            "value": "14.6",
+            "source": "[1]"
+        }
+    },
+    "compound_groups": []
+}

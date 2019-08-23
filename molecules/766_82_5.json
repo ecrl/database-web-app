@@ -1,0 +1,18 @@
+{
+    "cas": "766-82-5",
+    "cid": 136600,
+    "iupac_name": "1-ethynyl-3-methylbenzene",
+    "canonical_smiles": "CC1=CC(=CC=C1)C#C",
+    "isomeric_smiles": "CC1=CC(=CC=C1)C#C",
+    "inchi": "1S/C9H8/c1-3-9-6-4-5-8(2)7-9/h1,4-7H,2H3",
+    "inchikey": "RENYIDZOAFFNHC-UHFFFAOYSA-N",
+    "molecular_formula": "C9H8",
+    "compound_groups": [
+        "aromatic"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "384.6"
+        }
+    }
+}

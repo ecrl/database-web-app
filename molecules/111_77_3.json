@@ -1,0 +1,23 @@
+{
+    "cas": "111-77-3",
+    "cid": 8134,
+    "iupac_name": "2-(2-methoxyethoxy)ethanol",
+    "canonical_smiles": "COCCOCCO",
+    "isomeric_smiles": "COCCOCCO",
+    "inchi": "1S/C5H12O3/c1-7-4-5-8-3-2-6/h6H,2-5H2,1H3",
+    "inchikey": "SBASXUCJHJRPEV-UHFFFAOYSA-N",
+    "molecular_formula": "C5H12O3",
+    "compound_groups": [
+        "olefins"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "38.3",
+            "method": "IQT",
+            "source": "Marquardt (2015)"
+        },
+        "ysi_unified": {
+            "value": "15"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "cas": "538-24-9",
+    "cid": 10851,
+    "iupac_name": "2,3-di(dodecanoyloxy)propyl dodecanoate",
+    "canonical_smiles": "CCCCCCCCCCCC(=O)OCC(COC(=O)CCCCCCCCCCC)OC(=O)CCCCCCCCCCC",
+    "isomeric_smiles": "CCCCCCCCCCCC(=O)OCC(COC(=O)CCCCCCCCCCC)OC(=O)CCCCCCCCCCC",
+    "inchi": "1S/C39H74O6/c1-4-7-10-13-16-19-22-25-28-31-37(40)43-34-36(45-39(42)33-30-27-24-21-18-15-12-9-6-3)35-44-38(41)32-29-26-23-20-17-14-11-8-5-2/h36H,4-35H2,1-3H3",
+    "inchikey": "VMPHSYLJUKZBJJ-UHFFFAOYSA-N",
+    "molecular_formula": "C39H74O6",
+    "compound_groups": [
+        "esters"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "100",
+            "method": "Other Ignition Delay Method",
+            "source": "NREL (2014)"
+        }
+    }
+}

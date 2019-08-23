@@ -1,0 +1,18 @@
+{
+    "cas": "27476-50-2",
+    "cid": 12746,
+    "iupac_name": "1-methylcyclopentene",
+    "canonical_smiles": "CC1=CCCC1",
+    "isomeric_smiles": "CC1=CCCC1",
+    "inchi": "1S/C6H10/c1-6-4-2-3-5-6/h4H,2-3,5H2,1H3",
+    "inchikey": "ATQUFXWBVZUTKO-UHFFFAOYSA-N",
+    "molecular_formula": "C6H10",
+    "compound_groups": [
+        "aliphatic"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "97.7"
+        }
+    }
+}

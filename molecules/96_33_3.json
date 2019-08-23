@@ -1,0 +1,18 @@
+{
+    "cas": "96-33-3",
+    "cid": 7294,
+    "iupac_name": "methyl prop-2-enoate",
+    "canonical_smiles": "COC(=O)C=C",
+    "isomeric_smiles": "COC(=O)C=C",
+    "inchi": "1S/C4H6O2/c1-3-4(5)6-2/h3H,1H2,2H3",
+    "inchikey": "BAPJBEWLBFYGME-UHFFFAOYSA-N",
+    "molecular_formula": "C4H6O2",
+    "compound_groups": [
+        "unsaturated esters"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "19.4"
+        }
+    }
+}

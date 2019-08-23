@@ -1,0 +1,25 @@
+{
+    "cas": "5685-47-2",
+    "cid": 111091,
+    "iupac_name": "cyclopropylmethylcyclopropane",
+    "canonical_smiles": "C1CC1CC2CC2",
+    "isomeric_smiles": "C1CC1CC2CC2",
+    "inchi": "1S/C7H12/c1-2-6(1)5-7-3-4-7/h6-7H,1-5H2",
+    "inchikey": "LLVRMRMMZQPDAK-UHFFFAOYSA-N",
+    "molecular_formula": "C7H12",
+    "properties": {
+        "research_octane_number": {
+            "value": "95.1",
+            "source": "[1]"
+        },
+        "motor_octane_number": {
+            "value": "72.1",
+            "source": "[1]"
+        },
+        "octane_sensitivity": {
+            "value": "23",
+            "source": "[1]"
+        }
+    },
+    "compound_groups": []
+}

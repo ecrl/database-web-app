@@ -1,0 +1,18 @@
+{
+    "cas": "627-59-8",
+    "cid": 12323,
+    "iupac_name": "5-methylhexan-2-ol",
+    "canonical_smiles": "CC(C)CCC(C)O",
+    "isomeric_smiles": "CC(C)CCC(C)O",
+    "inchi": "1S/C7H16O/c1-6(2)4-5-7(3)8/h6-8H,4-5H2,1-3H3",
+    "inchikey": "ZDVJGWXFXGJSIU-UHFFFAOYSA-N",
+    "molecular_formula": "C7H16O",
+    "compound_groups": [
+        "saturated alcohols"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "44.7"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "cas": "565-61-7",
+    "cid": 11262,
+    "iupac_name": "3-methylpentan-2-one",
+    "canonical_smiles": "CCC(C)C(=O)C",
+    "isomeric_smiles": "CCC(C)C(=O)C",
+    "inchi": "1S/C6H12O/c1-4-5(2)6(3)7/h5H,4H2,1-3H3",
+    "inchikey": "UIHCLUNTQKBZGK-UHFFFAOYSA-N",
+    "molecular_formula": "C6H12O",
+    "compound_groups": [
+        "saturated alkanone"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "29"
+        }
+    }
+}

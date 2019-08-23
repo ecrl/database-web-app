@@ -1,0 +1,35 @@
+{
+    "cas": "7667-60-9",
+    "cid": 91517,
+    "iupac_name": "1,2,4-trimethylcyclohexane",
+    "canonical_smiles": "CC1CCC(C(C1)C)C",
+    "isomeric_smiles": "CC1CCC(C(C1)C)C",
+    "inchi": "1S/C9H18/c1-7-4-5-8(2)9(3)6-7/h7-9H,4-6H2,1-3H3",
+    "inchikey": "VCJPCEVERINRSG-UHFFFAOYSA-N",
+    "molecular_formula": "C9H18",
+    "compound_groups": [
+        "naphthenes"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "24.4",
+            "method": "IQT",
+            "source": "Marquardt (2015)"
+        },
+        "ysi_unified": {
+            "value": "82.8"
+        },
+        "research_octane_number": {
+            "value": "73",
+            "source": "[1]"
+        },
+        "motor_octane_number": {
+            "value": "74.6",
+            "source": "[1]"
+        },
+        "octane_sensitivity": {
+            "value": "-1.6",
+            "source": "[1]"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "cas": "637-92-3",
+    "cid": 12512,
+    "iupac_name": "2-ethoxy-2-methylpropane",
+    "canonical_smiles": "CCOC(C)(C)C",
+    "isomeric_smiles": "CCOC(C)(C)C",
+    "inchi": "1S/C6H14O/c1-5-7-6(2,3)4/h5H2,1-4H3",
+    "inchikey": "NUMQCACRALPSHD-UHFFFAOYSA-N",
+    "molecular_formula": "C6H14O",
+    "compound_groups": [
+        "saturated ethers"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "37.9"
+        }
+    }
+}

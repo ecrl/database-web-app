@@ -1,0 +1,18 @@
+{
+    "cas": "24936-41-2",
+    "cid": 12161,
+    "iupac_name": "1-ethenyl-4-methylbenzene",
+    "canonical_smiles": "CC1=CC=C(C=C1)C=C",
+    "isomeric_smiles": "CC1=CC=C(C=C1)C=C",
+    "inchi": "1S/C9H10/c1-3-9-6-4-8(2)5-7-9/h3-7H,1H2,2H3",
+    "inchikey": "JLBJTVDPSNHSKJ-UHFFFAOYSA-N",
+    "molecular_formula": "C9H10",
+    "compound_groups": [
+        "aromatic"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "318.8"
+        }
+    }
+}

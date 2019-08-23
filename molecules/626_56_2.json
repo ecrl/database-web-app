@@ -1,0 +1,18 @@
+{
+    "cas": "626-56-2",
+    "cid": 79081,
+    "iupac_name": "3-methylpiperidine",
+    "canonical_smiles": "CC1CCCNC1",
+    "isomeric_smiles": "CC1CCCNC1",
+    "inchi": "1S/C6H13N/c1-6-3-2-4-7-5-6/h6-7H,2-5H2,1H3",
+    "inchikey": "JEGMWWXJUXDNJN-UHFFFAOYSA-N",
+    "molecular_formula": "C6H13N",
+    "compound_groups": [
+        "cyclic amine"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "33.6"
+        }
+    }
+}

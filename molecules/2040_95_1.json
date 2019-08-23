@@ -1,0 +1,25 @@
+{
+    "cas": "2040-95-1",
+    "cid": 16269,
+    "iupac_name": "butylcyclopentane",
+    "canonical_smiles": "CCCCC1CCCC1",
+    "isomeric_smiles": "CCCCC1CCCC1",
+    "inchi": "1S/C9H18/c1-2-3-6-9-7-4-5-8-9/h9H,2-8H2,1H3",
+    "inchikey": "ZAGHKONXGGSVDV-UHFFFAOYSA-N",
+    "molecular_formula": "C9H18",
+    "properties": {
+        "research_octane_number": {
+            "value": "3",
+            "source": "[3]"
+        },
+        "motor_octane_number": {
+            "value": "2",
+            "source": "[3]"
+        },
+        "octane_sensitivity": {
+            "value": "1",
+            "source": "[3]"
+        }
+    },
+    "compound_groups": []
+}

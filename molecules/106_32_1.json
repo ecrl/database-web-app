@@ -1,0 +1,20 @@
+{
+    "cas": "106-32-1",
+    "cid": 7799,
+    "iupac_name": "ethyl octanoate",
+    "canonical_smiles": "CCCCCCCC(=O)OCC",
+    "isomeric_smiles": "CCCCCCCC(=O)OCC",
+    "inchi": "1S/C10H20O2/c1-3-5-6-7-8-9-10(11)12-4-2/h3-9H2,1-2H3",
+    "inchikey": "YYZUSRORWSJGET-UHFFFAOYSA-N",
+    "molecular_formula": "C10H20O2",
+    "compound_groups": [
+        "esters"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "42.2",
+            "method": "IQT",
+            "source": "NREL (2014)"
+        }
+    }
+}

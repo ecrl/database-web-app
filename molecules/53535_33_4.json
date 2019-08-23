@@ -1,0 +1,23 @@
+{
+    "cas": "53535-33-4",
+    "cid": 8129,
+    "iupac_name": "heptan-1-ol",
+    "canonical_smiles": "CCCCCCCO",
+    "isomeric_smiles": "CCCCCCCO",
+    "inchi": "1S/C7H16O/c1-2-3-4-5-6-7-8/h8H,2-7H2,1H3",
+    "inchikey": "BBMCTIGTTCKYKF-UHFFFAOYSA-N",
+    "molecular_formula": "C7H16O",
+    "compound_groups": [
+        "alcohols"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "29",
+            "method": "IQT",
+            "source": "NREL (2014)"
+        },
+        "ysi_unified": {
+            "value": "34.7"
+        }
+    }
+}

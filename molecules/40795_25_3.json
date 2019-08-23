@@ -1,0 +1,21 @@
+{
+    "cas": "40795-25-3",
+    "cid": 7361,
+    "iupac_name": "furan-2-ylmethanol",
+    "canonical_smiles": "C1=COC(=C1)CO",
+    "isomeric_smiles": "C1=COC(=C1)CO",
+    "inchi": "1S/C5H6O2/c6-4-5-2-1-3-7-5/h1-3,6H,4H2",
+    "inchikey": "XPFVYQJUAUNWIW-UHFFFAOYSA-N",
+    "molecular_formula": "C5H6O2",
+    "compound_groups": [
+        "cyclic ethers",
+        "aromatics"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "10.3",
+            "method": "IQT",
+            "source": "NREL (2014)"
+        }
+    }
+}

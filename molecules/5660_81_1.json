@@ -1,0 +1,16 @@
+{
+    "cas": "5660-81-1",
+    "cid": 231700,
+    "iupac_name": "2-cyclopentylpropanedioic acid",
+    "canonical_smiles": "C1CCC(C1)C(C(=O)O)C(=O)O",
+    "isomeric_smiles": "C1CCC(C1)C(C(=O)O)C(=O)O",
+    "inchi": "1S/C8H12O4/c9-7(10)6(8(11)12)5-3-1-2-4-5/h5-6H,1-4H2,(H,9,10)(H,11,12)",
+    "inchikey": "DRHLPIHNSBNMFF-UHFFFAOYSA-N",
+    "molecular_formula": "C8H12O4",
+    "compound_groups": [],
+    "properties": {
+        "ysi_unified": {
+            "value": "59.6"
+        }
+    }
+}

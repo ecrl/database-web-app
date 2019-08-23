@@ -1,0 +1,32 @@
+{
+    "cas": "764-13-6",
+    "cid": 12992,
+    "iupac_name": "2,5-dimethylhexa-2,4-diene",
+    "canonical_smiles": "CC(=CC=C(C)C)C",
+    "isomeric_smiles": "CC(=CC=C(C)C)C",
+    "inchi": "1S/C8H14/c1-7(2)5-6-8(3)4/h5-6H,1-4H3",
+    "inchikey": "DZPCYXCBXGQBRN-UHFFFAOYSA-N",
+    "molecular_formula": "C8H14",
+    "compound_groups": [
+        "olefins"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "19.9",
+            "method": "IQT",
+            "source": "Marquardt (2015)"
+        },
+        "research_octane_number": {
+            "value": "94.3",
+            "source": "[1]"
+        },
+        "motor_octane_number": {
+            "value": "78.9",
+            "source": "[1]"
+        },
+        "octane_sensitivity": {
+            "value": "15.4",
+            "source": "[1]"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "cas": "110-59-8",
+    "cid": 8061,
+    "iupac_name": "pentanenitrile",
+    "canonical_smiles": "CCCCC#N",
+    "isomeric_smiles": "CCCCC#N",
+    "inchi": "1S/C5H9N/c1-2-3-4-5-6/h2-4H2,1H3",
+    "inchikey": "RFFFKMOABOFIDF-UHFFFAOYSA-N",
+    "molecular_formula": "C5H9N",
+    "compound_groups": [],
+    "properties": {
+        "ysi_unified": {
+            "value": "21.66"
+        }
+    }
+}

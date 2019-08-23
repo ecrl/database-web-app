@@ -1,0 +1,20 @@
+{
+    "cas": "4747-07-3",
+    "cid": 78484,
+    "iupac_name": "1-methoxyhexane",
+    "canonical_smiles": "CCCCCCOC",
+    "isomeric_smiles": "CCCCCCOC",
+    "inchi": "1S/C7H16O/c1-3-4-5-6-7-8-2/h3-7H2,1-2H3",
+    "inchikey": "ICBJCVRQDSQPGI-UHFFFAOYSA-N",
+    "molecular_formula": "C7H16O",
+    "compound_groups": [
+        "ethers"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "99.8",
+            "method": "IQT",
+            "source": "Marquardt (2015)"
+        }
+    }
+}

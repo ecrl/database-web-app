@@ -1,0 +1,18 @@
+{
+    "cas": "119-61-9",
+    "cid": 3102,
+    "iupac_name": "diphenylmethanone",
+    "canonical_smiles": "C1=CC=C(C=C1)C(=O)C2=CC=CC=C2",
+    "isomeric_smiles": "C1=CC=C(C=C1)C(=O)C2=CC=CC=C2",
+    "inchi": "1S/C13H10O/c14-13(11-7-3-1-4-8-11)12-9-5-2-6-10-12/h1-10H",
+    "inchikey": "RWCCWEUUXYIKHB-UHFFFAOYSA-N",
+    "molecular_formula": "C13H10O",
+    "compound_groups": [
+        "aromatic"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "319.8"
+        }
+    }
+}

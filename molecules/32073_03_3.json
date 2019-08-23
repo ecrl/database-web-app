@@ -1,0 +1,30 @@
+{
+    "cas": "32073-03-3",
+    "cid": 12370,
+    "iupac_name": "oct-1-yne",
+    "canonical_smiles": "CCCCCCC#C",
+    "isomeric_smiles": "CCCCCCC#C",
+    "inchi": "1S/C8H14/c1-3-5-7-8-6-4-2/h1H,4-8H2,2H3",
+    "inchikey": "UMIPWJGWASORKV-UHFFFAOYSA-N",
+    "molecular_formula": "C8H14",
+    "compound_groups": [
+        "alkynes/alkadienes"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "74.1"
+        },
+        "research_octane_number": {
+            "value": "50.5",
+            "source": "[1]"
+        },
+        "motor_octane_number": {
+            "value": "51.5",
+            "source": "[1]"
+        },
+        "octane_sensitivity": {
+            "value": "-1",
+            "source": "[1]"
+        }
+    }
+}

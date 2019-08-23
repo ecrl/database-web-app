@@ -1,0 +1,23 @@
+{
+    "cas": "99-62-7",
+    "cid": 7450,
+    "iupac_name": "1,3-di(propan-2-yl)benzene",
+    "canonical_smiles": "CC(C)C1=CC(=CC=C1)C(C)C",
+    "isomeric_smiles": "CC(C)C1=CC(=CC=C1)C(C)C",
+    "inchi": "1S/C12H18/c1-9(2)11-6-5-7-12(8-11)10(3)4/h5-10H,1-4H3",
+    "inchikey": "UNEATYXSUBPPKP-UHFFFAOYSA-N",
+    "molecular_formula": "C12H18",
+    "compound_groups": [
+        "aromatics"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "-3",
+            "method": "CFR",
+            "source": "NREL (2014)"
+        },
+        "ysi_unified": {
+            "value": "353.3"
+        }
+    }
+}

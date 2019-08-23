@@ -1,0 +1,18 @@
+{
+    "cas": "37909-95-8",
+    "cid": 2775237,
+    "iupac_name": "1-butyl-4-phenylbenzene",
+    "canonical_smiles": "CCCCC1=CC=C(C=C1)C2=CC=CC=C2",
+    "isomeric_smiles": "CCCCC1=CC=C(C=C1)C2=CC=CC=C2",
+    "inchi": "1S/C16H18/c1-2-3-7-14-10-12-16(13-11-14)15-8-5-4-6-9-15/h4-6,8-13H,2-3,7H2,1H3",
+    "inchikey": "JZDZRFNMDCBTNS-UHFFFAOYSA-N",
+    "molecular_formula": "C16H18",
+    "compound_groups": [
+        "aromatic"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "847.7"
+        }
+    }
+}

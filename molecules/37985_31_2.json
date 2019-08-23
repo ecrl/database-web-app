@@ -1,0 +1,18 @@
+{
+    "cas": "37985-31-2",
+    "cid": 6908,
+    "iupac_name": "1,2,3,4,5,6-hexamethylbenzene",
+    "canonical_smiles": "CC1=C(C(=C(C(=C1C)C)C)C)C",
+    "isomeric_smiles": "CC1=C(C(=C(C(=C1C)C)C)C)C",
+    "inchi": "1S/C12H18/c1-7-8(2)10(4)12(6)11(5)9(7)3/h1-6H3",
+    "inchikey": "YUWFEBAXEOLKSG-UHFFFAOYSA-N",
+    "molecular_formula": "C12H18",
+    "compound_groups": [
+        "aromatic"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "565.4"
+        }
+    }
+}

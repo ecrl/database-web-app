@@ -1,0 +1,20 @@
+{
+    "cas": "1004-29-1",
+    "cid": 13861,
+    "iupac_name": "2-butyloxolane",
+    "canonical_smiles": "CCCCC1CCCO1",
+    "isomeric_smiles": "CCCCC1CCCO1",
+    "inchi": "1S/C8H16O/c1-2-3-5-8-6-4-7-9-8/h8H,2-7H2,1H3",
+    "inchikey": "GBOMEIMCQWMHGB-UHFFFAOYSA-N",
+    "molecular_formula": "C8H16O",
+    "compound_groups": [
+        "cyclic ethers"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "45.5",
+            "method": "IQT",
+            "source": "Marquardt (2015)"
+        }
+    }
+}

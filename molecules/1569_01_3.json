@@ -1,0 +1,18 @@
+{
+    "cas": "1569-01-3",
+    "cid": 15286,
+    "iupac_name": "1-propoxypropan-2-ol",
+    "canonical_smiles": "CCCOCC(C)O",
+    "isomeric_smiles": "CCCOCC(C)O",
+    "inchi": "1S/C6H14O2/c1-3-4-8-5-6(2)7/h6-7H,3-5H2,1-2H3",
+    "inchikey": "FENFUOGYJVOCRY-UHFFFAOYSA-N",
+    "molecular_formula": "C6H14O2",
+    "compound_groups": [
+        "other multi-oxygen compounds"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "25.8"
+        }
+    }
+}

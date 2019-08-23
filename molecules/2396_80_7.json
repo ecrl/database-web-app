@@ -1,0 +1,18 @@
+{
+    "cas": "2396-80-7",
+    "cid": 520082,
+    "iupac_name": "methyl hex-5-enoate",
+    "canonical_smiles": "COC(=O)CCCC=C",
+    "isomeric_smiles": "COC(=O)CCCC=C",
+    "inchi": "1S/C7H12O2/c1-3-4-5-6-7(8)9-2/h3H,1,4-6H2,2H3",
+    "inchikey": "ASKDFGVMJZMYEM-UHFFFAOYSA-N",
+    "molecular_formula": "C7H12O2",
+    "compound_groups": [
+        "unsaturated esters"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "39.2"
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "cas": "71329-38-9",
+    "cid": 702,
+    "iupac_name": "ethanol",
+    "canonical_smiles": "CCO",
+    "isomeric_smiles": "CCO",
+    "inchi": "1S/C2H6O/c1-2-3/h3H,2H2,1H3",
+    "inchikey": "LFQSCWFLJHTTHZ-UHFFFAOYSA-N",
+    "molecular_formula": "C2H6O",
+    "compound_groups": [
+        "alcohols",
+        "alcohol"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "11",
+            "method": "IQT",
+            "source": "NREL (2014)"
+        },
+        "ysi_unified": {
+            "value": "10.3"
+        },
+        "research_octane_number": {
+            "value": "109",
+            "source": "[6]"
+        },
+        "motor_octane_number": {
+            "value": "90",
+            "source": "[6]"
+        },
+        "octane_sensitivity": {
+            "value": "19",
+            "source": "[6]"
+        },
+        "kinematic_viscosity": {
+            "value": "1.1031"
+        }
+    }
+}

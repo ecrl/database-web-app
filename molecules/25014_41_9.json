@@ -1,0 +1,16 @@
+{
+    "cas": "25014-41-9",
+    "cid": 7855,
+    "iupac_name": "prop-2-enenitrile",
+    "canonical_smiles": "C=CC#N",
+    "isomeric_smiles": "C=CC#N",
+    "inchi": "1S/C3H3N/c1-2-3-4/h2H,1H2",
+    "inchikey": "NLHHRLWOUZZQLW-UHFFFAOYSA-N",
+    "molecular_formula": "C3H3N",
+    "compound_groups": [],
+    "properties": {
+        "ysi_unified": {
+            "value": "12.86"
+        }
+    }
+}

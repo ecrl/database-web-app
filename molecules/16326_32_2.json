@@ -1,0 +1,21 @@
+{
+    "cas": "16326-32-2",
+    "cid": 6439889,
+    "iupac_name": "methyl (6Z,9Z,12Z)-octadeca-6,9,12-trienoate",
+    "canonical_smiles": "CCCCCC=CCC=CCC=CCCCCC(=O)OC",
+    "isomeric_smiles": "CCCCC/C=C\\C/C=C\\C/C=C\\CCCCC(=O)OC",
+    "inchi": "1S/C19H32O2/c1-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19(20)21-2/h7-8,10-11,13-14H,3-6,9,12,15-18H2,1-2H3/b8-7-,11-10-,14-13-",
+    "inchikey": "JFRWATCOFCPIBM-JPFHKJGASA-N",
+    "molecular_formula": "C19H32O2",
+    "compound_groups": [
+        "esters",
+        "olefins"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "29.2",
+            "method": "Unknown",
+            "source": "BioCompoundML (2016)"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "cas": "1977-33-9",
+    "cid": 264,
+    "iupac_name": "butanoic acid",
+    "canonical_smiles": "CCCC(=O)O",
+    "isomeric_smiles": "CCCC(=O)O",
+    "inchi": "1S/C4H8O2/c1-2-3-4(5)6/h2-3H2,1H3,(H,5,6)",
+    "inchikey": "FERIUCNNQQJTOY-UHFFFAOYSA-N",
+    "molecular_formula": "C4H8O2",
+    "compound_groups": [
+        "saturated esters",
+        "organic acid"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "18.1"
+        },
+        "kinematic_viscosity": {
+            "value": "1.2806"
+        }
+    }
+}

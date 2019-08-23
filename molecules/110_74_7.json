@@ -1,0 +1,22 @@
+{
+    "cas": "110-74-7",
+    "cid": 8073,
+    "iupac_name": "propyl formate",
+    "canonical_smiles": "CCCOC=O",
+    "isomeric_smiles": "CCCOC=O",
+    "inchi": "1S/C4H8O2/c1-2-3-6-4-5/h4H,2-3H2,1H3",
+    "inchikey": "KFNNIILCVOLYIR-UHFFFAOYSA-N",
+    "molecular_formula": "C4H8O2",
+    "compound_groups": [
+        "saturated esters",
+        "acetyl (has 2 c-o bonds, formed by reaction of aldehyde & alcohol)"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "20.3"
+        },
+        "kinematic_viscosity": {
+            "value": "0.4763"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "cas": "78-81-9",
+    "cid": 6558,
+    "iupac_name": "2-methylpropan-1-amine",
+    "canonical_smiles": "CC(C)CN",
+    "isomeric_smiles": "CC(C)CN",
+    "inchi": "1S/C4H11N/c1-4(2)3-5/h4H,3,5H2,1-2H3",
+    "inchikey": "KDSNLYIMUZNERS-UHFFFAOYSA-N",
+    "molecular_formula": "C4H11N",
+    "compound_groups": [
+        "saturated amine"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "23.4"
+        }
+    }
+}

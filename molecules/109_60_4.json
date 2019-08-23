@@ -1,0 +1,22 @@
+{
+    "cas": "109-60-4",
+    "cid": 7997,
+    "iupac_name": "propyl acetate",
+    "canonical_smiles": "CCCOC(=O)C",
+    "isomeric_smiles": "CCCOC(=O)C",
+    "inchi": "1S/C5H10O2/c1-3-4-7-5(2)6/h3-4H2,1-2H3",
+    "inchikey": "YKYONYBAUNKHLG-UHFFFAOYSA-N",
+    "molecular_formula": "C5H10O2",
+    "compound_groups": [
+        "saturated esters",
+        "acetyl (has 2 c-o bonds, formed by reaction of aldehyde & alcohol)"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "24.4"
+        },
+        "kinematic_viscosity": {
+            "value": "0.5483"
+        }
+    }
+}

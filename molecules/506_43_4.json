@@ -1,0 +1,21 @@
+{
+    "cas": "506-43-4",
+    "cid": 5365682,
+    "iupac_name": "(9Z,12Z)-octadeca-9,12-dien-1-ol",
+    "canonical_smiles": "CCCCCC=CCC=CCCCCCCCCO",
+    "isomeric_smiles": "CCCCC/C=C\\C/C=C\\CCCCCCCCO",
+    "inchi": "1S/C18H34O/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19/h6-7,9-10,19H,2-5,8,11-18H2,1H3/b7-6-,10-9-",
+    "inchikey": "JXNPEDYJTDQORS-HZJYTTRNSA-N",
+    "molecular_formula": "C18H34O",
+    "compound_groups": [
+        "alcohols",
+        "olefins"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "44",
+            "method": "Other Ignition Delay Method",
+            "source": "NREL (2014)"
+        }
+    }
+}

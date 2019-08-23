@@ -1,0 +1,18 @@
+{
+    "cas": "112-81-2",
+    "cid": 8175,
+    "iupac_name": "decanal",
+    "canonical_smiles": "CCCCCCCCCC=O",
+    "isomeric_smiles": "CCCCCCCCCC=O",
+    "inchi": "1S/C10H20O/c1-2-3-4-5-6-7-8-9-10-11/h10H,2-9H2,1H3",
+    "inchikey": "KSMVZQYAVGTKIV-UHFFFAOYSA-N",
+    "molecular_formula": "C10H20O",
+    "compound_groups": [
+        "saturated aldehyde"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "52.8"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "cas": "762-75-4",
+    "cid": 61207,
+    "iupac_name": "tert-butyl formate",
+    "canonical_smiles": "CC(C)(C)OC=O",
+    "isomeric_smiles": "CC(C)(C)OC=O",
+    "inchi": "1S/C5H10O2/c1-5(2,3)7-4-6/h4H,1-3H3",
+    "inchikey": "RUPAXCPQAAOIPB-UHFFFAOYSA-N",
+    "molecular_formula": "C5H10O2",
+    "compound_groups": [
+        "saturated esters"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "30"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "cas": "27601-00-9",
+    "cid": 7060,
+    "iupac_name": "2-methylquinoline",
+    "canonical_smiles": "CC1=NC2=CC=CC=C2C=C1",
+    "isomeric_smiles": "CC1=NC2=CC=CC=C2C=C1",
+    "inchi": "1S/C10H9N/c1-8-6-7-9-4-2-3-5-10(9)11-8/h2-7H,1H3",
+    "inchikey": "SMUQFGGVLNAIOZ-UHFFFAOYSA-N",
+    "molecular_formula": "C10H9N",
+    "compound_groups": [],
+    "properties": {
+        "ysi_unified": {
+            "value": "311.19"
+        }
+    }
+}

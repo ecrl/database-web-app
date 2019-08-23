@@ -1,0 +1,18 @@
+{
+    "cas": "10544-63-5",
+    "cid": 429065,
+    "iupac_name": "ethyl (E)-but-2-enoate",
+    "canonical_smiles": "CCOC(=O)C=CC",
+    "isomeric_smiles": "CCOC(=O)/C=C/C",
+    "inchi": "1S/C6H10O2/c1-3-5-6(7)8-4-2/h3,5H,4H2,1-2H3/b5-3+",
+    "inchikey": "ZFDIRQKJPRINOQ-HWKANZROSA-N",
+    "molecular_formula": "C6H10O2",
+    "compound_groups": [
+        "unsaturated esters"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "30.3"
+        }
+    }
+}

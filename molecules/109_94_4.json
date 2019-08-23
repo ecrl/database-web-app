@@ -1,0 +1,22 @@
+{
+    "cas": "109-94-4",
+    "cid": 8025,
+    "iupac_name": "ethyl formate",
+    "canonical_smiles": "CCOC=O",
+    "isomeric_smiles": "CCOC=O",
+    "inchi": "1S/C3H6O2/c1-2-5-3-4/h3H,2H2,1H3",
+    "inchikey": "WBJINCZRORDGAQ-UHFFFAOYSA-N",
+    "molecular_formula": "C3H6O2",
+    "compound_groups": [
+        "saturated esters",
+        "acetyl (has 2 c-o bonds, formed by reaction of aldehyde & alcohol)"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "9.2"
+        },
+        "kinematic_viscosity": {
+            "value": "0.3716"
+        }
+    }
+}

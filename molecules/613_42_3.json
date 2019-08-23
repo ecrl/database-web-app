@@ -1,0 +1,18 @@
+{
+    "cas": "613-42-3",
+    "cid": 69174,
+    "iupac_name": "1-benzyl-4-phenylbenzene",
+    "canonical_smiles": "C1=CC=C(C=C1)CC2=CC=C(C=C2)C3=CC=CC=C3",
+    "isomeric_smiles": "C1=CC=C(C=C1)CC2=CC=C(C=C2)C3=CC=CC=C3",
+    "inchi": "1S/C19H16/c1-3-7-16(8-4-1)15-17-11-13-19(14-12-17)18-9-5-2-6-10-18/h1-14H,15H2",
+    "inchikey": "AGPLQTQFIZBOLI-UHFFFAOYSA-N",
+    "molecular_formula": "C19H16",
+    "compound_groups": [
+        "aromatic"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "1192.6"
+        }
+    }
+}

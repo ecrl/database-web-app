@@ -1,0 +1,19 @@
+{
+    "cas": "1632-16-2",
+    "cid": 15404,
+    "iupac_name": "3-methylideneheptane",
+    "canonical_smiles": "CCCCC(=C)CC",
+    "isomeric_smiles": "CCCCC(=C)CC",
+    "inchi": "1S/C8H16/c1-4-6-7-8(3)5-2/h3-7H2,1-2H3",
+    "inchikey": "XTVRLCUJHGUXCP-UHFFFAOYSA-N",
+    "molecular_formula": "C8H16",
+    "compound_groups": [
+        "olefin (alkene) with single c=c double bond",
+        "olefins"
+    ],
+    "properties": {
+        "kinematic_viscosity": {
+            "value": "0.5469"
+        }
+    }
+}

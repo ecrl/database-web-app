@@ -1,0 +1,20 @@
+{
+    "cas": "102-76-1",
+    "cid": 5541,
+    "iupac_name": "2,3-diacetyloxypropyl acetate",
+    "canonical_smiles": "CC(=O)OCC(COC(=O)C)OC(=O)C",
+    "isomeric_smiles": "CC(=O)OCC(COC(=O)C)OC(=O)C",
+    "inchi": "1S/C9H14O6/c1-6(10)13-4-9(15-8(3)12)5-14-7(2)11/h9H,4-5H2,1-3H3",
+    "inchikey": "URAYPUMNDPQOKB-UHFFFAOYSA-N",
+    "molecular_formula": "C9H14O6",
+    "compound_groups": [
+        "esters"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "5",
+            "method": "Unknown",
+            "source": "BioCompoundML (2016)"
+        }
+    }
+}

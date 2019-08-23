@@ -1,0 +1,39 @@
+{
+    "cas": "5593-70-4",
+    "cid": 263,
+    "iupac_name": "butan-1-ol",
+    "canonical_smiles": "CCCCO",
+    "isomeric_smiles": "CCCCO",
+    "inchi": "1S/C4H10O/c1-2-3-4-5/h5H,2-4H2,1H3",
+    "inchikey": "LRHPLDYGYMQRHN-UHFFFAOYSA-N",
+    "molecular_formula": "C4H10O",
+    "compound_groups": [
+        "alcohols",
+        "alcohol"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "12",
+            "method": "IQT",
+            "source": "NREL (2014)"
+        },
+        "ysi_unified": {
+            "value": "22"
+        },
+        "research_octane_number": {
+            "value": "98",
+            "source": "[6]"
+        },
+        "motor_octane_number": {
+            "value": "85",
+            "source": "[6]"
+        },
+        "octane_sensitivity": {
+            "value": "13",
+            "source": "[6]"
+        },
+        "kinematic_viscosity": {
+            "value": "2.3817"
+        }
+    }
+}

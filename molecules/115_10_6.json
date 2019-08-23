@@ -1,0 +1,20 @@
+{
+    "cas": "115-10-6",
+    "cid": 8254,
+    "iupac_name": "methoxymethane",
+    "canonical_smiles": "COC",
+    "isomeric_smiles": "COC",
+    "inchi": "1S/C2H6O/c1-3-2/h1-2H3",
+    "inchikey": "LCGLNKUTAGEVQW-UHFFFAOYSA-N",
+    "molecular_formula": "C2H6O",
+    "compound_groups": [
+        "ethers"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "67",
+            "method": "Unknown",
+            "source": "NREL (2014)"
+        }
+    }
+}

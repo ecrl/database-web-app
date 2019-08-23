@@ -1,0 +1,20 @@
+{
+    "cas": "627-93-0",
+    "cid": 12329,
+    "iupac_name": "dimethyl hexanedioate",
+    "canonical_smiles": "COC(=O)CCCCC(=O)OC",
+    "isomeric_smiles": "COC(=O)CCCCC(=O)OC",
+    "inchi": "1S/C8H14O4/c1-11-7(9)5-3-4-6-8(10)12-2/h3-6H2,1-2H3",
+    "inchikey": "UDSFAEKRVUSQDD-UHFFFAOYSA-N",
+    "molecular_formula": "C8H14O4",
+    "compound_groups": [
+        "esters"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "5",
+            "method": "Unknown",
+            "source": "BioCompoundML (2016)"
+        }
+    }
+}

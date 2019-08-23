@@ -1,0 +1,18 @@
+{
+    "cas": "18459-51-3",
+    "cid": 3341006,
+    "iupac_name": "2-butylhexanal",
+    "canonical_smiles": "CCCCC(CCCC)C=O",
+    "isomeric_smiles": "CCCCC(CCCC)C=O",
+    "inchi": "1S/C10H20O/c1-3-5-7-10(9-11)8-6-4-2/h9-10H,3-8H2,1-2H3",
+    "inchikey": "RACNVJFSQSOKGQ-UHFFFAOYSA-N",
+    "molecular_formula": "C10H20O",
+    "compound_groups": [
+        "saturated aldehyde"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "48.2"
+        }
+    }
+}

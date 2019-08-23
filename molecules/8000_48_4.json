@@ -1,0 +1,32 @@
+{
+    "cas": "8000-48-4",
+    "cid": 2758,
+    "iupac_name": "1,3,3-trimethyl-2-oxabicyclo[2.2.2]octane",
+    "canonical_smiles": "CC1(C2CCC(O1)(CC2)C)C",
+    "isomeric_smiles": "CC1(C2CCC(O1)(CC2)C)C",
+    "inchi": "1S/C10H18O/c1-9(2)8-4-6-10(3,11-9)7-5-8/h8H,4-7H2,1-3H3",
+    "inchikey": "WEEGYLXZBRQIMU-UHFFFAOYSA-N",
+    "molecular_formula": "C10H18O",
+    "compound_groups": [
+        "cyclic ethers"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "18.8",
+            "method": "IQT",
+            "source": "Marquardt (2015)"
+        },
+        "research_octane_number": {
+            "value": "99.2",
+            "source": ""
+        },
+        "motor_octane_number": {
+            "value": "91.2",
+            "source": ""
+        },
+        "octane_sensitivity": {
+            "value": "8",
+            "source": ""
+        }
+    }
+}

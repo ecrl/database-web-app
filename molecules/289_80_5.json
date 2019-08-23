@@ -1,0 +1,16 @@
+{
+    "cas": "289-80-5",
+    "cid": 9259,
+    "iupac_name": "pyridazine",
+    "canonical_smiles": "C1=CC=NN=C1",
+    "isomeric_smiles": "C1=CC=NN=C1",
+    "inchi": "1S/C4H4N2/c1-2-4-6-5-3-1/h1-4H",
+    "inchikey": "PBMFSQRYOILNGV-UHFFFAOYSA-N",
+    "molecular_formula": "C4H4N2",
+    "compound_groups": [],
+    "properties": {
+        "ysi_unified": {
+            "value": "15.44"
+        }
+    }
+}

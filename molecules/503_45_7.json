@@ -1,0 +1,25 @@
+{
+    "cas": "503-45-7",
+    "cid": 79031,
+    "iupac_name": "3,3,5-trimethylcyclohexene",
+    "canonical_smiles": "CC1CC=CC(C1)(C)C",
+    "isomeric_smiles": "CC1CC=CC(C1)(C)C",
+    "inchi": "1S/C9H16/c1-8-5-4-6-9(2,3)7-8/h4,6,8H,5,7H2,1-3H3",
+    "inchikey": "GQVLBFQEABXQDC-UHFFFAOYSA-N",
+    "molecular_formula": "C9H16",
+    "properties": {
+        "research_octane_number": {
+            "value": "96.5",
+            "source": "[1]"
+        },
+        "motor_octane_number": {
+            "value": "82.8",
+            "source": "[1]"
+        },
+        "octane_sensitivity": {
+            "value": "13.7",
+            "source": "[1]"
+        }
+    },
+    "compound_groups": []
+}

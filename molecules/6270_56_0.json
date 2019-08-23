@@ -1,0 +1,21 @@
+{
+    "cas": "6270-56-0",
+    "cid": 80455,
+    "iupac_name": "2-(ethoxymethyl)furan",
+    "canonical_smiles": "CCOCC1=CC=CO1",
+    "isomeric_smiles": "CCOCC1=CC=CO1",
+    "inchi": "1S/C7H10O2/c1-2-8-6-7-4-3-5-9-7/h3-5H,2,6H2,1H3",
+    "inchikey": "BHGBNDNKYPEAAT-UHFFFAOYSA-N",
+    "molecular_formula": "C7H10O2",
+    "compound_groups": [
+        "cyclic ethers",
+        "aromatics"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "18.4",
+            "method": "IQT",
+            "source": "NREL (2014)"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "cas": "638-10-8",
+    "cid": 12516,
+    "iupac_name": "ethyl 3-methylbut-2-enoate",
+    "canonical_smiles": "CCOC(=O)C=C(C)C",
+    "isomeric_smiles": "CCOC(=O)C=C(C)C",
+    "inchi": "1S/C7H12O2/c1-4-9-7(8)5-6(2)3/h5H,4H2,1-3H3",
+    "inchikey": "UTXVCHVLDOLVPC-UHFFFAOYSA-N",
+    "molecular_formula": "C7H12O2",
+    "compound_groups": [
+        "unsaturated esters"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "39.5"
+        }
+    }
+}

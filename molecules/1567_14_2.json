@@ -1,0 +1,18 @@
+{
+    "cas": "1567-14-2",
+    "cid": 5323653,
+    "iupac_name": "methyl (E)-2-methylpent-2-enoate",
+    "canonical_smiles": "CCC=C(C)C(=O)OC",
+    "isomeric_smiles": "CC/C=C(\\C)/C(=O)OC",
+    "inchi": "1S/C7H12O2/c1-4-5-6(2)7(8)9-3/h5H,4H2,1-3H3/b6-5+",
+    "inchikey": "SRORRGMOEUTSDV-AATRIKPKSA-N",
+    "molecular_formula": "C7H12O2",
+    "compound_groups": [
+        "unsaturated esters"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "42"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "cas": "105-67-9",
+    "cid": 7771,
+    "iupac_name": "2,4-dimethylphenol",
+    "canonical_smiles": "CC1=CC(=C(C=C1)O)C",
+    "isomeric_smiles": "CC1=CC(=C(C=C1)O)C",
+    "inchi": "1S/C8H10O/c1-6-3-4-8(9)7(2)5-6/h3-5,9H,1-2H3",
+    "inchikey": "KUFFULVDNCHOFZ-UHFFFAOYSA-N",
+    "molecular_formula": "C8H10O",
+    "compound_groups": [],
+    "properties": {
+        "ysi_unified": {
+            "value": "144"
+        }
+    }
+}

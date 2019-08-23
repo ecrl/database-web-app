@@ -1,0 +1,16 @@
+{
+    "cas": "540-80-7",
+    "cid": 10906,
+    "iupac_name": "tert-butyl nitrite",
+    "canonical_smiles": "CC(C)(C)ON=O",
+    "isomeric_smiles": "CC(C)(C)ON=O",
+    "inchi": "1S/C4H9NO2/c1-4(2,3)7-5-6/h1-3H3",
+    "inchikey": "IOGXOCVLYRDXLW-UHFFFAOYSA-N",
+    "molecular_formula": "C4H9NO2",
+    "compound_groups": [],
+    "properties": {
+        "ysi_unified": {
+            "value": "11.19"
+        }
+    }
+}

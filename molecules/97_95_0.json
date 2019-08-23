@@ -1,0 +1,18 @@
+{
+    "cas": "97-95-0",
+    "cid": 7358,
+    "iupac_name": "2-ethylbutan-1-ol",
+    "canonical_smiles": "CCC(CC)CO",
+    "isomeric_smiles": "CCC(CC)CO",
+    "inchi": "1S/C6H14O/c1-3-6(4-2)5-7/h6-7H,3-5H2,1-2H3",
+    "inchikey": "TZYRSLHNPKPEFV-UHFFFAOYSA-N",
+    "molecular_formula": "C6H14O",
+    "compound_groups": [
+        "saturated alcohols"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "41.7"
+        }
+    }
+}

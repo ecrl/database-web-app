@@ -1,0 +1,20 @@
+{
+    "cas": "28473-21-4",
+    "cid": 8914,
+    "iupac_name": "nonan-1-ol",
+    "canonical_smiles": "CCCCCCCCCO",
+    "isomeric_smiles": "CCCCCCCCCO",
+    "inchi": "1S/C9H20O/c1-2-3-4-5-6-7-8-9-10/h10H,2-9H2,1H3",
+    "inchikey": "ZWRUINPWMLAQRD-UHFFFAOYSA-N",
+    "molecular_formula": "C9H20O",
+    "compound_groups": [
+        "alcohols"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "45",
+            "method": "CFR",
+            "source": "NREL (2014)"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "cas": "26809-02-9",
+    "cid": 6342,
+    "iupac_name": "acetonitrile",
+    "canonical_smiles": "CC#N",
+    "isomeric_smiles": "CC#N",
+    "inchi": "1S/C2H3N/c1-2-3/h1H3",
+    "inchikey": "WEVYAHXRMPXWCK-UHFFFAOYSA-N",
+    "molecular_formula": "C2H3N",
+    "compound_groups": [],
+    "properties": {
+        "ysi_unified": {
+            "value": "1.03"
+        }
+    }
+}

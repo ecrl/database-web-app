@@ -1,0 +1,20 @@
+{
+    "cas": "5454-12-6",
+    "cid": 79553,
+    "iupac_name": "decyl pentanoate",
+    "canonical_smiles": "CCCCCCCCCCOC(=O)CCCC",
+    "isomeric_smiles": "CCCCCCCCCCOC(=O)CCCC",
+    "inchi": "1S/C15H30O2/c1-3-5-7-8-9-10-11-12-14-17-15(16)13-6-4-2/h3-14H2,1-2H3",
+    "inchikey": "CNLMHVUZVNKYJA-UHFFFAOYSA-N",
+    "molecular_formula": "C15H30O2",
+    "compound_groups": [
+        "esters"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "61",
+            "method": "Unknown",
+            "source": "BioCompoundML (2016)"
+        }
+    }
+}

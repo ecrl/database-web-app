@@ -1,0 +1,23 @@
+{
+    "cas": "96789-56-9",
+    "cid": 11387,
+    "iupac_name": "2,6-dimethylnaphthalene",
+    "canonical_smiles": "CC1=CC2=C(C=C1)C=C(C=C2)C",
+    "isomeric_smiles": "CC1=CC2=C(C=C1)C=C(C=C2)C",
+    "inchi": "1S/C12H12/c1-9-3-5-12-8-10(2)4-6-11(12)7-9/h3-8H,1-2H3",
+    "inchikey": "YGYNBBAUIYTWBF-UHFFFAOYSA-N",
+    "molecular_formula": "C12H12",
+    "compound_groups": [
+        "aromatics"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "-7",
+            "method": "20% Blend, CFR",
+            "source": "NREL (2014)"
+        },
+        "ysi_unified": {
+            "value": "774.5"
+        }
+    }
+}

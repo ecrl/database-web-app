@@ -1,0 +1,25 @@
+{
+    "cas": "3178-22-1",
+    "cid": 18508,
+    "iupac_name": "tert-butylcyclohexane",
+    "canonical_smiles": "CC(C)(C)C1CCCCC1",
+    "isomeric_smiles": "CC(C)(C)C1CCCCC1",
+    "inchi": "1S/C10H20/c1-10(2,3)9-7-5-4-6-8-9/h9H,4-8H2,1-3H3",
+    "inchikey": "XTVMZZBLCLWBPM-UHFFFAOYSA-N",
+    "molecular_formula": "C10H20",
+    "properties": {
+        "research_octane_number": {
+            "value": "98.5",
+            "source": "[1]"
+        },
+        "motor_octane_number": {
+            "value": "89.2",
+            "source": "[1]"
+        },
+        "octane_sensitivity": {
+            "value": "9.3",
+            "source": "[1]"
+        }
+    },
+    "compound_groups": []
+}

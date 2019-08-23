@@ -1,0 +1,18 @@
+{
+    "cas": "29828-28-2",
+    "cid": 9938,
+    "iupac_name": "1,2-dihydronaphthalene",
+    "canonical_smiles": "C1CC2=CC=CC=C2C=C1",
+    "isomeric_smiles": "C1CC2=CC=CC=C2C=C1",
+    "inchi": "1S/C10H10/c1-2-6-10-8-4-3-7-9(10)5-1/h1-3,5-7H,4,8H2",
+    "inchikey": "KEIFWROAQVVDBN-UHFFFAOYSA-N",
+    "molecular_formula": "C10H10",
+    "compound_groups": [
+        "aromatic"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "466.1"
+        }
+    }
+}

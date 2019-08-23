@@ -1,0 +1,18 @@
+{
+    "cas": "581-40-8",
+    "cid": 11386,
+    "iupac_name": "2,3-dimethylnaphthalene",
+    "canonical_smiles": "CC1=CC2=CC=CC=C2C=C1C",
+    "isomeric_smiles": "CC1=CC2=CC=CC=C2C=C1C",
+    "inchi": "1S/C12H12/c1-9-7-11-5-3-4-6-12(11)8-10(9)2/h3-8H,1-2H3",
+    "inchikey": "WWGUMAYGTYQSGA-UHFFFAOYSA-N",
+    "molecular_formula": "C12H12",
+    "compound_groups": [
+        "aromatic"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "748.4"
+        }
+    }
+}

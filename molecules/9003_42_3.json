@@ -1,0 +1,18 @@
+{
+    "cas": "9003-42-3",
+    "cid": 7343,
+    "iupac_name": "ethyl 2-methylprop-2-enoate",
+    "canonical_smiles": "CCOC(=O)C(=C)C",
+    "isomeric_smiles": "CCOC(=O)C(=C)C",
+    "inchi": "1S/C6H10O2/c1-4-8-6(7)5(2)3/h2,4H2,1,3H3",
+    "inchikey": "SUPCQIBBMFXVTL-UHFFFAOYSA-N",
+    "molecular_formula": "C6H10O2",
+    "compound_groups": [
+        "unsaturated esters"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "25.4"
+        }
+    }
+}

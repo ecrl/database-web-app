@@ -1,0 +1,27 @@
+{
+    "cas": "828-63-7",
+    "cid": 12348,
+    "iupac_name": "pentyl acetate",
+    "canonical_smiles": "CCCCCOC(=O)C",
+    "isomeric_smiles": "CCCCCOC(=O)C",
+    "inchi": "1S/C7H14O2/c1-3-4-5-6-9-7(2)8/h3-6H2,1-2H3",
+    "inchikey": "PGMYKACGEOXYJE-UHFFFAOYSA-N",
+    "molecular_formula": "C7H14O2",
+    "compound_groups": [
+        "esters",
+        "acetyl (has 2 c-o bonds, formed by reaction of aldehyde & alcohol)"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "23.6",
+            "method": "IQT",
+            "source": "NREL (2014)"
+        },
+        "ysi_unified": {
+            "value": "40.4"
+        },
+        "kinematic_viscosity": {
+            "value": "0.8073"
+        }
+    }
+}

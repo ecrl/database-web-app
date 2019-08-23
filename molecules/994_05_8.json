@@ -1,0 +1,18 @@
+{
+    "cas": "994-05-8",
+    "cid": 61247,
+    "iupac_name": "2-methoxy-2-methylbutane",
+    "canonical_smiles": "CCC(C)(C)OC",
+    "isomeric_smiles": "CCC(C)(C)OC",
+    "inchi": "1S/C6H14O/c1-5-6(2,3)7-4/h5H2,1-4H3",
+    "inchikey": "HVZJRWJGKQPSFL-UHFFFAOYSA-N",
+    "molecular_formula": "C6H14O",
+    "compound_groups": [
+        "saturated ethers"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "38.1"
+        }
+    }
+}

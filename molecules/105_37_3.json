@@ -1,0 +1,18 @@
+{
+    "cas": "105-37-3",
+    "cid": 7749,
+    "iupac_name": "ethyl propanoate",
+    "canonical_smiles": "CCC(=O)OCC",
+    "isomeric_smiles": "CCC(=O)OCC",
+    "inchi": "1S/C5H10O2/c1-3-5(6)7-4-2/h3-4H2,1-2H3",
+    "inchikey": "FKRCODPIKNYEAC-UHFFFAOYSA-N",
+    "molecular_formula": "C5H10O2",
+    "compound_groups": [
+        "saturated esters"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "20.3"
+        }
+    }
+}

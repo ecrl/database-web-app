@@ -1,0 +1,18 @@
+{
+    "cas": "6581-66-4",
+    "cid": 23057,
+    "iupac_name": "2-methoxyoxane",
+    "canonical_smiles": "COC1CCCCO1",
+    "isomeric_smiles": "COC1CCCCO1",
+    "inchi": "1S/C6H12O2/c1-7-6-4-2-3-5-8-6/h6H,2-5H2,1H3",
+    "inchikey": "XTDKZSUYCXHXJM-UHFFFAOYSA-N",
+    "molecular_formula": "C6H12O2",
+    "compound_groups": [
+        "cyclic saturated ethers"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "22.1"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "cas": "123-38-6",
+    "cid": 527,
+    "iupac_name": "propanal",
+    "canonical_smiles": "CCC=O",
+    "isomeric_smiles": "CCC=O",
+    "inchi": "1S/C3H6O/c1-2-3-4/h3H,2H2,1H3",
+    "inchikey": "NBBJYMSMWIIQGU-UHFFFAOYSA-N",
+    "molecular_formula": "C3H6O",
+    "compound_groups": [
+        "saturated aldehyde",
+        "aldehyde"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "13.9"
+        },
+        "kinematic_viscosity": {
+            "value": "0.3606"
+        }
+    }
+}

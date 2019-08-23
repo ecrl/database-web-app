@@ -1,0 +1,35 @@
+{
+    "cas": "2207-04-7",
+    "cid": 11523,
+    "iupac_name": "1,4-dimethylcyclohexane",
+    "canonical_smiles": "CC1CCC(CC1)C",
+    "isomeric_smiles": "CC1CCC(CC1)C",
+    "inchi": "1S/C8H16/c1-7-3-5-8(2)6-4-7/h7-8H,3-6H2,1-2H3",
+    "inchikey": "QRMPKOFEUHIBNM-UHFFFAOYSA-N",
+    "molecular_formula": "C8H16",
+    "compound_groups": [
+        "cyclic alkanes",
+        "naphthene - major structure is saturated ring",
+        "cyclohexanes"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "67.6"
+        },
+        "research_octane_number": {
+            "value": "68.3",
+            "source": "[1]"
+        },
+        "motor_octane_number": {
+            "value": "62.2",
+            "source": "[1]"
+        },
+        "octane_sensitivity": {
+            "value": "6.1",
+            "source": "[1]"
+        },
+        "kinematic_viscosity": {
+            "value": "0.7491"
+        }
+    }
+}

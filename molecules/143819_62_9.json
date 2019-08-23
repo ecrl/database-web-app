@@ -1,0 +1,20 @@
+{
+    "cas": "143819-62-9",
+    "cid": 8184,
+    "iupac_name": "undecan-1-ol",
+    "canonical_smiles": "CCCCCCCCCCCO",
+    "isomeric_smiles": "CCCCCCCCCCCO",
+    "inchi": "1S/C11H24O/c1-2-3-4-5-6-7-8-9-10-11-12/h12H,2-11H2,1H3",
+    "inchikey": "KJIOQYGWTQBHNH-UHFFFAOYSA-N",
+    "molecular_formula": "C11H24O",
+    "compound_groups": [
+        "alcohols"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "53",
+            "method": "CFR",
+            "source": "NREL (2014)"
+        }
+    }
+}

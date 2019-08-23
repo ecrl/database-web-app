@@ -1,0 +1,25 @@
+{
+    "cas": "560-23-6",
+    "cid": 11216,
+    "iupac_name": "2,3,3-trimethylpent-1-ene",
+    "canonical_smiles": "CCC(C)(C)C(=C)C",
+    "isomeric_smiles": "CCC(C)(C)C(=C)C",
+    "inchi": "1S/C8H16/c1-6-8(4,5)7(2)3/h2,6H2,1,3-5H3",
+    "inchikey": "TUSBCMPNIOJUBX-UHFFFAOYSA-N",
+    "molecular_formula": "C8H16",
+    "properties": {
+        "research_octane_number": {
+            "value": "106",
+            "source": "[1]"
+        },
+        "motor_octane_number": {
+            "value": "85.7",
+            "source": "[1]"
+        },
+        "octane_sensitivity": {
+            "value": "20.3",
+            "source": "[1]"
+        }
+    },
+    "compound_groups": []
+}

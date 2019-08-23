@@ -1,0 +1,35 @@
+{
+    "cas": "611-14-3",
+    "cid": 11903,
+    "iupac_name": "1-ethyl-2-methylbenzene",
+    "canonical_smiles": "CCC1=CC=CC=C1C",
+    "isomeric_smiles": "CCC1=CC=CC=C1C",
+    "inchi": "1S/C9H12/c1-3-9-7-5-4-6-8(9)2/h4-7H,3H2,1-2H3",
+    "inchikey": "HYFLWBNQFMXCPA-UHFFFAOYSA-N",
+    "molecular_formula": "C9H12",
+    "compound_groups": [
+        "aromatic",
+        "aromatic (single ring)",
+        "aromatics"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "267"
+        },
+        "research_octane_number": {
+            "value": "100.2",
+            "source": "[1]"
+        },
+        "motor_octane_number": {
+            "value": "92.1",
+            "source": "[1]"
+        },
+        "octane_sensitivity": {
+            "value": "8.1",
+            "source": "[1]"
+        },
+        "kinematic_viscosity": {
+            "value": "0.8354"
+        }
+    }
+}

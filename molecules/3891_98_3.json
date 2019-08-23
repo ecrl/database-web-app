@@ -1,0 +1,16 @@
+{
+    "cas": "3891-98-3",
+    "cid": 19773,
+    "iupac_name": "2,6,10-trimethyldodecane",
+    "canonical_smiles": "CCC(C)CCCC(C)CCCC(C)C",
+    "isomeric_smiles": "CCC(C)CCCC(C)CCCC(C)C",
+    "inchi": "1S/C15H32/c1-6-14(4)10-8-12-15(5)11-7-9-13(2)3/h13-15H,6-12H2,1-5H3",
+    "inchikey": "YFHFHLSMISYUAQ-UHFFFAOYSA-N",
+    "molecular_formula": "C15H32",
+    "compound_groups": [],
+    "properties": {
+        "ysi_unified": {
+            "value": "109.8"
+        }
+    }
+}

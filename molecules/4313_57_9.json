@@ -1,0 +1,18 @@
+{
+    "cas": "4313-57-9",
+    "cid": 78006,
+    "iupac_name": "1-methylcyclohexa-1,4-diene",
+    "canonical_smiles": "CC1=CCC=CC1",
+    "isomeric_smiles": "CC1=CCC=CC1",
+    "inchi": "1S/C7H10/c1-7-5-3-2-4-6-7/h2-3,6H,4-5H2,1H3",
+    "inchikey": "QDXQAOGNBCOEQX-UHFFFAOYSA-N",
+    "molecular_formula": "C7H10",
+    "compound_groups": [
+        "aliphatic"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "175.6"
+        }
+    }
+}

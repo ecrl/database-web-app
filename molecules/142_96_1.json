@@ -1,0 +1,23 @@
+{
+    "cas": "142-96-1",
+    "cid": 8909,
+    "iupac_name": "1-butoxybutane",
+    "canonical_smiles": "CCCCOCCCC",
+    "isomeric_smiles": "CCCCOCCCC",
+    "inchi": "1S/C8H18O/c1-3-5-7-9-8-6-4-2/h3-8H2,1-2H3",
+    "inchikey": "DURPTKYDGMDSBL-UHFFFAOYSA-N",
+    "molecular_formula": "C8H18O",
+    "compound_groups": [
+        "ethers"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "115.4",
+            "method": "IQT",
+            "source": "Marquardt (2015)"
+        },
+        "ysi_unified": {
+            "value": "38.7"
+        }
+    }
+}

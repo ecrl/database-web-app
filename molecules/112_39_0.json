@@ -1,0 +1,20 @@
+{
+    "cas": "112-39-0",
+    "cid": 8181,
+    "iupac_name": "methyl hexadecanoate",
+    "canonical_smiles": "CCCCCCCCCCCCCCCC(=O)OC",
+    "isomeric_smiles": "CCCCCCCCCCCCCCCC(=O)OC",
+    "inchi": "1S/C17H34O2/c1-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17(18)19-2/h3-16H2,1-2H3",
+    "inchikey": "FLIACVVOZYBSBS-UHFFFAOYSA-N",
+    "molecular_formula": "C17H34O2",
+    "compound_groups": [
+        "esters"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "85.9",
+            "method": "IQT",
+            "source": "NREL (2014)"
+        }
+    }
+}

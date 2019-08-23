@@ -1,0 +1,20 @@
+{
+    "cas": "71750-71-5",
+    "cid": 8209,
+    "iupac_name": "tetradecan-1-ol",
+    "canonical_smiles": "CCCCCCCCCCCCCCO",
+    "isomeric_smiles": "CCCCCCCCCCCCCCO",
+    "inchi": "1S/C14H30O/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15/h15H,2-14H2,1H3",
+    "inchikey": "HLZKNKRTKFSKGZ-UHFFFAOYSA-N",
+    "molecular_formula": "C14H30O",
+    "compound_groups": [
+        "alcohols"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "80.8",
+            "method": "CFR",
+            "source": "NREL (2014)"
+        }
+    }
+}

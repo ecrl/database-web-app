@@ -1,0 +1,37 @@
+{
+    "cas": "25719-60-2",
+    "cid": 14896,
+    "iupac_name": "6,6-dimethyl-2-methylidenebicyclo[3.1.1]heptane",
+    "canonical_smiles": "CC1(C2CCC(=C)C1C2)C",
+    "isomeric_smiles": "CC1(C2CCC(=C)C1C2)C",
+    "inchi": "1S/C10H16/c1-7-4-5-8-6-9(7)10(8,2)3/h8-9H,1,4-6H2,2-3H3",
+    "inchikey": "WTARULDDTDQWMU-UHFFFAOYSA-N",
+    "molecular_formula": "C10H16",
+    "compound_groups": [
+        "olefins",
+        "cyclic",
+        "cyclic olefin with a single c=c double bond within the otherwise saturated ring"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "21.3",
+            "method": "IQT",
+            "source": "NREL (2014)"
+        },
+        "research_octane_number": {
+            "value": "80.6",
+            "source": "[1]"
+        },
+        "motor_octane_number": {
+            "value": "60.3",
+            "source": "[1]"
+        },
+        "octane_sensitivity": {
+            "value": "20.3",
+            "source": "[1]"
+        },
+        "kinematic_viscosity": {
+            "value": "1.4751"
+        }
+    }
+}

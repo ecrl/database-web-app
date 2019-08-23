@@ -1,0 +1,25 @@
+{
+    "cas": "6876-13-7",
+    "cid": 10129,
+    "iupac_name": "2,6,6-trimethylbicyclo[3.1.1]heptane",
+    "canonical_smiles": "CC1CCC2CC1C2(C)C",
+    "isomeric_smiles": "CC1CCC2CC1C2(C)C",
+    "inchi": "1S/C10H18/c1-7-4-5-8-6-9(7)10(8,2)3/h7-9H,4-6H2,1-3H3",
+    "inchikey": "XOKSLPVRUOBDEW-UHFFFAOYSA-N",
+    "molecular_formula": "C10H18",
+    "properties": {
+        "research_octane_number": {
+            "value": "77.7",
+            "source": "[1]"
+        },
+        "motor_octane_number": {
+            "value": "65.9",
+            "source": "[1]"
+        },
+        "octane_sensitivity": {
+            "value": "11.8",
+            "source": "[1]"
+        }
+    },
+    "compound_groups": []
+}

@@ -1,0 +1,21 @@
+{
+    "cas": "99-85-4",
+    "cid": 7461,
+    "iupac_name": "1-methyl-4-propan-2-ylcyclohexa-1,4-diene",
+    "canonical_smiles": "CC1=CCC(=CC1)C(C)C",
+    "isomeric_smiles": "CC1=CCC(=CC1)C(C)C",
+    "inchi": "1S/C10H16/c1-8(2)10-6-4-9(3)5-7-10/h4,7-8H,5-6H2,1-3H3",
+    "inchikey": "YKFLAYDHMOASIY-UHFFFAOYSA-N",
+    "molecular_formula": "C10H16",
+    "compound_groups": [
+        "olefins",
+        "cyclic"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "20.3",
+            "method": "IQT",
+            "source": "Marquardt (2015)"
+        }
+    }
+}

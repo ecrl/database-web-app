@@ -1,0 +1,20 @@
+{
+    "cas": "141-03-7",
+    "cid": 8830,
+    "iupac_name": "dibutyl butanedioate",
+    "canonical_smiles": "CCCCOC(=O)CCC(=O)OCCCC",
+    "isomeric_smiles": "CCCCOC(=O)CCC(=O)OCCCC",
+    "inchi": "1S/C12H22O4/c1-3-5-9-15-11(13)7-8-12(14)16-10-6-4-2/h3-10H2,1-2H3",
+    "inchikey": "YUXIBTJKHLUKBD-UHFFFAOYSA-N",
+    "molecular_formula": "C12H22O4",
+    "compound_groups": [
+        "esters"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "21",
+            "method": "CFR",
+            "source": "Jenkins (2013)"
+        }
+    }
+}

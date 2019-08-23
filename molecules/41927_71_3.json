@@ -1,0 +1,20 @@
+{
+    "cas": "41927-71-3",
+    "cid": 170588,
+    "iupac_name": "decyl tetradecanoate",
+    "canonical_smiles": "CCCCCCCCCCCCCC(=O)OCCCCCCCCCC",
+    "isomeric_smiles": "CCCCCCCCCCCCCC(=O)OCCCCCCCCCC",
+    "inchi": "1S/C24H48O2/c1-3-5-7-9-11-13-14-15-16-18-20-22-24(25)26-23-21-19-17-12-10-8-6-4-2/h3-23H2,1-2H3",
+    "inchikey": "BOUIEBMBWBCUPB-UHFFFAOYSA-N",
+    "molecular_formula": "C24H48O2",
+    "compound_groups": [
+        "esters"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "72",
+            "method": "Unknown",
+            "source": "BioCompoundML (2016)"
+        }
+    }
+}

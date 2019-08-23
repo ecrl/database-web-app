@@ -1,0 +1,18 @@
+{
+    "cas": "2299-68-5",
+    "cid": 6853,
+    "iupac_name": "9H-fluorene",
+    "canonical_smiles": "C1C2=CC=CC=C2C3=CC=CC=C31",
+    "isomeric_smiles": "C1C2=CC=CC=C2C3=CC=CC=C31",
+    "inchi": "1S/C13H10/c1-3-7-12-10(5-1)9-11-6-2-4-8-13(11)12/h1-8H,9H2",
+    "inchikey": "NIHNNTQXNPWCJQ-UHFFFAOYSA-N",
+    "molecular_formula": "C13H10",
+    "compound_groups": [
+        "aromatic"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "988.8"
+        }
+    }
+}

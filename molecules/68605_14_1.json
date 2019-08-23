@@ -1,0 +1,21 @@
+{
+    "cas": "68605-14-1",
+    "cid": 5284421,
+    "iupac_name": "methyl (9Z,12Z)-octadeca-9,12-dienoate",
+    "canonical_smiles": "CCCCCC=CCC=CCCCCCCCC(=O)OC",
+    "isomeric_smiles": "CCCCC/C=C\\C/C=C\\CCCCCCCC(=O)OC",
+    "inchi": "1S/C19H34O2/c1-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19(20)21-2/h7-8,10-11H,3-6,9,12-18H2,1-2H3/b8-7-,11-10-",
+    "inchikey": "WTTJVINHCBCLGX-NQLNTKRDSA-N",
+    "molecular_formula": "C19H34O2",
+    "compound_groups": [
+        "esters",
+        "olefins"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "43.9",
+            "method": "IQT",
+            "source": "NREL (2014)"
+        }
+    }
+}

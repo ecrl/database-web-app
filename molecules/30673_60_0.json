@@ -1,0 +1,20 @@
+{
+    "cas": "30673-60-0",
+    "cid": 121739,
+    "iupac_name": "propyl decanoate",
+    "canonical_smiles": "CCCCCCCCCC(=O)OCCC",
+    "isomeric_smiles": "CCCCCCCCCC(=O)OCCC",
+    "inchi": "1S/C13H26O2/c1-3-5-6-7-8-9-10-11-13(14)15-12-4-2/h3-12H2,1-2H3",
+    "inchikey": "OVFMRFMJVFDSAA-UHFFFAOYSA-N",
+    "molecular_formula": "C13H26O2",
+    "compound_groups": [
+        "esters"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "53",
+            "method": "CFR",
+            "source": "NREL (2014)"
+        }
+    }
+}

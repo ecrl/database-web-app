@@ -1,0 +1,18 @@
+{
+    "cas": "598-98-1",
+    "cid": 69027,
+    "iupac_name": "methyl 2,2-dimethylpropanoate",
+    "canonical_smiles": "CC(C)(C)C(=O)OC",
+    "isomeric_smiles": "CC(C)(C)C(=O)OC",
+    "inchi": "1S/C6H12O2/c1-6(2,3)5(7)8-4/h1-4H3",
+    "inchikey": "CNMFHDIDIMZHKY-UHFFFAOYSA-N",
+    "molecular_formula": "C6H12O2",
+    "compound_groups": [
+        "saturated esters"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "30.8"
+        }
+    }
+}

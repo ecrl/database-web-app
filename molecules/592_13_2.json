@@ -1,0 +1,35 @@
+{
+    "cas": "592-13-2",
+    "cid": 11592,
+    "iupac_name": "2,5-dimethylhexane",
+    "canonical_smiles": "CC(C)CCC(C)C",
+    "isomeric_smiles": "CC(C)CCC(C)C",
+    "inchi": "1S/C8H18/c1-7(2)5-6-8(3)4/h7-8H,5-6H2,1-4H3",
+    "inchikey": "UWNADWZGEHDQAB-UHFFFAOYSA-N",
+    "molecular_formula": "C8H18",
+    "compound_groups": [
+        "linear alkanes",
+        "paraffin (non-normal)",
+        "octanes"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "56.1"
+        },
+        "research_octane_number": {
+            "value": "55.2",
+            "source": "[1]"
+        },
+        "motor_octane_number": {
+            "value": "55.7",
+            "source": "[1]"
+        },
+        "octane_sensitivity": {
+            "value": "-0.5",
+            "source": "[1]"
+        },
+        "kinematic_viscosity": {
+            "value": "0.5828"
+        }
+    }
+}

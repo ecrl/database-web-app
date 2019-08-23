@@ -1,0 +1,35 @@
+{
+    "cas": "589-53-7",
+    "cid": 11512,
+    "iupac_name": "4-methylheptane",
+    "canonical_smiles": "CCCC(C)CCC",
+    "isomeric_smiles": "CCCC(C)CCC",
+    "inchi": "1S/C8H18/c1-4-6-8(3)7-5-2/h8H,4-7H2,1-3H3",
+    "inchikey": "CHBAWFGIXDBEBT-UHFFFAOYSA-N",
+    "molecular_formula": "C8H18",
+    "compound_groups": [
+        "linear alkanes",
+        "paraffin (non-normal)",
+        "octanes"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "48.1"
+        },
+        "research_octane_number": {
+            "value": "26.7",
+            "source": "[1]"
+        },
+        "motor_octane_number": {
+            "value": "39",
+            "source": "[1]"
+        },
+        "octane_sensitivity": {
+            "value": "-12.3",
+            "source": "[1]"
+        },
+        "kinematic_viscosity": {
+            "value": "0.5338"
+        }
+    }
+}

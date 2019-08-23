@@ -1,0 +1,23 @@
+{
+    "cas": "110-62-3",
+    "cid": 8063,
+    "iupac_name": "pentanal",
+    "canonical_smiles": "CCCCC=O",
+    "isomeric_smiles": "CCCCC=O",
+    "inchi": "1S/C5H10O/c1-2-3-4-5-6/h5H,2-4H2,1H3",
+    "inchikey": "HGBOYTHUEUWSSQ-UHFFFAOYSA-N",
+    "molecular_formula": "C5H10O",
+    "compound_groups": [
+        "aldehydes"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "65.1",
+            "method": "IQT",
+            "source": "NREL (2014)"
+        },
+        "ysi_unified": {
+            "value": "21.1"
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "cas": "107-01-7",
+    "cid": 5287573,
+    "iupac_name": "(Z)-but-2-ene",
+    "canonical_smiles": "CC=CC",
+    "isomeric_smiles": "C/C=C\\C",
+    "inchi": "1S/C4H8/c1-3-4-2/h3-4H,1-2H3/b4-3-",
+    "inchikey": "IAQRGUVFOMOMEM-ARJAWSKDSA-N",
+    "molecular_formula": "C4H8",
+    "properties": {
+        "research_octane_number": {
+            "value": "100",
+            "source": ""
+        },
+        "motor_octane_number": {
+            "value": "83.5",
+            "source": ""
+        },
+        "octane_sensitivity": {
+            "value": "16.5",
+            "source": ""
+        },
+        "kinematic_viscosity": {
+            "value": "0.271"
+        }
+    },
+    "compound_groups": [
+        "olefin (alkene) with single c=c double bond",
+        "butenes"
+    ]
+}

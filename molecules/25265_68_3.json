@@ -1,0 +1,32 @@
+{
+    "cas": "25265-68-3",
+    "cid": 7301,
+    "iupac_name": "2-methyloxolane",
+    "canonical_smiles": "CC1CCCO1",
+    "isomeric_smiles": "CC1CCCO1",
+    "inchi": "1S/C5H10O/c1-5-3-2-4-6-5/h5H,2-4H2,1H3",
+    "inchikey": "JWUJQDFVADABEY-UHFFFAOYSA-N",
+    "molecular_formula": "C5H10O",
+    "compound_groups": [
+        "cyclic ethers"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "21.3",
+            "method": "IQT",
+            "source": "NREL (2014)"
+        },
+        "research_octane_number": {
+            "value": "86",
+            "source": "[6]"
+        },
+        "motor_octane_number": {
+            "value": "73",
+            "source": "[6]"
+        },
+        "octane_sensitivity": {
+            "value": "13",
+            "source": "[6]"
+        }
+    }
+}

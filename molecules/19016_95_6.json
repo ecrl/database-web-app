@@ -1,0 +1,23 @@
+{
+    "cas": "19016-95-6",
+    "cid": 13229,
+    "iupac_name": "cyclohexylbenzene",
+    "canonical_smiles": "C1CCC(CC1)C2=CC=CC=C2",
+    "isomeric_smiles": "C1CCC(CC1)C2=CC=CC=C2",
+    "inchi": "1S/C12H16/c1-3-7-11(8-4-1)12-9-5-2-6-10-12/h1,3-4,7-8,12H,2,5-6,9-10H2",
+    "inchikey": "IGARGHRYKHJQSM-UHFFFAOYSA-N",
+    "molecular_formula": "C12H16",
+    "compound_groups": [
+        "aromatic",
+        "aromatic (single ring)",
+        "aromatics"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "377.3"
+        },
+        "kinematic_viscosity": {
+            "value": "1.3777"
+        }
+    }
+}

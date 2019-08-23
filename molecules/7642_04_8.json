@@ -1,0 +1,35 @@
+{
+    "cas": "7642-04-8",
+    "cid": 5364448,
+    "iupac_name": "(E)-oct-2-ene",
+    "canonical_smiles": "CCCCCC=CC",
+    "isomeric_smiles": "CCCCC/C=C/C",
+    "inchi": "1S/C8H16/c1-3-5-7-8-6-4-2/h3,5H,4,6-8H2,1-2H3/b5-3+",
+    "inchikey": "ILPBINAXDRFYPL-HWKANZROSA-N",
+    "molecular_formula": "C8H16",
+    "compound_groups": [
+        "olefins"
+    ],
+    "properties": {
+        "cetane_number": {
+            "value": "43",
+            "method": "20% Blend, CFR",
+            "source": "NREL (2014)"
+        },
+        "ysi_unified": {
+            "value": "56.7"
+        },
+        "research_octane_number": {
+            "value": "56.3",
+            "source": ""
+        },
+        "motor_octane_number": {
+            "value": "56.5",
+            "source": ""
+        },
+        "octane_sensitivity": {
+            "value": "-0.2",
+            "source": ""
+        }
+    }
+}

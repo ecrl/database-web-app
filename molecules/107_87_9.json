@@ -1,0 +1,35 @@
+{
+    "cas": "107-87-9",
+    "cid": 7895,
+    "iupac_name": "pentan-2-one",
+    "canonical_smiles": "CCCC(=O)C",
+    "isomeric_smiles": "CCCC(=O)C",
+    "inchi": "1S/C5H10O/c1-3-4-5(2)6/h3-4H2,1-2H3",
+    "inchikey": "XNLICIUVMPYHGG-UHFFFAOYSA-N",
+    "molecular_formula": "C5H10O",
+    "compound_groups": [
+        "saturated alkanone",
+        "ketone",
+        "ketones"
+    ],
+    "properties": {
+        "ysi_unified": {
+            "value": "21.1"
+        },
+        "research_octane_number": {
+            "value": "105.7",
+            "source": "[9], [11]"
+        },
+        "motor_octane_number": {
+            "value": "103.27",
+            "source": "[9], [11]"
+        },
+        "octane_sensitivity": {
+            "value": "2.43",
+            "source": "[9], [11]"
+        },
+        "kinematic_viscosity": {
+            "value": "0.5184"
+        }
+    }
+}

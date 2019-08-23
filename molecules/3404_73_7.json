@@ -1,0 +1,25 @@
+{
+    "cas": "3404-73-7",
+    "cid": 18852,
+    "iupac_name": "3,3-dimethylpent-1-ene",
+    "canonical_smiles": "CCC(C)(C)C=C",
+    "isomeric_smiles": "CCC(C)(C)C=C",
+    "inchi": "1S/C7H14/c1-5-7(3,4)6-2/h5H,1,6H2,2-4H3",
+    "inchikey": "TXBZITDWMURSEF-UHFFFAOYSA-N",
+    "molecular_formula": "C7H14",
+    "properties": {
+        "research_octane_number": {
+            "value": "103.5",
+            "source": "[1], [9]"
+        },
+        "motor_octane_number": {
+            "value": "86.1",
+            "source": "[1], [9]"
+        },
+        "octane_sensitivity": {
+            "value": "17.4",
+            "source": "[1], [9]"
+        }
+    },
+    "compound_groups": []
+}
