@@ -112,11 +112,47 @@ def index():
             except KeyError:
                 result_dict['ron'] = ''
             try:
+                result_dict['os'] = result[u'properties'][
+                    'octane_sensitivity'
+                ]['value']
+            except KeyError:
+                result_dict['os'] = ''
+            try:
                 result_dict['kv'] = result[u'properties'][
                     'kinematic_viscosity'
                 ]['value']
             except KeyError:
                 result_dict['kv'] = ''
+            try:
+                result_dict['ai_temp'] = result[u'properties'][
+                    'autoignition_temp'
+                ]['value']
+            except KeyError:
+                result_dict['ai_temp'] = ''
+            try:
+                result_dict['bp'] = result[u'properties'][
+                    'boiling_point'
+                ]['value']
+            except KeyError:
+                result_dict['bp'] = ''
+            try:
+                result_dict['fp'] = result[u'properties'][
+                    'flash_point'
+                ]['value']
+            except KeyError:
+                result_dict['fp'] = ''
+            try:
+                result_dict['hov'] = result[u'properties'][
+                    'heat_of_vaporization'
+                ]['value']
+            except KeyError:
+                result_dict['hov'] = ''
+            try:
+                result_dict['mp'] = result[u'properties'][
+                    'melting_point'
+                ]['value']
+            except KeyError:
+                result_dict['mp'] = ''
             formatted_results.append(result_dict)
 
         if search_form.submit_search.data:
@@ -129,7 +165,7 @@ def index():
             writer = DictWriter(temp_file, [
                 'iupac_name', 'cas', 'molecular_formula', 'isomeric_smiles',
                 'canonical_smiles', 'cid', 'inchi', 'inchikey', 'cn', 'ysi',
-                'mon', 'ron', 'kv'
+                'mon', 'ron', 'os', 'kv', 'ai_temp', 'bp', 'fp', 'hov', 'mp'
             ], delimiter=',', lineterminator='\n')
             writer.writeheader()
             writer.writerows(formatted_results)
