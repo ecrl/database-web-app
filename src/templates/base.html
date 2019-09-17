@@ -1,0 +1,41 @@
+{% extends 'bootstrap/base.html' %}
+
+{% block title %}
+
+    {% if title %}
+        CombustDB - {{ title }}
+    {% else %}
+        CombustDB
+    {% endif %}
+
+{% endblock %}
+
+{% block styles %}
+
+    <link href="{{bootstrap_find_resource('css/bootstrap.css', cdn='bootstrap')}}" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="shortcut icon" href = "{{ url_for('static', filename='img/favicon.ico') }}">
+
+{% endblock %}
+
+{% block content %}
+
+    <div class="container">
+        <div class="app_header">
+            <div style="float:left">
+                <h1>CombustDB</h1>
+            </div>
+            <div style="float:right">
+                <a href="https://faculty.uml.edu/Hunter_Mack/">
+                    <img src = "{{ url_for('static', style = "float:left;",
+                    filename="img/uml-ecrl.png") }}">
+                </a>
+            </div>
+        </div>
+        <div class="app_content">
+            {% block app_content %}
+            {% endblock %}
+        </div>
+    </div>
+
+{% endblock %}

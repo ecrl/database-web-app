@@ -1,0 +1,8 @@
+Flask
+flask-bootstrap
+gunicorn
+pymongo
+flask-wtf
+python-dotenv
+dnspython
+flask_table

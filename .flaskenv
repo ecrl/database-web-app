@@ -1,0 +1,2 @@
+FLASK_APP=app.py
+SECRET_KEY=combustdb_key
