@@ -1,1 +1,0 @@
-{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"combustdb.compounds"},{"v":{"$numberInt":"2"},"key":{"cas":{"$numberInt":"1"}},"name":"cas","ns":"combustdb.compounds","background":false}],"uuid":"d8af276588cf4605a5b2192a0c28af3c"}
