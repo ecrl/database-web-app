@@ -17,11 +17,14 @@
 
             {{ form.search_string(rows='1', cols='50', style='resize:none') }}
             {{ form.search_field() }}
-            {{ form.cn() }} CN
+            {% for prop in form.properties %}
+                {{ form[prop]() }} {{ prop.upper() }}
+            {% endfor %}
+            <!-- {{ form.cn() }} CN
             {{ form.ysi() }} YSI
             {{ form.mon() }} MON
             {{ form.ron() }} RON
-            {{ form.kv() }} KV
+            {{ form.kv() }} KV -->
 
             <br><br>
 

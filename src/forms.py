@@ -1,5 +1,6 @@
 from flask_wtf import FlaskForm
 from wtforms import StringField, SubmitField, SelectField, BooleanField
+from src.properties import PROPERTIES
 
 
 class MoleculeSearch(FlaskForm):
@@ -11,10 +12,8 @@ class MoleculeSearch(FlaskForm):
         ('molecular_formula', 'Molecular Formula'),
         ('isomeric_smiles', 'SMILES')
     ])
-    cn = BooleanField('Experimental CN')
-    ysi = BooleanField('Experimental YSI')
-    mon = BooleanField('Experimental MON')
-    ron = BooleanField('Experimental RON')
-    kv = BooleanField('Experimental KV')
+    properties = list(PROPERTIES.keys())
+    for prop in properties:
+        locals()[prop] = BooleanField(prop.upper())
     submit_search = SubmitField('Search Database')
     submit_csv = SubmitField('Export Selection to CSV')

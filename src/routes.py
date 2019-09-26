@@ -1,5 +1,6 @@
 from src import app
 from src.forms import MoleculeSearch
+from src.properties import PROPERTIES
 from flask import render_template, flash, Response
 from flask_table import Table, Col
 from pymongo import MongoClient
@@ -11,15 +12,10 @@ from os import unlink
 
 class SearchResults(Table):
 
-    iupac_name = Col('IUPAC Name\t')
-    cas = Col('CAS #\t')
-    molecular_formula = Col('Molecular Formula\t')
-    isomeric_smiles = Col('SMILES\t')
-    cn = Col('CN\t')
-    ysi = Col('YSI\t')
-    mon = Col('MON\t')
-    ron = Col('RON\t')
-    kv = Col('KV\t')
+    iupac_name = Col('IUPAC Name')
+    cas = Col('CAS #')
+    for prop in list(PROPERTIES.keys()):
+        locals()[prop] = Col(prop.upper())
 
 
 @app.route('/', methods=['GET', 'POST'])
@@ -58,17 +54,11 @@ def index():
         query = {}
         if search_string != '':
             query[search_field] = search_string
-        if search_form.cn.data:
-            query['properties.cetane_number'] = {'$exists': True}
-        if search_form.ysi.data:
-            query['properties.ysi_unified'] = {'$exists': True}
-        if search_form.mon.data:
-            query['properties.motor_octane_number'] = {'$exists': True}
-        if search_form.ron.data:
-            query['properties.research_octane_number'] = {'$exists': True}
-        if search_form.kv.data:
-            query['properties.kinematic_viscosity'] = {'$exists': True}
-
+        for prop in list(PROPERTIES.keys()):
+            if search_form[prop].data:
+                query['properties.{}'.format(PROPERTIES[prop])] = {
+                    '$exists': True
+                }
         results = collection.find(query)
 
         if results.count() == 0:
@@ -87,72 +77,13 @@ def index():
                 'inchi': result[u'inchi'],
                 'inchikey': result[u'inchikey']
             }
-            try:
-                result_dict['cn'] = result[u'properties'][
-                    'cetane_number'
-                ]['value']
-            except KeyError:
-                result_dict['cn'] = ''
-            try:
-                result_dict['ysi'] = result[u'properties'][
-                    'ysi_unified'
-                ]['value']
-            except KeyError:
-                result_dict['ysi'] = ''
-            try:
-                result_dict['mon'] = result[u'properties'][
-                    'motor_octane_number'
-                ]['value']
-            except KeyError:
-                result_dict['mon'] = ''
-            try:
-                result_dict['ron'] = result[u'properties'][
-                    'research_octane_number'
-                ]['value']
-            except KeyError:
-                result_dict['ron'] = ''
-            try:
-                result_dict['os'] = result[u'properties'][
-                    'octane_sensitivity'
-                ]['value']
-            except KeyError:
-                result_dict['os'] = ''
-            try:
-                result_dict['kv'] = result[u'properties'][
-                    'kinematic_viscosity'
-                ]['value']
-            except KeyError:
-                result_dict['kv'] = ''
-            try:
-                result_dict['ai_temp'] = result[u'properties'][
-                    'autoignition_temp'
-                ]['value']
-            except KeyError:
-                result_dict['ai_temp'] = ''
-            try:
-                result_dict['bp'] = result[u'properties'][
-                    'boiling_point'
-                ]['value']
-            except KeyError:
-                result_dict['bp'] = ''
-            try:
-                result_dict['fp'] = result[u'properties'][
-                    'flash_point'
-                ]['value']
-            except KeyError:
-                result_dict['fp'] = ''
-            try:
-                result_dict['hov'] = result[u'properties'][
-                    'heat_of_vaporization'
-                ]['value']
-            except KeyError:
-                result_dict['hov'] = ''
-            try:
-                result_dict['mp'] = result[u'properties'][
-                    'melting_point'
-                ]['value']
-            except KeyError:
-                result_dict['mp'] = ''
+            for prop in list(PROPERTIES.keys()):
+                try:
+                    result_dict[prop] = result[u'properties'][
+                        PROPERTIES[prop]
+                    ]['value']
+                except KeyError:
+                    result_dict[prop] = ''
             formatted_results.append(result_dict)
 
         if search_form.submit_search.data:
@@ -162,11 +93,12 @@ def index():
         elif search_form.submit_csv.data:
             temp_file = NamedTemporaryFile(suffix='.csv', mode='w',
                                            delete=False)
-            writer = DictWriter(temp_file, [
-                'iupac_name', 'cas', 'molecular_formula', 'isomeric_smiles',
-                'canonical_smiles', 'cid', 'inchi', 'inchikey', 'cn', 'ysi',
-                'mon', 'ron', 'os', 'kv', 'ai_temp', 'bp', 'fp', 'hov', 'mp'
-            ], delimiter=',', lineterminator='\n')
+            csv_keys = ['iupac_name', 'cas', 'molecular_formula',
+                        'isomeric_smiles', 'canonical_smiles', 'cid', 'inchi',
+                        'inchikey']
+            csv_keys.extend(list(PROPERTIES.keys()))
+            writer = DictWriter(temp_file, csv_keys, delimiter=',',
+                                lineterminator='\n')
             writer.writeheader()
             writer.writerows(formatted_results)
             temp_file.close()
