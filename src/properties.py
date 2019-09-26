@@ -1,4 +1,7 @@
 
+# Global dictionary of properties;
+#   keys are internally used for indexing
+#   values are MongoDB document fields
 PROPERTIES = {
     'cn': 'cetane_number',
     'ysi': 'ysi_unified',
