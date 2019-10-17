@@ -108,6 +108,10 @@ def index():
         if results.count() == 0:
             flash('Compound not found')
             return render_index()
+        num_compounds = results.count()
+
+        # Sort by CAS, ascending
+        results = sorted(results, key=lambda r: int(r[u'cas'].split('-')[0]))
 
         # Format results, one dict per result
         formatted_results = []
@@ -135,7 +139,7 @@ def index():
 
         # If search was performed, display it
         if search_form.submit_search.data:
-            flash('Compounds found: {}'.format(results.count()))
+            flash('Compounds found: {}'.format(num_compounds))
             table = SearchResults(formatted_results)
             return render_index(table)
 
