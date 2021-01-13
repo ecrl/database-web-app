@@ -24,21 +24,6 @@ from src.forms import MoleculeSearch
 from src.properties import PROPERTIES
 
 
-class SearchResults(Table):
-    ''' SearchResults: flask_table.Table child object, houses compound
-    information to be displayed in web app's results section
-
-    Args:
-        list: each element is a dictionary with keys corresponding to object
-            attributes, values are database values
-    '''
-
-    iupac_name = Col('IUPAC Name')
-    cas = Col('CAS #')
-    for prop in list(PROPERTIES.keys()):
-        locals()[prop] = Col(prop.upper())
-
-
 @app.route('/', methods=['GET', 'POST'])
 @app.route('/index', methods=['GET', 'POST'])
 def index():
@@ -95,12 +80,27 @@ def index():
         # If user specified information in text box, include it
         if search_string != '':
             query[search_field] = search_string
+
         # Check for specific property check-boxes
+        props_to_search = []
+        prop_abvr = []
         for prop in list(PROPERTIES.keys()):
             if search_form[prop].data:
-                query['properties.{}'.format(PROPERTIES[prop])] = {
-                    '$exists': True
-                }
+                props_to_search.append(PROPERTIES[prop])
+                prop_abvr.append(prop)
+
+        # Add prefix for user input of predictions/experimental
+        if search_form.show_predictions.data:
+            props_to_search = ['pred_properties.{}'.format(p)
+                               for p in props_to_search]
+        else:
+            props_to_search = ['properties.{}'.format(p)
+                               for p in props_to_search]
+
+        # Assemble query
+        for prop in props_to_search:
+            query[prop] = {'$exists': True}
+
         # Perform query
         results = collection.find(query)
 
@@ -112,6 +112,23 @@ def index():
 
         # Sort by CAS, ascending
         results = sorted(results, key=lambda r: int(r[u'cas'].split('-')[0]))
+
+        class SearchResults(Table):
+            ''' SearchResults: flask_table.Table child object, houses compound
+            information to be displayed in web app's results section
+
+            Args:
+                list: each element is a dictionary with keys corresponding to
+                    object attributes, values are database values
+            '''
+
+            iupac_name = Col('IUPAC Name')
+            cas = Col('CAS #')
+            isomeric_smiles = Col('SMILES')
+            molecular_formula = Col('Formula')
+            for prop in list(PROPERTIES.keys()):
+                if search_form[prop].data:
+                    locals()[prop] = Col(prop.upper())
 
         # Format results, one dict per result
         formatted_results = []
@@ -127,14 +144,14 @@ def index():
                 'inchi': result[u'inchi'],
                 'inchikey': result[u'inchikey']
             }
-            # Obtain property values, if they exist
-            for prop in list(PROPERTIES.keys()):
+            # Gather queried property values
+            for idx, prop in enumerate(props_to_search):
                 try:
-                    result_dict[prop] = result[u'properties'][
-                        PROPERTIES[prop]
-                    ]['value']
+                    prop_split = prop.split('.')
+                    result_dict[prop_abvr[idx]] = result[prop_split[0]][
+                        prop_split[1]]['value']
                 except KeyError:
-                    result_dict[prop] = ''
+                    result_dict[prop_abvr[idx]] = ''
             formatted_results.append(result_dict)
 
         # If search was performed, display it
@@ -150,7 +167,7 @@ def index():
             csv_keys = ['iupac_name', 'cas', 'molecular_formula',
                         'isomeric_smiles', 'canonical_smiles', 'cid', 'inchi',
                         'inchikey']
-            csv_keys.extend(list(PROPERTIES.keys()))
+            csv_keys.extend(prop_abvr)
             writer = DictWriter(temp_file, csv_keys, delimiter=',',
                                 lineterminator='\n')
             writer.writeheader()

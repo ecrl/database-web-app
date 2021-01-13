@@ -27,8 +27,9 @@ class MoleculeSearch(FlaskForm):
         ('molecular_formula', 'Molecular Formula'),
         ('isomeric_smiles', 'SMILES')
     ])
+    show_predictions = BooleanField('Show Property Predictions')
     properties = list(PROPERTIES.keys())
     for prop in properties:
         locals()[prop] = BooleanField(prop.upper())
     submit_search = SubmitField('Search Database')
-    submit_csv = SubmitField('Export Selection to CSV')
+    submit_csv = SubmitField('Export to CSV')
