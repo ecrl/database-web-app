@@ -3,3 +3,17 @@
     height: 100px;
     padding-top: 20px;
 }
+
+.search_fields {
+    width: 240px;
+    height: 100%;
+    padding-top: 20px;
+    float: left;
+}
+
+.search_results{
+    width: 78%;
+    height: 100%;
+    padding-top: 20px;
+    float: right;
+}
