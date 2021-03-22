@@ -11,6 +11,9 @@
             {{ form.csrf_token }}
 
             <p>
+                <div style="float: right; margin-top: 10px; margin-left:-2px">
+                    <a href="{{ url_for('static', filename='files/combustdb_master.csv') }}" target="_blank">Download a CSV of all compounds</a>
+                </div>
                 <div style="float: left; width: 100%; margin-top: 7px;">
                     {{ form.search_string(rows='1', cols='20', style='resize:none') }}
                 </div>
@@ -31,14 +34,9 @@
                 <div style="float: left; margin-top: 40px;">
                     {{ form.submit_search() }}
                 </div>
-                <div style="float: right; margin-top: 40px;">
-                    {{ form.submit_csv() }}
-                </div>
-
                 <div style="float: left; font-weight: bold; margin-top: 25px;">
                     Select Properties to View
                 </div>
-
                 <div style="float: left;">
                     {% for prop in form.properties %}
                         <div style="height: 20px; line-height: 82px; text-align: left; padding-left: 50px;">
