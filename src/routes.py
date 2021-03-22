@@ -83,19 +83,20 @@ def index():
 
         # Check for specific property check-boxes
         props_to_search = []
+        pred_props = []
         prop_abvr = []
         for prop in list(PROPERTIES.keys()):
             if search_form[prop].data:
                 props_to_search.append(PROPERTIES[prop])
+                pred_props.append(PROPERTIES[prop])
                 prop_abvr.append(prop)
+        props_to_search = ['properties.{}'.format(p)
+                            for p in props_to_search]
 
-        # Add prefix for user input of predictions/experimental
+        # Add predicted values to results if viewer clicked box
         if search_form.show_predictions.data:
-            props_to_search = ['pred_properties.{}'.format(p)
-                               for p in props_to_search]
-        else:
-            props_to_search = ['properties.{}'.format(p)
-                               for p in props_to_search]
+            props_to_search.extend(['pred_properties.{}'.format(p)
+                                    for p in pred_props])
 
         # Assemble query
         for prop in props_to_search:
@@ -113,23 +114,6 @@ def index():
         # Sort by CAS, ascending
         results = sorted(results, key=lambda r: int(r[u'cas'].split('-')[0]))
 
-        class SearchResults(Table):
-            ''' SearchResults: flask_table.Table child object, houses compound
-            information to be displayed in web app's results section
-
-            Args:
-                list: each element is a dictionary with keys corresponding to
-                    object attributes, values are database values
-            '''
-
-            iupac_name = Col('IUPAC Name')
-            cas = Col('CAS #')
-            isomeric_smiles = Col('SMILES')
-            molecular_formula = Col('Formula')
-            for prop in list(PROPERTIES.keys()):
-                if search_form[prop].data:
-                    locals()[prop] = Col(prop.upper())
-
         # Format results, one dict per result
         formatted_results = []
         for result in results:
@@ -146,42 +130,62 @@ def index():
             }
             # Gather queried property values
             for idx, prop in enumerate(props_to_search):
-                try:
-                    prop_split = prop.split('.')
-                    result_dict[prop_abvr[idx]] = result[prop_split[0]][
-                        prop_split[1]]['value']
-                except KeyError:
-                    result_dict[prop_abvr[idx]] = ''
+                key1, key2 = prop.split('.')
+                if 'pred' in key1:
+                    result_dict['pred_' + key2] = result[key1][key2]['value']
+                else:
+                    result_dict[key2] = result[key1][key2]['value']
             formatted_results.append(result_dict)
 
         # If search was performed, display it
         if search_form.submit_search.data:
+
+            class SearchResults(Table):
+                ''' SearchResults: flask_table.Table child object, houses compound
+                information to be displayed in web app's results section
+
+                Args:
+                    list: each element is a dictionary with keys corresponding to
+                        object attributes, values are database values
+                '''
+
+                iupac_name = Col('IUPAC Name')
+                cas = Col('CAS #')
+                isomeric_smiles = Col('SMILES')
+                molecular_formula = Col('Formula')
+                for prop in props_to_search:
+                    key1, key2 = prop.split('.')
+                    if 'pred' in key1:
+                        key2 = 'pred_' + key2
+                    locals()[key2] = Col(key2.title().replace('_', ' '))
+
             flash('Compounds found: {}'.format(num_compounds))
             table = SearchResults(formatted_results)
             return render_index(table)
 
-        # If CSV was requested, create temporary file, have user download it
-        elif search_form.submit_csv.data:
-            temp_file = NamedTemporaryFile(suffix='.csv', mode='w',
-                                           delete=False)
-            csv_keys = ['iupac_name', 'cas', 'molecular_formula',
-                        'isomeric_smiles', 'canonical_smiles', 'cid', 'inchi',
-                        'inchikey']
-            csv_keys.extend(prop_abvr)
-            writer = DictWriter(temp_file, csv_keys, delimiter=',',
-                                lineterminator='\n')
-            writer.writeheader()
-            writer.writerows(formatted_results)
-            temp_file.close()
+        # # If CSV was requested, create temporary file, have user download it
+        # CURRENTLY BROKEN, TEMPORARY FIX IS A FULL-DATABSE CSV DOWNLOAD
+        # elif search_form.submit_csv.data:
+        #     temp_file = NamedTemporaryFile(suffix='.csv', mode='w',
+        #                                    delete=False)
+        #     csv_keys = ['iupac_name', 'cas', 'molecular_formula',
+        #                 'isomeric_smiles', 'canonical_smiles', 'cid', 'inchi',
+        #                 'inchikey']
+        #     csv_keys.extend(prop_abvr)
+        #     writer = DictWriter(temp_file, csv_keys, delimiter=',',
+        #                         lineterminator='\n')
+        #     writer.writeheader()
+        #     writer.writerows(formatted_results)
+        #     temp_file.close()
 
-            with open(temp_file.name, 'r') as csv_file:
-                content = csv_file.read()
-            csv_file.close()
-            return Response(content, mimetype='text/csv', headers={
-                'Content-Disposition':
-                'attachment;filename=combustdb_results.csv'
-            })
-            unlink(temp_file.name)
+        #     with open(temp_file.name, 'r') as csv_file:
+        #         content = csv_file.read()
+        #     csv_file.close()
+        #     return Response(content, mimetype='text/csv', headers={
+        #         'Content-Disposition':
+        #         'attachment;filename=combustdb_results.csv'
+        #     })
+        #     unlink(temp_file.name)
 
         # Else, just in case
         else:
