@@ -63,6 +63,10 @@ def index():
             if search_form[prop].data:
                 props_to_search.append(PROPERTIES[prop])
                 pred_props.append(PROPERTIES[prop])
+        if search_form.show_predictions.data:
+            props_to_search.extend(
+                [f'pred_properties.{p}' for p in pred_props]
+            )
         props_to_search = [f'properties.{p}' for p in props_to_search]
         for prop in props_to_search:
             query[prop] = {'$exists': True}
