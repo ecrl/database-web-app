@@ -15,4 +15,4 @@ $ docker compose up -d
 
 After composing, the *ecrl-db-mongo-seed* container can be removed.
 
-If containers are created locally, the web app is available at *http://localhost:8080*. For more complex applications I assume you know what you're doing.
+If containers are created locally, the web app is available at *http://localhost:8080* and the MongoDB server is available at *mongodb://localhost:27017*. For more complex deployments I assume you know what you're doing.
