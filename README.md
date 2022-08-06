@@ -1,6 +1,6 @@
 # ECRL's database/web-app
 
-A comprehensive database of combustion properties for over 1000 compounds that can be run locally or in the cloud. All you need is Docker.
+A comprehensive database of combustion properties for over 1,200 compounds that can be run locally or in the cloud. All you need is Docker.
 
 https://database.uml-ecrl.org/
 
