@@ -7,6 +7,7 @@ class Config(object):
 PROPERTIES = {
     'Cetane number': 'cetane_number',
     'Yield sooting index': 'ysi_unified',
+    'Lower heating value': 'lower_heating_value',
     'Motor octane number': 'motor_octane_number',
     'Research octane number': 'research_octane_number',
     'Octane sensitivity': 'octane_sensitivity',
