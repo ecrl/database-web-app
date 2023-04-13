@@ -19,7 +19,6 @@ class MoleculeSearch(FlaskForm):
         ('molecular_formula', 'Molecular Formula'),
         ('isomeric_smiles', 'SMILES')
     ])
-    show_predictions = BooleanField('Show Property Predictions')
     properties = list(PROPERTIES.keys())
     for prop in properties:
         locals()[prop] = BooleanField(prop)
@@ -58,15 +57,9 @@ def index():
 
         # Determine which properties are being searched for
         props_to_search = []
-        pred_props = []
         for prop in list(PROPERTIES.keys()):
             if search_form[prop].data:
                 props_to_search.append(PROPERTIES[prop])
-                pred_props.append(PROPERTIES[prop])
-        if search_form.show_predictions.data:
-            props_to_search.extend(
-                [f'pred_properties.{p}' for p in pred_props]
-            )
         props_to_search = [f'properties.{p}' for p in props_to_search]
         for prop in props_to_search:
             query[prop] = {'$exists': True}
