@@ -3,4 +3,5 @@ Flask-Bootstrap==3.3.7.1
 Flask-WTF==1.0.1
 WTForms==3.0.1
 Flask-Table==0.5.0
+Werkzeug==2.2.2
 pymongo==4.2.0
