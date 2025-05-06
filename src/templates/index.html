@@ -20,7 +20,7 @@
                 <div style="float: left; width: 100%;">
                     {{ form.search_field() }}
                 </div>
-                <div style="float: left; margin-top: 25px;">
+                <div style="float: left; margin-top: 25px; display: flex; justify-content: center;">
                     {{ form.submit_search() }}
                 </div>
                 <div style="float: left; font-weight: bold; margin-top: 25px;">
@@ -69,20 +69,9 @@
                     {% endif %}
                 {% endwith %}
             </div>
-    
-            <style>
-                table {
-                    border-collapse: separate;
-                    border-spacing: 25px 0;
-                    word-wrap: break-word;
-                }
-                td {
-                    max-width: 225px;
-                }
-            </style>
-    
+
             {% if results_table is not none %}
-                {{ results_table }}
+                {{ results_table | safe }}
             {% endif %}
         </p>
     </div>

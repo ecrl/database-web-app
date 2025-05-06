@@ -1,26 +1,32 @@
-version: '3'
 services:
-  mongo:
-    image: 'mongo:4.4.6'
-    container_name: 'ecrl-db-mongo'
+  db:
+    image: postgres:17.4-bookworm
+    container_name: postgres
+    env_file: ".env"
     ports:
-      - '27017:27017'
+      - ${POSTGRES_EXT_PORT}:5432
     volumes:
-      - ./mongo/db:/data/db
-  mongo_seed:
-    image: 'mongo:4.4.6'
-    container_name: 'ecrl-db-mongo-seed'
-    links:
-      - mongo
-    volumes:
-      - ./mongo:/mongo
-    command: /mongo/import.sh
-  web:
-    depends_on:
-      - 'mongo'
-    container_name: 'ecrl-db-web'
+      - postgres_data:/var/lib/postgresql/data
+    restart: unless-stopped
+    healthcheck:
+      test: [ "CMD-SHELL", "pg_isready -d postgres -U ${POSTGRES_USER}" ]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+  app:
     build: .
-    environment:
-      - MONGODB_CONNSTRING=mongodb://mongo:27017
+    image: 'molecule-database-app'
+    container_name: 'molecule-database-app'
+    env_file: ".env"
+    restart: always
     ports:
-      - '8080:8080'
+      - '8000:8000'
+    depends_on:
+      - db
+
+volumes:
+  postgres_data:
+
+networks:
+  default:
+    driver: bridge
