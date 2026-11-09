@@ -5,3 +5,7 @@ gunicorn==23.0.0
 pandas==2.2.3
 psycopg2-binary==2.9.10
 sqlalchemy==2.0.40
+# pandas leaves numpy unpinned. numpy 2.4 raised its x86 baseline to
+# x86-64-v2 (SSE4.2/POPCNT); the production VM's CPU (Proxmox kvm64) lacks
+# it, and the app dies on import. Lift this once the VM CPU type is upgraded.
+numpy<2.4
