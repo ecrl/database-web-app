@@ -1,15 +1,22 @@
 services:
+  # Optional Postgres backend. Off by default: the app runs on SQLite
+  # (src/config.py). To use it, put POSTGRES_USER / POSTGRES_PASSWORD /
+  # POSTGRES_EXT_PORT and DATABASE_URL=postgresql://... (host `db`) in .env and
+  # run `docker compose --profile postgres up -d --build`. Without a
+  # POSTGRES_PASSWORD the image refuses to initialise its volume and restarts
+  # forever, which is what happened when it started by default.
   db:
     image: postgres:17.4-bookworm
     container_name: postgres
+    profiles: ["postgres"]
     env_file: ".env"
     ports:
-      - ${POSTGRES_EXT_PORT}:5432
+      - ${POSTGRES_EXT_PORT:-5432}:5432
     volumes:
       - postgres_data:/var/lib/postgresql/data
     restart: unless-stopped
     healthcheck:
-      test: [ "CMD-SHELL", "pg_isready -d postgres -U ${POSTGRES_USER}" ]
+      test: [ "CMD-SHELL", "pg_isready -d postgres -U ${POSTGRES_USER:-postgres}" ]
       interval: 30s
       timeout: 10s
       retries: 5
@@ -17,12 +24,17 @@ services:
     build: .
     image: 'molecule-database-app'
     container_name: 'molecule-database-app'
-    env_file: ".env"
+    # Optional: DATABASE_URL, SECRET_KEY (needs Docker Compose 2.24+).
+    env_file:
+      - path: ".env"
+        required: false
     restart: always
     ports:
       - '8000:8000'
     depends_on:
-      - db
+      db:
+        condition: service_started
+        required: false   # only when the postgres profile is on
 
 volumes:
   postgres_data:
