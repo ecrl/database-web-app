@@ -30,8 +30,6 @@ def index():
 
     if search_form.validate_on_submit():
 
-        db = next(get_db())
-
         search_string = search_form.search_string.data
         search_field = search_form.search_field.data
 
@@ -40,12 +38,13 @@ def index():
             if search_form[prop].data:
                 props_to_search.append(PROPERTIES[prop])
 
-        query = db.query(Molecule)
-        if search_string != "":
-            query = query.filter(literal_column(search_field) == search_string)
-        for prop in props_to_search:
-            query = query.filter(text(f"properties->'{prop}' IS NOT NULL"))
-        results = query.all()
+        with get_db() as db:
+            query = db.query(Molecule)
+            if search_string != "":
+                query = query.filter(literal_column(search_field) == search_string)
+            for prop in props_to_search:
+                query = query.filter(text(f"properties->'{prop}' IS NOT NULL"))
+            results = query.all()
 
         results = sorted(results, key=lambda r: int(r.cas.split("-")[0]))
         formatted_results = []

@@ -34,22 +34,22 @@ def populate_database() -> None:
     with open(molecules_json_file, "r") as jfile:
         content = json.load(jfile)
     jfile.close()
-    db = next(get_db())
-    for molecule in content:
-        if db.query(Molecule).filter_by(cas=molecule["cas"]).first() is None:
-            mol = Molecule(
-                cas=molecule["cas"],
-                cid=molecule["cid"],
-                iupac_name=molecule["iupac_name"],
-                canonical_smiles=molecule["canonical_smiles"],
-                isomeric_smiles=molecule["isomeric_smiles"],
-                inchi=molecule["inchi"],
-                inchikey=molecule["inchikey"],
-                molecular_formula=molecule["molecular_formula"]
-            )
-            if molecule.get("compound_groups"):
-                mol.compound_groups = molecule["compound_groups"]
-            if molecule.get("properties"):
-                mol.properties = molecule["properties"]
-            db.add(mol)
-            db.commit()
+    with get_db() as db:
+        for molecule in content:
+            if db.query(Molecule).filter_by(cas=molecule["cas"]).first() is None:
+                mol = Molecule(
+                    cas=molecule["cas"],
+                    cid=molecule["cid"],
+                    iupac_name=molecule["iupac_name"],
+                    canonical_smiles=molecule["canonical_smiles"],
+                    isomeric_smiles=molecule["isomeric_smiles"],
+                    inchi=molecule["inchi"],
+                    inchikey=molecule["inchikey"],
+                    molecular_formula=molecule["molecular_formula"]
+                )
+                if molecule.get("compound_groups"):
+                    mol.compound_groups = molecule["compound_groups"]
+                if molecule.get("properties"):
+                    mol.properties = molecule["properties"]
+                db.add(mol)
+                db.commit()
