@@ -24,4 +24,4 @@ in `.env`, then:
 docker compose --profile postgres up -d --build
 ```
 
-Needs Docker Compose 2.24 or newer (optional `env_file`).
+Needs Docker Compose 2.20 or newer.
